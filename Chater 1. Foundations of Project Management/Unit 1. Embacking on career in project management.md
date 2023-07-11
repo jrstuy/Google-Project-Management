@@ -268,337 +268,49 @@ See you there.
 
 
 
-## Transferable project management skills
+## Transferable可转让的,可转移的 project management skills
 
-Welcome back. Let's get right into it 
+Welcome back. Let's get right into it and explore the variety of skills you'll use. 
 
-and explore the variety of skills you'll use. 
+Have you ever-曾经 been tasked with planning a loved one's surprise-令人惊奇的 birthday party? 
 
-Have you ever been tasked with 
+There's usually a lot of pressure-压力 and responsibility, but when you get it right, it feels amazing. That's still true even if there were **a couple of**-几个 issues. Maybe the guest-客人 of honor-尊敬 arrived home earlier than expected-预料的,预期的 and nearly-几乎,差不错 ruined-毁灭 the surprise. But if you made someone feel special on their birthday you probably planned a successful project. As you chose a venue-发生地点,场所, sent out invitations, and calculated your budget based on your number of guests, you were using several-几个,数个,不同的 project management skills, like planning and organizing, managing tasks, budgeting, and controlling costs, and more. Or maybe you've never planned a party. 
 
-planning a loved one's surprise birthday party? 
+Have you ever worked in the retail-零售 space-场所, or in the service industry? 
 
-There's usually a lot of pressure 
+Then you might have experience that'll translate into the project management field, too. For example, you might have been in 
 
-and responsibility, but when you 
+charge of managing several-几个,数个,不同的 employees' schedules. To do that, you had to plan and organize which employees' work styles would complement-补充,补足 each other in a productive-多产的 way. You also had to make sure that all duties-职责 and responsibilities would be covered during-在...期间 each shift-轮班. Plus, you had to be aware-知道的,明白的 of all employees' availability. 
 
-get it right, it feels amazing. 
+Doesn't sound familiar-熟悉的? 
 
-That's still true even if there were a couple of issues. 
+Well, have you ever-曾经 had to relocate-调动,搬迁,迁移 for a new job and planned a big move? 
 
-Maybe the guest of honor arrived 
+To successfully move all of your belongings, you may have coordinated-协调,配合 friends and family to help. You would have had to budget and control costs for moving companies, boxes, and miscellaneous-各种各样的 expenses-费用. You probably packed-充满的,装满的 your boxes one room at a time and clearly-清楚地,清晰地 labeled the boxes so that you knew what each box was when you arrived at the new place. You had to manage all of these tasks simultaneously-同时地. You've likely handled several tasks like these in your lifetime. In studying project management, you'll learn to further advance-前进,进步 and sharpen-改善,提高 these skills so that you'll be equipped-装备,配备 to manage even bigger, more daunting-使人畏惧的 tasks. The abilities that helped you complete these past projects are a great **selling point**-卖点 for yourself as a future project manager. So be sure to bring up these examples in job interviews-面试,访谈 to demonstrate-证明 your skills. 
 
-home earlier than expected 
+For instance, if you're asked questions like, "Tell me about a time when you had to juggle-平衡,尽力应付 several tasks at once", or "Tell me about a time when you had to influence-影响,作用 a customer or a teammate." 
 
-and nearly ruined the surprise. 
+It's good to have examples that demonstrate-证明 your skills with time management and leadership in both your everyday life and previous workplaces. 
 
-But if you made someone feel special 
+Are you thinking about all of the skills that you already have and can use in your future project management role? 
 
-on their birthday you 
+Perfect. Up next, we'll learn more about the types of project management roles that you'll be qualified-有资格的 for after this program. We'll also discuss how to start exploring the various job opportunities **out there for you**-等着你. See you soon.
 
-probably planned a successful project. 
 
-As you chose a venue, sent out invitations, 
 
-and calculated your budget based on your number of guests, 
+## X: Path-途径 to becoming a project manager
 
-you were using several project management skills, 
+Hey everyone, my name is X. Yes, just the letter-字面确切含义. 
 
-like planning and organizing, managing tasks, 
+At Google, I'm a Program Manager for a department-部门 called Responsible Innovation-革新,创新. Most of us, in our everyday life, use program management. When you have only a couple-几个 hours left-剩余的 in a day and you have to **figure-理解 out**-弄清楚, well, do I clean-清洁,打扫 my house or do I go to the grocery-食品杂货店 store? 
 
-budgeting, and controlling costs, and more. 
+How long will each of those task takes? Those are just different elements or variations-变化,变动 of program management and project management. My path-道路,途径 to program management is pretty non-traditional-非传统的. I didn't go graduate-大学毕业 from a great college-大学. In fact, I **dropped out of**-退学 high school and I dropped out of college. So a GED-普通教育开发 is the highest credential that I have. After I dropped out of high school, I taught myself how to code. I built a whole bunch-大量 of websites, but realized, like, I didn't have the responsible skills to make me a "**mature adult**-成熟的成年人." So I ended up joining the military-军方. After spending eight years in the Army-陆军,军队, I traveled the world building apps for really big companies and governments-政府 around the world. When I came into Google, I realized-意识到 I could still be technical, but then I'm just using the skills I already have. 
 
-Or maybe you've never planned a party. 
+So how can I grow myself as a person by learning new skills? 
 
-Have you ever worked in the retail space, 
+That's when I heard about the program manager role. The program manager role at Google is super cool because it varies-不同,改变 **depending on**-取决于 which team you're on. If you're a program manager on Google Cloud, that could look very different than being a program manager in YouTube. That switch up and that change from coding all day long in front of a computer screen was something that was really, really attractive-吸引人的 to me. Some of the biggest skills from my past and my history that helped me become a program manager and make that transition from somebody who was managed by program and project managers, to actually-实际上,事实上 becoming one myself, was taking a little bit more accountability-责任,责任心 in my personal life. There's lots of things I want to learn in life. I started doing things like making schedules to practice, like, different instruments-乐器, like the **bass guitar**-贝斯吉他. 
 
-or in the service industry? 
-
-Then you might have experience that'll 
-
-translate into the project management field, too. 
-
-For example, you might have been in 
-
-charge of managing several employees' schedules. 
-
-To do that, you had to plan 
-
-and organize which employees' work styles 
-
-would complement each other in a productive way. 
-
-You also had to make sure that 
-
-all duties and responsibilities 
-
-would be covered during each shift. 
-
-Plus, you had to be aware of all employees' availability. 
-
-Doesn't sound familiar? 
-
-Well, have you ever had to relocate for a new job 
-
-and planned a big move? 
-
-To successfully move all of your belongings, 
-
-you may have coordinated friends and family to help. 
-
-You would have had to budget 
-
-and control costs for moving companies, 
-
-boxes, and miscellaneous expenses. 
-
-You probably packed your boxes one room at a time 
-
-and clearly labeled the boxes 
-
-so that you knew what each box was 
-
-when you arrived at the new place. 
-
-You had to manage all of these tasks simultaneously. 
-
-You've likely handled several tasks 
-
-like these in your lifetime. 
-
-In studying project management, 
-
-you'll learn to further advance 
-
-and sharpen these skills 
-
-so that you'll be equipped to manage even 
-
-bigger, more daunting tasks. 
-
-The abilities that helped you 
-
-complete these past projects 
-
-are a great selling point for 
-
-yourself as a future project manager. 
-
-So be sure to bring up these examples 
-
-in job interviews to demonstrate your skills. 
-
-For instance, if you're asked questions like, 
-
-"Tell me about a time when you had 
-
-to juggle several tasks at once", 
-
-or "Tell me about a time when you 
-
-had to influence a customer or a teammate." 
-
-It's good to have examples that demonstrate 
-
-your skills with time management 
-
-and leadership in both your everyday life 
-
-and previous workplaces. 
-
-Are you thinking about all of 
-
-the skills that you already have 
-
-and can use in your future project management role? 
-
-Perfect. Up next, we'll 
-
-learn more about the types of project management roles 
-
-that you'll be qualified for after this program. 
-
-We'll also discuss how to start exploring 
-
-the various job opportunities out 
-
-there for you. See you soon.
-
-
-
-## X: Path to becoming a project manager
-
-Hey everyone, my name is X. 
-
-Yes, just the letter. 
-
-At Google, I'm a Program Manager for 
-
-a department called Responsible Innovation. 
-
-Most of us, in our everyday life, use program management. 
-
-When you have only a couple hours 
-
-left in a day and you have to figure out, 
-
-well, do I clean my house or 
-
-do I go to the grocery store? 
-
-How long will each of those task takes? 
-
-Those are just different elements or 
-
-variations of program management and project management. 
-
-My path to program management is pretty non-traditional. 
-
-I didn't go graduate from a great college. 
-
-In fact, I dropped out of 
-
-high school and I dropped out of college. 
-
-So a GED is the highest credential that I have. 
-
-After I dropped out of high school, 
-
-I taught myself how to code. 
-
-I built a whole bunch of websites, 
-
-but realized, like, I didn't have 
-
-the responsible skills to make me a "mature adult." 
-
-So I ended up joining the military. 
-
-After spending eight years in the Army, 
-
-I traveled the world building apps for 
-
-really big companies and governments around the world. 
-
-When I came into Google, 
-
-I realized I could still be technical, 
-
-but then I'm just using the skills I already have. 
-
-So how can I grow myself as 
-
-a person by learning new skills? 
-
-That's when I heard about the program manager role. 
-
-The program manager role at Google is super cool 
-
-because it varies depending on which team you're on. 
-
-If you're a program manager on Google Cloud, 
-
-that could look very different than 
-
-being a program manager in YouTube. 
-
-That switch up and that change 
-
-from coding all day long in front of a computer screen 
-
-was something that was really, 
-
-really attractive to me. 
-
-Some of the biggest skills from my past and 
-
-my history that helped me become 
-
-a program manager and make that transition from somebody 
-
-who was managed by program and project managers, 
-
-to actually becoming one myself, 
-
-was taking a little bit more 
-
-accountability in my personal life. 
-
-There's lots of things I want to learn in life. 
-
-I started doing things like making schedules to 
-
-practice, like, different instruments, 
-
-like the bass guitar. 
-
-Each of my roles, 
-
-whenever I worked with a project or program manager, 
-
-I also made sure to check in with them 
-
-about why they were doing what they were doing. 
-
-I'm someone who doesn't really learn from 
-
-books if you can't tell by me dropping out of school. 
-
-So I always found somebody who was willing to teach 
-
-me why they were doing 
-
-what they were doing, because that's how I learn. 
-
-I tend to be more kinetic. 
-
-I learn as I go. Program management 
-
-to me was a natural calling. 
-
-Not because I like to run around 
-
-and tell everybody what to do, 
-
-but because I have a real 
-
-personal passion for bringing people 
-
-together and getting everybody on 
-
-the same page to move towards the same goal. 
-
-Whether that's convincing all my friends to go to 
-
-my favorite vegan spot in downtown LA, 
-
-like four times a week, 
-
-or whether that's getting us all together to resolve 
-
-conflict or to work on 
-
-an idea and collaborate on projects on the side together. 
-
-Those skills that you use in 
-
-your everyday life to keep your task 
-
-together can apply to program and 
-
-project management very easily. 
-
-You just have to be a little bit more intentional 
-
-around them and there's a lot more paperwork involved.
-
-
-
-
-
-
-
-
+Each of my roles, whenever-每当 I worked with a project or program manager, I also made sure to **check in**-登记,记录 with them about why they were doing what they were doing. I'm someone who doesn't really learn from books if you can't tell by me dropping out of school. So I always found somebody who was willing to teach me why they were doing what they were doing, because that's how I learn. I tend-倾向于 to be more kinetic-运动的,活跃的. I learn as I go. Program management to me was a natural-自然的 calling-召唤. Not because I like to run around and tell everybody what to do, but because I have a real personal passion-激情,热情 for bringing people together and getting everybody on the same page to move towards the same goal. Whether that's convincing-说服,劝服 all my friends to go to my favorite vegan-严格素食的 spot-地点,场所 in downtown-市中心的 LA, like four times a week, or whether that's getting us all together to resolve conflict-争执,争论 or to work on an idea and collaborate on projects on the side together. Those skills that you use in your everyday life to keep your task together can apply to program and project management very easily. You just have to be a little bit more intentional-故意的,蓄意的 around them and there's a lot more paperwork-文书工作 involved-忙于...的.
 
 
 
@@ -606,618 +318,423 @@ around them and there's a lot more paperwork involved.
 
 # Learning about careers in project management
 
-
-
 ## From certificate to career success
 
-Welcome back. Now that you have 
+Welcome back. Now that you have a general understanding of what a project manager does, let's focus on the types of jobs that you may be qualified-胜任的 for after completing this program. 
 
-a general understanding of what a project manager does, 
+To start, I've got a question for you. How many open roles do you think are out there for project managers? 
 
-let's focus on the types of jobs that you may be 
+Hint-提示,暗示: The answer is a very big number. Project managers are in high demand-需要,需求. 
 
-qualified for after completing this program. 
+In 2017, a study by the Project Management Institute found that by the year 2027, employers will need 87.7 million people filling-填补 project management-aligned roles. According-相应的,相符的 to that same study, the industries-行业 with the most growth are manufacturing-制造,制造业 and construction-建造业, information services and publishing, management and professional services, finance and insurance, utilities-实用工具, and oil and gas. 
 
-To start, I've got a question for you. 
+Project management plays **a big part**-很大的作用 in helping all of these industries-行业 grow. 
 
-How many open roles do you think 
+In some industries-行业, you will find the term-术语 "project manager" grouped with a more industry-specific-特定的 qualifying-达到要求 word. For example: "construction project manager" or "IT project manager," or "engineering-工程 project manager." Don't worry. These are all still-仍然 project manager roles—they're just specific-特定于 to an industry. And it's important to **keep in mind**-牢记 that the skills you learn in one industry can be applied to another industry. New projects are **popping up**-弹出 every single day. Across-遍及 all industries, we noticed that new technology is introduced-引进, which **leads to**-导致 processes-流程 changing and a need to manage those processes. So all **kinds of**-各种 companies need people like you who can tackle-应付,解决 a variety of projects from start to finish, to help them navigate-处理,引路 these changes. 
 
-are out there for project managers? 
+By now, you might have noticed-注意到 that you already have some of those skills, like organizing or planning an event, problem-solving, or even managing a budget, and you use them effectively-有效地,实际上 in your everyday life. Reflect-反映 on **some of those skills**-其中的一些技能 we mentioned-提及,说到 earlier and ask yourself, what are some of the parts of project management that **you're drawn-绘制 to**?-你被吸引到 
 
-Hint: The answer is a very big number. 
+While you may not have the answer just yet, thinking about these things can help you find suitable-适宜的,合适的 roles later. As you keep going in this program, try to keep **track of**-跟踪 the lessons and activities you prefer and the ones you didn't like as much. This will help you narrow-缩小 your choices as you search through job boards later. The beauty of project management is that you don't need to be an expert-专家 on a focused-集中,关注 technical topic— you just need to be able to manage projects. You could be a construction or technology project manager, or you could enter the healthcare-医疗保健服务 industry and work in patient-病人,患者 management. You could also enter the energy-能源 sector-部门 and act-担任 as an environmental project manager. The possibilities-可能性 are almost-几乎,差不多 endless-无止境的,无穷尽的. 
 
-Project managers are in high demand. 
+---
 
-In 2017, a study by 
+What's equally-同样地 exciting is that you could even end up with a completely different title altogether-总之. For instance, there are roles that entail-需要 a sequence of ongoing projects that are considered programs or operations in the industry. In this case, the role may not be described as a project manager, but instead something a little more evergreen-经久不衰的, like "operations manager" or "program manager." Other titles that might make sense-有意义的 for you can include "operations assistant-助理," "project assistant," "project coordinator," and "program assistant." When it **comes to**-涉及 job duties, your responsibilities-职责 might change depending on the type of company you choose. 
 
-the Project Management Institute 
+For example, the workload-工作量 and specific-具体的 tasks at a small agency-机构 will be different from those at Google. It's also important to **keep in mind**-牢记 that as the world continues to change and evolve-进化,演化, so do industries and the job opportunities you'll find there. So be sure to cast-撒 a wide-广泛的,宽的 net. You'll be able to find more and more jobs you're qualified for. **In addition to**-除此之外 being qualified for project management-related jobs, there's plenty-富裕,充裕 of other roles or paths that may interest you. Internships-实习 can sometimes be a good place to start. 
 
-found that by the year 2027, 
+An internship is a short-term-短期的 way to get hands-on-动手的,实际操作的 experience in an industry. Plus-外加,而且, internships are a great way to help boost-推动,促进 your resume-简历 and set yourself apart-与众不同的 from other candidates-候选人,申请者. One of the key benefits of internships is that you get real work experience while simultaneously-同时地 networking-建立人脉 with people in that industry. It's a win-win-双赢的,互利互惠的. 
 
-employers will need 87.7 
+Now some internships in your field might not technically be project manager roles, but a lot of roles are easily transferable. For example, something like an "events manager intern-实习生" role can become a full-time project manager position **later on**-过后. Internships aren't great for everyone's lifestyle-生活方式, but if you can make them work, they're a fantastic-极好的 option. 
 
-million people filling project management-aligned roles. 
+Another path you can take is contract work. Working for companies on a contract means you'll work with them on a project-by-project basis, but you won't be a full-time employee. This kind of work is a great way to get your **foot in the door**-成功的第一步 and build your portfolio-投资组合. Plus, it gives you the flexibility-灵活性,弹性 to try your hand at a few different projects at once, depending on the commitment-投入 level-程度 required-需要 for that. Another benefit of contracting-订立合同 is that it lets you explore different kinds of companies and project types. Since-由于 it's a temporary position-职位, you can explore what type of company is the best fit-适合 for you. Maybe you find you like working with a large or a small team, or you find you enjoy specific types of projects. And if you find a situation-工作,职位 that suits-使适合 you and the organization, your contract position might just lead to a full-time position. 
 
-According to that same study, 
+As you keep charging-冲锋 forward, try thinking about the type of job you might be interested in going after when we're done here. Every new topic you discover brings you one step closer-靠近的 to your first role in project management, and one step closer to where you want to be. 
 
-the industries with the most growth 
+In the next video, we'll learn how to identify and search for job titles best-suited-最合适的 for a project manager. We'll see you there.
 
-are manufacturing and construction, 
 
-information services and publishing, 
 
-management and professional services, 
+## Explore-考察,探索 project management roles
 
-finance and insurance, utilities, 
+> 探索项目管理的角色
 
-and oil and gas. 
+You are about to start on your path to securing-获得,得到 a high-demand-高需求 position as a project manager. One of the greatest-最好的 benefits of the project management field is that it encompasses-包含,包括 a wide variety of positions across-遍及 numerous-许多的 industries. As you complete this certification, you will acquire-获得 skills that will qualify-取得资格 you for various-各种各样的 job titles. Here, we will discuss some different project management job categories-类别 and some common-常见的 roles within those categories. We’ll also describe the great potential-潜在的,可能的 for career progression-发展 in project management, from entry-level positions to senior-较高的,高级的 program management roles, and the many opportunities in between! 
 
-Project management plays a big part in 
+> 你即将踏上通往高需求职位—项目经理的道路。项目管理领域最大的好处之一是它涵盖了许多行业的各种职位。当你完成这个认证，你将获得技能，使你有资格从事各种工作。在这里，我们将讨论一些不同的项目管理工作类别以及这些类别中的一些常见角色。我们还将描述项目管理职业发展的巨大潜力，从初级职位到高级项目管理职位，以及两者之间的许多机会!
 
-helping all of these industries grow. 
+## Project management job categories and common roles
 
-In some industries, you will 
+**Introductory-入门的,初步的-level project management roles**
 
-find the term "project manager" 
+Entry-level project management positions are a great opportunity to get your foot in the door and **learn the ins-信息网络系统 and outs of**-学习的来龙去脉 how a company operates and manages projects. The lessons you learn from these experiences are extremely valuable to your growth in project management. Some entry-level project management positions include:
 
-grouped with a more industry-specific qualifying word. 
+> 入门级项目管理职位是一个很好的入门机会，可以让你了解公司运作和管理项目的来龙去脉。
 
-For example: "construction project manager" 
+- **Junior-低的，资历较浅的 Project Manager:** Performs-执行 all aspects-方面 of being a project manager alongside-与...一起 a more experienced professional.
 
-or "IT project manager," 
+	与更有经验的专业人士一起完成项目经理的各个方面。
 
-or "engineering project manager." 
+- **Project Administrator-管理者:** Assists-协助,帮助,促进 the **rest of**-剩下的 the project team with administrative-行政的 tasks. 
 
-Don't worry. These are all still project manager roles—they're 
+	协助项目团队的其他成员完成行政工作。
 
-just specific to an industry. 
+- **Project/Program Assistant-助理,助手**: Supports team members working on a project and offers-提供 administrative support. May perform-执行 research-研究 or create training-训练,培训 documents **along with**-连同,伴随 other jobs as assigned by program leaders.
 
-And it's important to keep in mind 
+	支持团队成员在项目中工作，并提供行政支持。可能进行研究或创建培训文件以及项目领导分配的其他工作。
 
-that the skills you learn in 
+- **Project/Program Coordinator:** Participates-参加,参与 in hands-on-实际操作的 project work and administrative tasks. Works under a project manager to make sure projects are completed on time and within budget.
 
-one industry can be applied to another industry. 
+	参与实际项目工作和行政任务。在项目经理的指导下工作，确保项目在预算范围内按时完成。
 
-New projects are popping up every single day. 
+- **Project Support Specialist-专家:** Works alongside a project manager and team members to oversee-监管,监督 assigned projects. May also be responsible for training and developing employees to perform designated-任命,指定 tasks.
 
-Across all industries, we noticed 
+	与项目经理和团队成员一起监督指定的项目。也可能负责培训和发展员工执行指定的任务。
 
-that new technology is introduced, 
-
-which leads to processes 
-
-changing and a need to manage those processes. 
-
-So all kinds of companies need people like you who can tackle 
-
-a variety of projects from start to finish, 
-
-to help them navigate these changes. 
-
-By now, you might have noticed 
-
-that you already have some of those skills, 
-
-like organizing or planning an event, problem-solving, 
-
-or even managing a budget, 
-
-and you use them effectively in your everyday life. 
-
-Reflect on some of 
-
-those skills we mentioned earlier and ask yourself, 
-
-what are some of the parts of 
-
-project management that you're drawn to? 
-
-While you may not have the answer just yet, 
-
-thinking about these things can help 
-
-you find suitable roles later. 
-
-As you keep going in this program, 
-
-try to keep track of the lessons 
-
-and activities you prefer 
-
-and the ones you didn't like as much. 
-
-This will help you narrow your choices 
-
-as you search through job boards later. 
-
-The beauty of project management 
-
-is that you don't need to be 
-
-an expert on a focused technical topic— 
-
-you just need to be able to manage projects. 
-
-You could be a construction 
-
-or technology project manager, 
-
-or you could enter 
-
-the healthcare industry and work in patient management. 
-
-You could also enter the energy sector 
-
-and act as an environmental project manager. 
-
-The possibilities are almost endless. 
-
-What's equally exciting is that you could even 
-
-end up with a completely different title altogether. 
-
-For instance, there are roles that entail a sequence of 
-
-ongoing projects that are 
-
-considered programs or operations in the industry. 
-
-In this case, the role may not be 
-
-described as a project manager, 
-
-but instead something a little more evergreen, like 
-
-"operations manager" or "program manager." 
-
-Other titles that might make sense for you 
-
-can include "operations assistant," 
-
-"project assistant," 
-
-"project coordinator," and "program assistant." 
-
-When it comes to job duties, 
-
-your responsibilities might change 
-
-depending on the type of company you choose. 
-
-For example, the workload and 
-
-specific tasks at a small agency 
-
-will be different from those at Google. 
-
-It's also important to keep in mind that 
-
-as the world continues to change and evolve, 
-
-so do industries and 
-
-the job opportunities you'll find there. 
-
-So be sure to cast a wide net. 
-
-You'll be able to find more and more jobs 
-
-you're qualified for. 
-
-In addition to being qualified for 
-
-project management-related jobs, 
-
-there's plenty of other roles 
-
-or paths that may interest you. 
-
-Internships can sometimes be a good place to start. 
-
-An internship is a short-term way to 
-
-get hands-on experience in an industry. 
-
-Plus, internships are a great way to help boost 
-
-your resume and set yourself apart from other candidates. 
-
-One of the key benefits of internships 
-
-is that you get real work experience while 
-
-simultaneously networking with people 
-
-in that industry. It's a win-win. 
-
-Now some internships in your field might 
-
-not technically be project manager roles, 
-
-but a lot of roles are easily transferable. 
-
-For example, something like 
-
-an "events manager intern" role can become 
-
-a full-time project manager position later on. 
-
-Internships aren't great for everyone's lifestyle, 
-
-but if you can make them work, 
-
-they're a fantastic option. 
-
-Another path you can take is contract work. 
-
-Working for companies on a contract means you'll 
-
-work with them on a project-by-project basis, 
-
-but you won't be a full-time employee. 
-
-This kind of work is a great way to get your foot in 
-
-the door and build your portfolio. Plus, 
-
-it gives you the flexibility to try 
-
-your hand at a few different projects at once, 
-
-depending on the commitment level required for that. 
-
-Another benefit of contracting is that it lets you 
-
-explore different kinds of companies and project types. 
-
-Since it's a temporary position, 
-
-you can explore what type of 
-
-company is the best fit for you. 
-
-Maybe you find you like working with a 
-
-large or a small team, 
-
-or you find you enjoy specific types of projects. 
-
-And if you find a situation that suits 
-
-you and the organization, 
-
-your contract position might 
-
-just lead to a full-time position. 
-
-As you keep charging forward, 
-
-try thinking about the type of job you might be 
-
-interested in going after when we're done here. 
-
-Every new topic you discover brings you one 
-
-step closer to your first role in project management, 
-
-and one step closer to where you want to be. 
-
-In the next video, we'll 
-
-learn how to identify and search for 
-
-job titles best-suited for 
-
-a project manager. We'll see you there.
-
-
-
-## Explore project management roles
-
-You are about to start on your path to securing a high-demand position as a project manager. One of the greatest benefits of the project management field is that it encompasses a wide variety of positions across numerous industries. As you complete this certification, you will acquire skills that will qualify you for various job titles. Here, we will discuss some different project management job categories and some common roles within those categories. We’ll also describe the great potential for career progression in project management, from entry-level positions to senior program management roles, and the many opportunities in between! 
-
-#### **Project management job categories and common roles** 
-
-##### **Introductory-level project management roles**
-
-Entry-level project management positions are a great opportunity to get your foot in the door and learn the ins and outs of how a company operates and manages projects. The lessons you learn from these experiences are extremely valuable to your growth in project management. Some entry-level project management positions include:
-
-- **Junior Project Manager:** Performs all aspects of being a project manager alongside a more experienced professional.
-- **Project Administrator:** Assists the rest of the project team with administrative tasks. 
-- **Project/Program Assistant**: Supports team members working on a project and offers administrative support. May perform research or create training documents along with other jobs as assigned by program leaders.
-- **Project/Program Coordinator:** Participates in hands-on project work and administrative tasks. Works under a project manager to make sure projects are completed on time and within budget.
-- **Project Support Specialist:** Works alongside a project manager and team members to oversee assigned projects. May also be responsible for training and developing employees to perform designated tasks.
-
-##### **Traditional project management roles**
+**Traditional-传统的 project management roles**
 
 Once you have gained some experience in introductory-level positions, you can explore traditional project management roles, such as:
 
-- **Project Manager:** Responsible for the initiating, planning, executing, monitoring, and closing of a project. Includes industry-specific titles like IT project manager, construction project manager, or engineering project manager, which utilize skills that are transferable among industries.
-- **Project Analyst:** Moves a project along by sharing information, providing support through data analysis, and contributing to strategy and performance. 
-- **Project Leader/Director:** Drives core decision-making and sets the direction for the project. Usually knowledgeable about the product or deliverable. 
-- **Project Controller:** Primarily responsible for project planning. You are likely to see this job title in industries like engineering and construction.
-- **Technical Project Manager:** Conducts project planning and management for identified goals within a company. Ensures that projects are completed to the requirements within a defined time frame and budget.
-- **Project Management Office (PMO) Analyst:** Manages the progress of complex projects to ensure timely execution and completion. 
+一旦你在入门级职位上获得了一些经验，你就可以探索传统的项目管理角色，例如:
 
-##### **Program and portfolio management roles**
+- **Project Manager:** Responsible for the initiating-开始实施,发起, planning, executing, monitoring, and closing of a project. Includes industry-specific-特定行业的 titles like IT project manager, construction project manager, or engineering project manager, which utilize-利用,使用 skills that are transferable-可转移的 among-在...当中 industries.
 
-As you have learned, project managers are responsible for the day-to-day management of projects. They shepherd projects from start to finish and serve as a guide for their team. Project managers must apply the right tools, techniques, and processes to complete the project successfully, on time, and within budget. 
+	负责项目的启动、计划、执行、监控和结束。包括特定行业的头衔，如IT项目经理、建筑项目经理或工程项目经理，这些头衔利用的技能可以在不同行业之间转移。
 
-After you have carried out projects successfully and feel you are ready for a step up in responsibility, a program manager position may be the next step for you. While a project is one single-focused endeavor, a **program** is a collection of projects. Program managers are responsible for managing many projects. At Google, all project managers are called program managers because they manage multiple projects simultaneously. 
+- **Project Analyst-分析者:** Moves a project along by sharing information, providing support through data analysis-分析, and contributing to strategy and performance-性能. 
 
-Successfully implementing programs as a program manager can eventually make you a great fit for more senior positions, such as a senior program manager or a portfolio manager. A **portfolio** is a collection of projects and programs across an entire organization. Portfolio managers are responsible for portfolios of projects or programs for one client. Over the course of your career, you might progress from project manager to program manager to portfolio manager roles.
+	通过共享信息、通过数据分析提供支持以及为策略和性能做出贡献来推动项目。
+
+- **Project Leader/Director-项目组长/主管:** Drives-驱动 core decision-making-决策 and sets the direction-方向 for the project. Usually-通常地,经常地 knowledgeable-知识渊博的 about the product or deliverable-可交付成果. 
+
+	推动核心决策并为项目设定方向。通常对产品或可交付产品非常了解。
+
+- **Project Controller-项目主管:** Primarily-主要地 responsible for project planning. You are likely to see this job title in industries like engineering and construction.
+
+	主要负责项目策划。你可能会在工程和建筑等行业看到这个职位。
+
+- **Technical Project Manager:** Conducts-实施 project planning and management for identified goals within a company. Ensures that projects are completed to the requirements within a defined time frame and budget.
+
+	为公司内确定的目标进行项目计划和管理。确保项目在规定的时间和预算内按要求完成。
+
+- **Project Management Office (PMO) Analyst:** Manages the progress-进展 of complex-复杂的 projects to ensure timely-及时的,适时的 execution and completion. 
+
+	管理复杂项目的进度，确保及时执行和完成。
+
+---
+
+**Program and portfolio-投资组合 management roles**
+
+> 项目和投资组合管理角色
+
+As you have learned, project managers are responsible for the day-to-day-日常的 management of projects. They shepherd-带领,引领 projects from start to finish and serve as a guide-向导 for their team. Project managers must apply the right tools, techniques, and processes to complete the project successfully, on time, and within budget. 
+
+> 正如您所了解的，项目经理负责项目的日常管理。他们从头到尾管理项目，并作为团队的向导。项目经理必须运用正确的工具、技术和过程来成功地、按时地、在预算范围内完成项目。
+
+After you have **carried out**-执行,实施 projects successfully and feel you are ready for a **step up**-加快,提高 in responsibility, a program manager position may be the next step for you. While a project is one single-focused endeavor-努力,尽力, a **program** is a collection of projects. Program managers are responsible for managing many projects. At Google, all project managers are called program managers because they manage multiple projects simultaneously-同时地. 
+
+> 当你成功地完成了一些项目，并且觉得自己已经准备好承担更多的责任后，项目经理的职位可能是你的下一步。项目是一个单一焦点的努力，而程序是项目的集合。项目经理负责管理许多项目。在Google，所有的项目经理都被称为项目经理，因为他们同时管理多个项目。
+
+Successfully implementing programs as a program manager can eventually-最终,结果 make you **a great fit-适合 for**-非常适合 more senior positions, such as a senior program manager or a portfolio manager. A **portfolio** is a collection of projects and programs across an entire-全部的,整个的 organization. Portfolio managers are responsible for portfolios of projects or programs for one client. Over the course of your career, you might progress-进步 from project manager to program manager to portfolio manager roles.
+
+> 作为一个项目经理成功地实施项目，最终会使您非常适合更高级的职位，例如高级项目经理或投资组合经理。投资组合是横跨整个组织的项目和计划的集合。投资组合经理负责一个客户的项目或计划的投资组合。在您的职业生涯中，您可能从项目经理晋升到项目经理，再到项目组合经理。
 
 While project, program, and portfolio managers hold different types and levels of responsibility, they are all project managers. In Course 4 of this certificate program, you will learn more about differentiating projects, programs, and portfolios.
 
+> 虽然项目、规划和投资组合经理拥有不同类型和级别的责任，但他们都是项目经理。在本证书课程的课程4中，您将了解更多关于区分项目，计划和投资组合的信息。
 
+![](img/1.png)
 
-![Graphic of project manager > program manager > portfolio manager](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/EBTy61fHRGSU8utXx-Rkdw_8a0eb610f69448eeb2c9969d86b70f92_Google_Readings_Stills_PGM_C6-Resume-Graphics-1-.png?expiry=1688169600000&hmac=rRTg1WmxcBZ2HZQpHkjHPGaSKlO-vSeZCyJI_rJXm4Y)
+- **Program managers:** Manage a group of projects that are related or similar to one another and handle the coordination of these projects. They facilitate-促进,推动 effective-有效的,起作用的 communication-交流,通讯 between individual-单独的 project managers and provide support where necessary-必要的,必需的. They also help create and manage **long-term**-长期的 goals for their organization.
 
-- **Program managers:** Manage a group of projects that are related or similar to one another and handle the coordination of these projects. They facilitate effective communication between individual project managers and provide support where necessary. They also help create and manage long-term goals for their organization.
-- **Portfolio managers**: Responsible for managing a group of related programs within the same organization. They coordinate various programs in order to ensure they are on track and that the organization is meeting its strategic initiatives. Portfolio managers look at all projects and programs within the organization and prioritize work as necessary. 
+	> 管理一组彼此相关或相似的项目，并处理这些项目的协调。他们促进各个项目经理之间的有效沟通，并在必要时提供支持。他们还帮助创建和管理组织的长期目标。
 
-##### **Operational management roles** 
+- **Portfolio managers**: Responsible for managing a group of related programs within the same organization. They coordinate various programs **in order to**-为了 ensure they are on track and that the organization is meeting-满足 its strategic-战略（性）的,策略（上）的 initiatives-积极性,主动权. Portfolio managers look at all projects and programs within the organization and prioritize-按优先顺序列出,优先考虑 work as necessary. 
 
-In operational management roles, you will get the opportunity to experience several different departments and how they interact and operate. Operational management roles allow you to work alongside peers and management from various business segments, giving you an appreciation for what each segment does on a daily basis. Key elements of project management include making sure a project is on budget and on schedule. This course, and your experience as a project manager, will give you the tools to be able to apply those skills to running a business. Some operational management positions include:
+	> 负责管理同一组织内的一组相关项目。他们协调各种计划，以确保它们在轨道上，并确保组织满足其战略计划。项目组合经理查看组织内的所有项目和规划，并根据需要对工作进行优先排序。
 
-- **Operations Analyst:** Manages and coordinates research, investigates workflows, creates business procedures, and recommends changes to improve the project and company. 
-- **Operations Manager:** Oversees strategic decision-making and rolls out plans of action based on financial, schedule, and resource reporting. 
-- **Chief Operating Officer:** Responsible for overseeing the day-to-day administrative and operational functions of a business.
 
-##### **Agile roles**
 
-We will discuss the Agile project management approach in depth later, but here are a couple of the positions you may see that are related to that approach:
+**Operational management roles** 
 
-- **Scrum Master:** Coordinates and guides the Scrum team. Knowledgeable in Agile framework and Scrum and is able to teach others about the Scrum values and principles. May also be listed as a Technical Program Manager or Technical Project Manager. 
-- **Product Owner:** Drives the direction of product development and progress. 
+> 运营管理角色
 
-##### **Industry-specific management roles**
+In operational management roles, you will get the opportunity to experience several different departments and how they interact-相互交流 and operate-运行,运营. Operational management roles allow you to work alongside-在旁边 peers and management from various business segments, giving you an appreciation for what each segment does on a daily basis. Key elements-要素,元素 of project management include making sure a project is on budget and on schedule. This course, and your experience as a project manager, will give you the tools to be able to apply those skills to running a business. Some operational management positions include:
 
-As you search for project management roles, you may see positions with titles like “engineering project manager” or “construction project manager.” Keep in mind that the skills you learn in one industry can be applied to another industry. For example, you may have experience as a software engineer but are interested in pursuing a career in project management. You will be able to apply what you’ve learned working in a technical field, as well as with the skills you have picked up in this certification course, to a project manager position in multiple industries. Having experience working on a team to achieve a task and understanding how to execute an effort on schedule and on budget are aspects of your professional experience—combined with your project management knowledge—that make it possible for you to move between industries.
+> 在运营管理岗位上，你将有机会体验几个不同的部门，以及它们是如何相互作用和运作的。运营管理角色允许您与来自不同业务部门的同事和管理层一起工作，让您了解每个部门每天的工作情况。项目管理的关键要素包括确保项目按预算和进度进行。本课程和您作为项目经理的经验将为您提供能够将这些技能应用于经营业务的工具。一些运营管理职位包括:
 
+- **Operations Analyst:** Manages and coordinates research, investigates-调查 workflows, creates business procedures-步骤,程序, and recommends changes to improve-改善 the project and company. 
 
+	> 管理和协调研究，调查工作流程，创建业务流程，并建议更改以改进项目和公司。
 
-![Image of project manager with a chart and an audience](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/zZBS8CuET6SQUvArhO-k_w_2b4e23d26e9f43f2a94c14d29b19c05d_Copy-of-UX_C4M4L1R2part1_D-1-.png?expiry=1688169600000&hmac=_11lcCpmFIl29OFSeRRL9vCPZWkQb98rSkfZ-G-q6bA)
+- **Operations Manager:** Oversees-监管,监督 strategic-战略（性）的,策略（上）的 decision-making-决策 and rolls out plans of action based on financial-财政的, schedule-进度, and resource reporting. 
 
-##### **Key takeaway**
+	> 监督战略决策，并根据财务、进度和资源报告制定行动计划。
 
-Project management is a career path with a great deal of potential! 
+- **Chief-首席的 Operating Officer - 首席运营官:** Responsible for overseeing the day-to-day administrative-管理的,行政的 and operational functions-职责 of a business.
 
-With each step along your career path, you are building yourself up to be a significant contributor to any company. We have discussed a number of possible job titles for you to search for when you start exploring project management roles. Regardless of the industry in which you currently work, you have gained **transferable skills**. Transferable skills are abilities that can be used in many different jobs and career paths. Your transferable skills can likely be utilized in project management roles in many other industries. 
+	> 负责监督企业的日常行政和运营职能。
 
+**Agile roles**
 
+> 敏捷的角色
 
-## Finding the perfect role
+We will discuss the Agile project management approach-方法 in depth later, but here are a couple of the positions you may see that are related to that approach:
 
-Hi again! Let's discuss how to search 
+> 我们将在后面深入讨论敏捷项目管理方法，但这里有一些你可能会看到的与该方法相关的职位
 
-for a job in the project management field. 
+- **Scrum Master-敏捷教练:** Coordinates and guides the Scrum team. Knowledgeable-知识渊博的 in Agile framework and Scrum and is able to teach others about the Scrum values and principles. May also be listed as a Technical Program Manager or Technical Project Manager. 
 
-It's no secret that job searching can be a challenge. 
+	> 协调和指导Scrum团队。熟悉敏捷框架和Scrum，能够向他人传授Scrum的价值和原则。也可能被列为技术项目经理或技术项目经理。
 
-Even the most detailed, 
+- **Product Owner:** Drives-驱动 the direction-目标 of product development and progress. 
 
-specific job listings can leave you 
+	> 驱动产品发展的方向和进步。
 
-wondering what the company is 
+**Industry-specific management roles**
 
-really seeking in a candidate. 
+> 特定行业的管理角色
 
-Don't worry, we've all been there, and we're here to help 
+As you search for project management roles, you may see positions with titles like “engineering project manager” or “construction project manager.” Keep in mind that the skills you learn in one industry can be applied to another industry. For example, you may have experience as a software engineer but are interested in pursuing-追求 a career in project management. You will be able to apply what you’ve learned working in a technical field, as well as with the skills you have **picked up**-拾起 in this certification course, to a project manager position in multiple industries. Having experience working on a team to achieve a task and understanding how to execute an effort-努力 on schedule and on budget are aspects of your professional experience—combined with your project management knowledge—that make it possible for you to move between industries.
 
-you sort through the lingo and the confusion. 
+> 当你搜索项目管理职位时，你可能会看到诸如“工程项目经理”或“建筑项目经理”之类的职位。记住，你在一个行业学到的技能可以应用到另一个行业。例如，你可能有软件工程师的经验，但对项目管理方面的职业感兴趣。您将能够将您在技术领域学到的知识以及在本认证课程中获得的技能应用于多个行业的项目经理职位。拥有在团队中完成任务的工作经验，以及了解如何在时间表和预算内执行工作，这些都是你专业经验的方面，加上你的项目管理知识，使你有可能在不同行业之间移动。
 
-The more job listings you find, 
+<img src="img/2.png" style="zoom: 25%;" />
 
-the more buzzwords you'll likely notice, too— 
+**Key takeaway-要点**
 
-words like "data-driven," "team player," "self-starter." 
+> 关键要点
 
-Understanding all the buzzwords in 
+Project management is a career path with a great deal of potential-潜在的,可能的! 
 
-job listings will help 
+> 项目管理是一条极具潜力的职业道路!
 
-figure out if a job is right for you. 
+With each step along your career path, you are building yourself up to be a significant-重要的 contributor to any company. We have discussed a number of possible job titles for you to search for when you start exploring project management roles. Regardless-不管怎样 of the industry in which you currently work, you have gained **transferable skills**. Transferable skills are abilities that can be used in many different jobs and career paths. Your transferable skills can likely-很可能 be utilized in project management roles in many other industries. 
 
-Up to now, we've discussed project management as a role, 
+> 在你职业道路上的每一步，你都在把自己塑造成对任何公司都有重要贡献的人。当你开始探索项目管理角色时，我们已经讨论了一些可能的职位名称供你搜索。无论你目前在哪个行业工作，你都获得了可转移的技能。可转移技能是指可以在许多不同的工作和职业道路上使用的能力。你的可转换技能很可能在许多其他行业的项目管理角色中得到利用。
 
-but many companies actually list it as 
 
-a skill. Here's some more good news. 
 
-You'll soon be qualified for 
+## Finding the perfect-完美的 role
 
-a position as a project manager, 
+Hi again! Let's discuss how to search for a job in the project management field. It's no secret that job searching can be a challenge. Even the most detailed, specific job listings can leave you wondering-想知道 what the company is really seeking-寻找,寻求 in a candidate-候选人,申请者. Don't worry, we've all been there, and we're here to help you **sort through**-整理,筛选 the lingo-行话,术语 and the confusion-困惑,不明确. The more job listings you find, the more buzzwords-流行行话 you'll likely notice-注意,察觉, too— words like "data-driven," "team player," "self-starter-积极主动."
 
-and a position that lists project management as a skill. 
+> 让我们讨论一下如何在项目管理领域找工作。众所周知，找工作是一项挑战。即使是最详细、最具体的职位列表也会让你想知道公司到底想从候选人身上得到什么。别担心，我们都有过这种经历，我们是来帮你理清行话和困惑的。你找到的工作清单越多，你可能也会注意到更多的流行语— 比如"数据驱动" "团队合作" "积极主动"。
 
-Here's the even better news. 
+Understanding all the buzzwords in job listings will help **figure out**-理解,弄清楚 if a job is right for you. Up to now, we've discussed project management as a role, but many companies actually list it as a skill. Here's some more good news. You'll soon be qualified for a position as a project manager, and a position that lists-把……列入名单 project management as a skill. Here's the even better news. If you have the skills to manage projects, you'll be qualified for program manager or operational roles that require-需要 you to manage an end-to-end-端对端的 system or department, too, which asks for the same skill set. 
 
-If you have the skills to manage projects, 
+> 了解招聘清单上的所有流行语将有助于确定一份工作是否适合你。到目前为止，我们把项目管理作为一个角色来讨论，但实际上很多公司把它列为一种技能。这里还有一些好消息。你很快就能胜任项目经理的职位，而且这个职位将项目管理列为一项技能。这里有一个更好的消息。如果你有管理项目的技能，你将有资格担任项目经理或操作角色，这些角色也需要你管理端到端系统或部门，这也需要同样的技能集。
 
-you'll be qualified for 
+Now, let's check out different types of jobs that use your project management skills. When job hunting-搜寻,搜索, keep your options open. As I just mentioned-提到,说起, you don't have to limit yourself to just project manager titles. There's lots of other titles you're qualified for, too. You'll know what's a good fit-适合 for you by reading the job descriptions, so cast-将（视线，目光）投向 a wide net. 
 
-program manager or operational roles 
+> 现在，让我们来看看不同类型的工作，使用你的项目管理技能。找工作时，要留有余地。正如我刚才提到的，你不必把自己限制在项目经理的头衔上。还有很多其他的头衔你也能胜任。通过阅读职位描述，你会知道什么是最适合你的，所以要广泛撒网。
 
-that require you to manage an end-to-end 
+Depending on the field you choose, you might find roles like Operations Manager, Program Manager, Operations Associate, or Project Assistant. All of these could be a great fit for your skills. For example, let's say you're searching a job board for project management roles when you notice a Community-社区,社会 Operations Manager role for a small city open up. The job title isn't project manager, but you'll notice that the job functions-功能,职责 match your skill set, and your years of experience also match the job requirements. The job description may include a list of required-必需的,需要的 skills like organizational management, strong-健壮的 planning and communication skills, budget preparation and monitoring. 
 
-system or department, too, 
+> 根据您选择的领域，您可能会找到像运营经理、项目经理、运营助理或项目助理这样的角色。所有这些都可能非常适合你的技能。例如，假设您正在招聘板上搜索项目管理职位，这时您注意到一个小城市的社区运营经理职位空缺。这个职位的头衔不是项目经理，但你会注意到工作职能与你的技能相匹配，你多年的经验也符合工作要求。职位描述可能包括一系列所需的技能，如组织管理、强大的计划和沟通技巧、预算准备和监督。
 
-which asks for the same skill set. 
+Sound familiar-熟悉的,常见的? Maybe you'll even start to notice that the job's responsibilities seem-似乎,看来 like tasks you've covered in this course, like creating monthly status reports, helping to implement new and necessary technologies, tracking work plans and performance-业绩 metrics, assisting-协助 other members of the operations team on given projects, and ensuring timely-及时的,适时的 responses to requests for information. These duties are nearly a perfect-完美的,无瑕的 match for your project management skills, and there are plenty-富裕,充裕 more listings like these, too. 
 
-Now, let's check out different types of jobs 
+> 听起来是不是很熟悉?也许你甚至会开始注意到，这份工作的职责看起来就像你在本课程中所涉及的任务，比如创建月度状态报告，帮助实施新的和必要的技术，跟踪工作计划和绩效指标，协助运营团队的其他成员完成给定的项目，并确保及时响应信息请求。这些职责几乎与你的项目管理技能完美匹配，而且还有很多类似的清单。
 
-that use your project management skills. 
+How great-很棒地 is that? 
 
-When job hunting, keep your options open. 
+The skills that go into project management are used in all kinds of roles and professions-职业. Believe it or not, we've all worked with or learned from a project manager at some point in the past. 
 
-As I just mentioned, 
-
-you don't have to limit yourself to 
-
-just project manager titles. 
-
-There's lots of other titles you're qualified for, too. 
-
-You'll know what's a good fit for you 
-
-by reading the job descriptions, 
-
-so cast a wide net. 
-
-Depending on the field you choose, 
-
-you might find roles like Operations Manager, 
-
-Program Manager, 
-
-Operations Associate, or Project Assistant. 
-
-All of these could be a great fit for your skills. 
-
-For example, let's say you're 
-
-searching a job board for project management roles 
-
-when you notice a Community Operations Manager role 
-
-for a small city open up. 
-
-The job title isn't project manager, 
-
-but you'll notice that the job functions match your skill 
-
-set, and your years of 
-
-experience also match the job requirements. 
-
-The job description may include a list of 
-
-required skills like organizational management, 
-
-strong planning and communication skills, 
-
-budget preparation and monitoring. 
-
-Sound familiar? Maybe you'll even start to notice that 
-
-the job's responsibilities seem 
-
-like tasks you've covered in this course, 
-
-like creating monthly status reports, 
-
-helping to implement new and necessary technologies, 
-
-tracking work plans and performance metrics, 
-
-assisting other members of 
-
-the operations team on given projects, 
-
-and ensuring timely responses 
-
-to requests for information. 
-
-These duties are nearly a perfect match 
-
-for your project management skills, 
-
-and there are plenty more listings like these, too. 
-
-How great is that? 
-
-The skills that go into project management are 
-
-used in all kinds of roles and professions. 
-
-Believe it or not, we've all worked with or learned 
-
-from a project manager at some point in the past. 
+> 项目管理的技能适用于各种角色和职业。信不信由你，在过去的某个时候，我们都和项目经理一起工作过，或者从项目经理那里学过东西。
 
 Can you guess who that is? 
 
-It's your teachers! Think about it. 
+> 你能猜到那是谁吗?
 
-Everything that goes into being 
+It's your teachers! Think about it. Everything that goes into being a teacher takes project management skills: 
 
-a teacher takes project management skills: 
+> 是你的老师!想想看。作为一名教师，一切都需要项目管理技能:
 
-Designing a curriculum that's accessible to 
+Designing a curriculum-课程 that's accessible-可以理解的 to students with unique-独特的 needs; 
 
-students with unique needs; managing a budget; 
+> 设计适合有特殊需求的学生可以理解的课程;
 
-communicating with others like parents, 
+managing a budget; 
 
-department heads, or school admins; 
+> 管理预算
 
-developing processes to make things run 
+communicating with others like parents, department heads, or school admins; 
 
-efficiently in the classroom; and so on. 
+> 与他人沟通，如家长、部门主管或学校管理人员;
 
-For example, 
+developing processes to make things run efficiently-高效地 in the classroom; and so on. 
 
-when I went for my first interview at Google, 
+> 制定流程，使课堂高效运行;等等。
 
-I highlighted my experience as 
+For example, when I went-去,过去 for my first interview-面试,面谈 at Google, I highlighted my experience as the founder and advisor to a student leadership group. I told them about how I assembled-聚集 and led-领导 a team of 20 students to plan and execute events like fundraisers-资金筹集人, community gatherings-聚会, and academic-学业的,学术的 assemblies-集会 for over 300 students during the academic year. I even kind of surprised myself, looking back at how much relevant-有关的 project management experience I had. 
 
-the founder and advisor to a student leadership group. 
+> 例如，当我第一次去谷歌面试时，我强调了我作为一个学生领导小组的创始人和顾问的经历。我告诉他们，我如何组织并领导一个由20名学生组成的团队，在学年期间为300多名学生策划和执行筹款活动、社区聚会和学术集会等活动。我甚至有点惊讶自己，回顾我有这么多相关的项目管理经验。
 
-I told them about how I assembled and led a team of 
+Now, I'm sure you'll think back on your own experiences and feel the same thing. One more thing to **call out**-呼喊 is networking-建立人脉. Networking is when you meet-满足,应付 other people in a professional setting with the goal of learning, sharing knowledge, and creating new business connections. This plays a big role in job hunting-搜寻,搜索, so it is a great tool to start learning and perfecting-完美,完善. The skills you learn here will prepare you for all kinds of project management jobs. Knowing how to search for jobs will make it even easier to match those skills with the best opportunities for you.
 
-20 students to plan and execute events like fundraisers, 
+> 现在，我相信你会回想起自己的经历，并有同样的感觉。还有一点需要注意的是人际关系。网络是指你在一个专业的环境中与他人见面，目的是学习、分享知识，并建立新的业务关系。这在找工作中起着很大的作用，所以这是一个开始学习和完善的好工具。你在这里学到的技能将为你从事各种项目管理工作做好准备。知道如何寻找工作将使你更容易将这些技能与最好的机会相匹配。
 
-community gatherings, and academic assemblies for 
 
-over 300 students during the academic year. 
 
-I even kind of surprised myself, 
+## Gilbert: Project management skills in my role
 
-looking back at how much relevant 
+My name is Gilbert, and I'm a talent-人才 outreach-拓展 specialist-专家 here at Google. Talent-天赋 can mean many things; it can mean folks-人们 that have never envisioned-想象,预想 themselves at Google. And so part of our team's remit-职权范围 is to identify talent that Google or other companies may not necessarily reach out to, or consider for roles in the past and helping them navigate-导航,引路 the interview process. That could also mean candidates-候选人,申请者 that are already interested or have expressed interest in opportunities at Google in the past, and engaging-吸引 them to support them through the interview process today. 
 
-project management experience I had. 
+> 我叫吉尔伯特，是谷歌的一名人才拓展专家。天赋可以意味着很多东西;它可能意味着那些从未想过自己会在谷歌工作的人。因此，我们团队的职责之一就是找出谷歌或其他公司过去不一定会接触或考虑的人才，并帮助他们顺利度过面试过程。这也可能意味着候选人过去已经对谷歌的机会感兴趣或表示有兴趣，并在今天的面试过程中与他们接触，以支持他们。
 
-Now, I'm sure you'll think back on 
+At Google you have to wear-穿,戴 the program and project management hat, regardless-不论怎样 of what role you're in. And that's definitely-肯定地,明确地 been the case for me. So in my role I've had to practice skills such as: communicating to stakeholders-利益相关者, managing a budget, managing a project timeline in many different projects within my role. 
 
-your own experiences and feel the same thing. 
+> 在谷歌，不管你是什么角色，你都必须戴上项目和项目管理的帽子。这对我来说绝对是这样。所以在我的角色中，我必须练习一些技能，比如：与利益相关者沟通，管理预算，管理我角色中许多不同项目的项目时间表。
 
-One more thing to call out is networking. 
+---
 
-Networking is when you meet other people in 
+An example of this could be organizing events for university students that come to Google's campus-校园. And hear from guest-特邀嘉宾 speakers-演讲者 about the projects we work on, the roles and their career journeys. And so as you can imagine this can be a complex-复杂的,难懂的 project. My first job out of college was completely-完全地,彻底地 unrelated-无关的,不相干的 to what I'm doing now. I was an assistant manager at a big box retailer-零售店. And so a lot of the skills that I actually learned in that role have translated to support me in my role and allowed me to have success. 
 
-a professional setting with the goal of learning, 
+> 这方面的一个例子就是为来到谷歌校园的大学生组织活动。并听取客座演讲者关于我们正在进行的项目，角色和他们的职业生涯。所以你可以想象这是一个复杂的项目。我大学毕业后的第一份工作和我现在的工作完全无关。我是一家大型零售商的副经理。因此，我在这个角色中学到的很多技能都转化为支持我的角色并使我取得成功。
 
-sharing knowledge, and creating new business connections. 
+So some of these skills are **being able to**-能够 talk to and have difficult-困难的 conversations-谈话,交谈, being able to manage a budget, managing resources, and managing your time. These are especially important in the retail-零售 setting. I started applying a lot of these project management frameworks or practices, even into the smallest projects. Maybe it's related to my goals for the next three months, setting up project plan based around that, right? I was the only stakeholder, I was the only one reviewing this documentation. But the practice of being able to do this really helped me so that when I had to do it for a project at Google with multiple stakeholders, with multiple timelines, competing-竞争,对抗 priorities-优先权. It was already second nature-天性 to me, because I even applied it just in my day to day. 
 
-This plays a big role in job hunting, 
+> 这些技能包括能够与人交谈，进行困难的交谈，能够管理预算，管理资源，管理时间。这在零售业尤为重要。我开始大量应用这些项目管理框架或实践，甚至应用到最小的项目中。也许这与我未来三个月的目标有关，并以此为基础制定项目计划，对吧？我是唯一的利益相关者，我是唯一审查这个文档的人。但是能够做到这一点的实践确实帮助了我，所以当我不得不在谷歌的一个项目中与多个利益相关者，多个时间表，竞争的优先级一起做这件事时。这已经成为我的第二天性，因为我甚至把它应用到我的日常生活中。
 
-so it is a great tool to start learning and perfecting. 
+So I think one of the biggest support that I had **as far as**-直到 working through imposter-骗子,冒名顶替者 syndrome-综合征, or lack-缺乏,不足 of confidence-自信,信心 as I stepped into a lot of these skills is really just practice. And you can practice it in many different ways, in your personal life, in your professional-职业的,专业的 life, and anything in between. 
 
-The skills you learn here will prepare you 
+> 所以我认为我最大的支持之一就是克服冒名顶替综合症，或者当我开始学习这些技能时缺乏信心，这就是练习。你可以用很多不同的方式来练习它，在你的个人生活中，在你的职业生活中，以及介于两者之间的任何事情上。
 
-for all kinds of project management jobs. 
+So that was really important for me as I've gone through this journey of up-skilling as a program and project manager. I'd say that by joining-参加 this course and stepping-采取行动 into this, you're already taking the first step. And I think that's just as important, right? Not letting fear-恐惧,害怕,畏惧,担心, or fear of failure get **in the way**-阻碍 of new opportunities for you. And the second piece is don't be afraid-担心的 to ask for help. I think that folks-人们 are generally-通常 willing-愿意的,乐意的 to help and support you. 
 
-Knowing how to search for 
+> 所以这对我来说非常重要，因为我作为一个项目和项目经理经历了这段提升技能的旅程。我想说，通过参加这门课程，你已经迈出了第一步。我觉得这也很重要，对吧？不要让恐惧或对失败的恐惧阻碍你获得新机会。第二点是不要害怕寻求帮助。我认为人们通常都愿意帮助和支持你。
 
-jobs will make it even easier to 
+So the biggest thing that you can do is **reach out**-伸出援手, and not be afraid to ask questions. Not be afraid to do an informational interview, to ask for resume-简历 tips-技巧, to ask for advice from people that are maybe already in the role that you're hoping to step into, or in the field that you're looking to work in. Just reach out to them, ask them questions. I think people like to connect-建立良好关系 with folks that are intuitive-直觉的, that are curious-好奇的 and are just eager-渴望的,渴求的 to learn. And so if you can leverage-充分利用 those two pieces, I think that you're going to have success in whatever you do.
 
-match those skills with the best opportunities for you.
+> 所以你能做的最重要的事情就是伸出援手，不要害怕问问题。不要害怕进行信息面试，向那些可能已经在你希望进入的职位上或在你希望从事的领域工作的人寻求建议。去找他们，问他们问题。所以如果你能利用这两点，我认为你无论做什么都会成功。
 
 
 
 
 
+## Using buzzwords-流行行话 in your job search
+
+> 在求职中使用流行语
+
+You now know how to start searching for project management jobs! Job searching can be a time of self-reflection-反省, growth, and excitement. Add a career path change into the mix, and it can also seem intimidating-令人紧张不安的,令人胆怯的. We are about to give you some tips to help you in your job search efforts, including introducing you to some common buzzwords and skills that commonly-通常 appear in job descriptions.
+
+> 现在您知道如何开始搜索项目管理工作了！找工作可以是自我反省、成长和兴奋的时刻。再加上职业道路的变化，这看起来也很吓人。我们将给你一些帮助你求职的建议，包括向你介绍一些经常出现在职位描述中的常见流行语和技能。
+
+**Using buzzwords and skills in your job search**
+
+> 在求职中使用流行语和技能
+
+In an earlier video, we mentioned **buzzwords**—words or phrases-短语 that are popular-受欢迎的 for a period-周期 of time or in a particular industry-行业. In today’s job market-市场, buzzwords like data-driven, **team player**-团队合作者, and self-starter-做事主动的人 are common. You may see terms like these show up throughout your searches. 
+
+> 在之前的视频中，我们提到了流行语——在一段时间内或在特定行业中流行的词汇或短语。在当今的就业市场上，像数据驱动型、团队合作型和自我激励型这样的流行语很常见。你可能会在搜索过程中看到这些术语。
+
+Similarly, many job descriptions list the specific skills they require candidates to have. These skills can become some of the terms that you use in your job search. Examples of these skills include: 
+
+> 同样，许多职位描述都列出了他们要求候选人具备的具体技能。这些技能可以成为你在找工作时用到的一些术语。这些技能的例子包括:
+
+- **Coordination-协调,配合**, or getting people and teams to work together. You may see responsibilities in job descriptions such as “coordination of efforts to achieve project deliverable” or “coordinate internal resources to ensure successful project completion.” Being a project manager is essentially-本质上,根本上 managing the coordination of resources to achieve your end goal. Coordination is one of the top skills a project manager should have, so searching for this term can lead you to appropriate-合适的,相称的 positions. 
+
+	> 协调，或让人们和团队一起工作。您可能会在职位描述中看到诸如“协调努力以实现项目可交付”或“协调内部资源以确保成功完成项目”之类的职责。作为一个项目经理，本质上是管理资源的协调，以实现你的最终目标。协调是项目经理应该具备的最重要的技能之一，所以搜索这个词可以帮你找到合适的职位。
+
+- **Organization**, or the ability to stay focused on different tasks. You may come across phrases like “solid-牢固的 organizational skills, including attention-注意力 to detail-细节 and multitasking skills” or something as simple as “highly organized.” Organization is key to being a great project manager. We will discuss many ways to sharpen-改善,提高 this skill in the upcoming-即将来临的 lessons.
+
+	> 组织能力，或者专注于不同任务的能力。你可能会遇到像“扎实的组织能力，包括对细节的关注和多任务处理能力”这样的短语，或者像“高度组织性”这样简单的短语。组织是成为一名优秀项目经理的关键。在接下来的课程中，我们将讨论许多提高这种技能的方法。
+
+- **Leadership**, or being able to lead a group of people. You may see phrases like “strong leadership qualities” or “ability to lead” in job descriptions. A project manager needs to display leadership in a number of ways, including effective-有效的 planning, efficient-生效的 task coordination, inspiring-激励,guwu team members, and key **decision-making**-决策. You are working on many of the skills needed to become a great leader in this program!
+
+	> 领导力，或者能够领导一群人。你可能会在职位描述中看到“强大的领导能力”或“领导能力”这样的短语。项目经理需要在很多方面展示领导力，包括有效的计划、高效的任务协调、激励、团队成员和关键决策。在这个项目中，你正在学习成为一名优秀领导者所需的许多技能!
+
+Take a look at the skills required for this position. The job description lists each of the terms that we talked about or a variation-变化,变动 of these terms.
+
+> 看看这个职位所要求的技能。职位描述列出了我们讨论过的每个术语或这些术语的变体。
+
+![](img/4.png)
+
+You may also come across positions in your search that do not include the title “Project Manager” or any of the job titles we previously discussed, but you shouldn’t rule these positions out. In many cases, the job description will include project management experience and expectations-期待,预期, but the position may be called something else entirely-完全地,完整地. 
+
+> 你也可能会在搜索过程中遇到不包括“项目经理”或我们之前讨论过的任何职位头衔的职位，但你不应该排除这些职位。在许多情况下，职位描述将包括项目管理经验和期望，但该职位可能完全被称为其他东西。
+
+Look at some of the job responsibilities required for a position titled “Operations Associate-副手.” This position is a type of project manager. You will find that most project management-related job descriptions call for the **ability to plan**, **organize**, **monitor**, and **execute tasks**—all skills you will be able to do once you complete this certification.
+
+> 看看“运营助理”职位所要求的一些工作职责。这个职位属于项目经理的范畴。你会发现，大多数项目管理相关的工作描述都要求你具备计划、组织、监控和执行任务的能力——一旦你完成了这个认证，你就能掌握所有的技能。
+
+![](img/5.png)
+
+**Common project management buzzwords**
+
+Including buzzwords and skills in your job search can help you find jobs that are ideal-理想的 for you and your skill set. Once you have found a position you want to apply for, listing buzzwords and skills that are relevant to the position can also help recruiters-招聘人员 and hiring-雇用 managers identify you as a qualified and knowledgeable candidate-候选人，申请者. 
+
+> 在求职中加入流行语和技能可以帮助你找到最适合你和你的技能的工作。一旦你找到了你想申请的职位，列出与该职位相关的流行语和技能也可以帮助招聘人员和招聘经理确定你是一个合格的、知识渊博的候选人。
+
+Some common project management-related buzzwords and skills you could include on your resume are:
+
+- Analytical-善于分析的
+- Assertive-果断的
+- Assessing outcomes-评估结果
+- Assessing progress
+- Attention to detail
+- Conflict resolution
+- Collaborative
+- Coordination
+- Communication
+- Development
+- Evaluation
+- Executing plans
+- Financial analysis
+- Impact assessment
+- Leadership engagement
+- Managing meetings
+- Managing client expectations
+- Managing conflicts
+- Managing relationships with stakeholders
+- Managing vendors
+- Meeting deadlines
+- Monitoring
+- Multitasking
+- Planning
+- Prioritizing
+- Problem-solving
+- Process development
+- Process improvement
+- Project coordination
+- Project implementation
+- Project initialization
+- Project planning
+- Project reporting
+- Quality control
+- Risk assessment
+- Risk management
+- Solution development
+- Strategic planning
+- Strong interpersonal skills
+- Strong verbal communication
+- Strong written communication
 
 
 
+**Key takeaway-要点**
+
+> 关键要点
+
+Job searching for your first (or next) project management position can be easier if you enter the right search terms. Search for the skills you’re learning throughout this project management certificate program or skills you’ve acquired in your current or previous positions. These terms will help you determine-决定 if you have found a potential-潜在的,可能的 match. As you start your project management career, don’t let the requirement for project management experience stop you from applying for project management-adjacent-相邻的 roles. Once you have completed this certification course, you'll see how many skills you already have that can be translated and correlated-有相互关系的 to a project management role. 
+
+> 如果你输入了正确的搜索词，那么找第一份(或下一份)项目管理职位会更容易。搜索你在项目管理证书课程中学习的技能，或者你在当前或以前的职位中获得的技能。这些条件将帮助你确定你是否找到了潜在的匹配对象。当你开始你的项目管理职业生涯时，不要让项目管理经验的要求阻止你申请与项目管理相关的职位。一旦你完成了这个认证课程，你就会看到你已经拥有了多少技能，这些技能可以转化为项目管理角色。
 
 
 
 # Review: Embarking on a career in project management
 
+## Wrap-up
 
 
 
+And just like that, you're done with the first module. Congrats on hitting this exciting milestone. You're one step closer to becoming a rockstar in project management. Let's revisit the concepts we've learned so far. We started by discussing how project management is the application of knowledge, skills, tools, and techniques to meet the project requirements and achieve the desired outcome. Then we learned that project management is alive in nearly every industry and company. So you're working on an incredibly useful and versatile certification.
+
+We also learned what a project is: 
+
+A unique endeavor and temporary pursuit, carefully planned out to achieve a particular goal. Hopefully by now, you're familiar with the idea that every project has a defined time frame, cost, scope, and dedicated resources. We've covered some broad concepts and key terms that will help you become a successful project manager, and we've gone over how to search for jobs when that time comes. We've also discussed how to effectively translate your past experiences into talking points for why you'll be a successful project manager. We talked about how you can transfer skills from your previous job into your new project management role, and how that'll really set you apart. Everything from juggling a to-do list to budgeting for a loved one's birthday party demonstrates that you probably already have some of the skills to be a phenomenal project manager. But no worries if you don't. We're starting from scratch here. By the end of this course, you'll have the skills, but also the experience, and knowledge to find the role you want. Whether that's contract work, internships, or general project management positions, you'll be able to figure out what's the best fit for you. And as we go forward, I want to encourage you to keep thinking about what kind of work you might like to do in the future. 
+
+And let's not forget the most exciting news we learned about project management: just about everyone needs a project manager. This position's in high demand, and that demand just keeps growing. Wow, okay. That's a lot of ground we covered, and we've just barely scratched the surface. I hope you've enjoyed the course so far because it's about to get even more fun. Coming up, we have your first graded assignment, and I know you'll ace it. Remember, take your time and relax. Trust yourself. You've got this. Don't forget, you can always review your notes and readings or go back and rewatch some of the videos if you're unsure about an answer. Good luck, and I'll see you again soon.
 
 
 
