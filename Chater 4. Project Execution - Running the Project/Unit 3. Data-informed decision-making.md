@@ -985,70 +985,233 @@ Remember, there are a lot of data points available to you. Using signals, focusi
 
 
 
-## Data ethics considerations
+## Data ethics-行为准则,道德规范 considerations
 
-> 
+> 数据道德考虑
 
-In the previous video, you learned how to use knowledge to discern data and how signals help prioritize data. This reading will cover the importance of **data ethics** and two key principles: **data privacy** and **data bias**.
+In the previous video, you learned how to use knowledge to discern data and how signals help prioritize data.
+
+> 在之前的视频中，您学习了如何使用知识来识别数据以及信号如何帮助确定数据的优先级。
+
+This reading will cover the importance of **data ethics** and two key principles: **data privacy** and **data bias-倾向,偏差**.
+
+> 本阅读将涵盖**数据伦理**的重要性和两个关键原则:**数据隐私**和**数据偏差**。
 
 
 
 **Data ethics**
 
-As a project manager, data collection and analysis will be a key part of your projects. As you’ve learned, you’ll collect data from a variety of sources, including focus groups, interviews and questionnaires. The data you collect will usually hold **PII (personally identifiable information)**—information that could be used to directly identify, contact, or locate an individual. A lot of times, you will also need to report on the data you collect to stakeholders, customers, and your project team. Collecting, analyzing, and sharing this data in an ethical way is extremely important for maintaining the integrity of your organization, your projects, and your position.
+> 数据道德
 
-**Data ethics** is the study and evaluation of moral challenges related to data collection and analysis. This includes generating, recording, curating, processing, sharing, and using data in order to come up with ethical solutions.
+As a project manager, data collection and analysis will be a key part of your projects.
+
+> 作为项目经理，数据收集和分析将是您项目的关键部分。
+
+As you’ve learned, you’ll collect data from a variety of sources, including focus groups, interviews and questionnaires-问卷调查.
+
+> 正如你所了解的，你将从各种来源收集数据，包括焦点小组、访谈和问卷调查。
+
+The data you collect will usually hold **PII (personally identifiable information)**—information that could be used to directly identify, contact, or locate an individual-单独的,个人的.
+
+> 您收集的数据通常会包含 PII(个人身份信息)-可用于直接识别、联系或定位个人的信息。
+
+A lot of times, you will also need to report on the data you collect to stakeholders, customers, and your project team.
+
+> 很多时候，您还需要向涉众、客户和项目团队报告收集到的数据。
+
+Collecting, analyzing, and sharing this data in an ethical-道德的 way is extremely-极度,非常 important for maintaining the integrity-完整,完全 of your organization, your projects, and your position.
+
+> 以合乎道德的方式收集、分析和共享这些数据，对于维护组织、项目和职位的完整性至关重要。
+
+**Data ethics** is the study-研究,调查 and evaluation-评估 of moral-有道德的 challenges-挑战 related to data collection and analysis.
+
+> **数据伦理学**是对与数据收集和分析相关的道德挑战的研究和评估。
+
+This includes generating, recording, curating, processing, sharing, and using data in order to come up with ethical solutions.
+
+> 这包括生成、记录、整理、处理、共享和使用数据，以便提出合乎道德的解决方案。
 
 Businesses apply data ethics practices so they can:
 
-- Comply with regulations
-- Show that they are trustworthy
-- Ensure fair and reasonable data usage
-- Minimize biases
-- Develop a positive public perception
+> 企业应用数据道德实践，以便他们可以:
 
-Data ethics is rooted in several principles. In this reading, we will focus on two of these principles: **data privacy** and **data bias**.
+- Comply-遵从,服从 with regulations-规章制度,规则
+
+	> 遵守法规
+
+- Show that they are trustworthy
+
+	> 表现出他们是值得信赖的
+
+- Ensure fair and reasonable-合情理的,合适的 data usage
+
+	> 确保公平合理的数据使用
+
+- Minimize biases-偏见
+
+	> 减少偏见
+
+- Develop a positive public perception-感觉,认识
+
+	> 树立积极的公众形象
+
+Data ethics is rooted in several principles.
+
+> 数据伦理植根于几个原则。
+
+In this reading, we will focus on two of these principles: **data privacy** and **data bias**.
+
+> 在本文中，我们将重点关注其中两个原则:**数据隐私**和**数据偏差**。
+
+
 
 **Data privacy**
 
-**Data privacy** is a key part of data ethics. Data privacy deals with the proper handling of data. This includes the purpose of data collection and processing, privacy preferences, the way organizations manage personal data, and the rights of individuals. It focuses on making sure the ways we collect, process, share, archive, and delete data are all in accordance with the law.
+> 数据隐私
 
-As a project manager, it is your responsibility to protect the data you collect. You can help ensure the privacy of data collected from users, stakeholders, and others for your projects by:
+**Data privacy** is a key part of data ethics.
 
-- **Increasing data privacy awareness**. Make sure every member of your project team—plus the vendors, contractors, and other stakeholders from outside of your company—are made aware of your organization's data security and privacy protocols.
-- **Using security tools**. Free security tools, like encrypted storage solutions and password managers, can decrease your project’s vulnerability to a data breach. In a lot of applications, like ones that are part of Google Workspace and Microsoft OneDrive, privacy settings can be adjusted to only give access to specific individuals.
-- **Anonymizing data**. Data anonymization refers to one or more techniques such as blanking, hashing, or masking personal and identifying information to protect the identities of people included in the data. This helps protect individuals’ personal information by keeping them anonymous. Once the information has been anonymized, it can then be used and shared freely. Types of data that should be anonymized include names, telephone numbers, social security numbers, email addresses, photographs, and account numbers.
+> **数据隐私**是数据道德的关键部分。
+
+Data privacy **deals with**-处理,应对,涉及 the proper-正确的 handling of data.
+
+> 数据隐私涉及数据的正确处理。
+
+This includes the purpose-目的,意图 of data collection and processing-处理, privacy preferences, the way organizations manage personal data, and **the rights**-权利 of individuals.
+
+> 这包括数据收集和处理的目的、隐私偏好、组织管理个人数据的方式以及个人的权利。
+
+It focuses on making sure the ways we collect, process, share, archive, and delete data are all in accordance-按照,依据 with the law.
+
+> 它的重点是确保我们收集、处理、共享、存档和删除数据的方式都符合法律规定。
+
+As a project manager, it is your responsibility to protect the data you collect.
+
+> 作为一个项目经理，保护你收集的数据是你的责任。
+
+You can help ensure the privacy of data collected from users, stakeholders, and others for your projects by:
+
+> 您可以通过以下方式帮助确保从您的项目的用户、利益相关者和其他人那里收集的数据的隐私:
+
+- **Increasing data privacy awareness-意识,感悟能力**. Make sure every member of your project team—plus the vendors, contractors, and other stakeholders from outside of your company—are made aware of your organization's data security and privacy protocols.
+
+	> **提高数据隐私意识**。确保项目团队的每个成员——加上供应商、承包商和公司外部的其他利益相关者——都了解组织的数据安全和隐私协议。
+
+- **Using security tools**. Free security tools, like encrypted storage solutions and password managers, can decrease-减少,降低 your project’s vulnerability-弱点 to a data breach-破坏. In a lot of applications, like ones that are part of Google Workspace and Microsoft OneDrive, privacy settings can be adjusted to only give access to specific individuals.
+
+	> **使用安全工具**。免费的安全工具，如加密存储解决方案和密码管理器，可以减少你的项目对数据泄露的脆弱性。在很多应用程序中，比如谷歌Workspace和Microsoft OneDrive的一部分，隐私设置可以调整为只允许特定的个人访问。
+
+- **Anonymizing data**. Data anonymization refers to one or more techniques such as blanking-使模糊不清, hashing-散列, or masking-掩蔽,隐蔽 personal and identifying-识别 information to protect the identities-身份,特性 of people included in the data. This helps protect individuals’ personal information by keeping them anonymous. Once the information has been anonymized, it can then be used and shared freely. Types of data that should be anonymized include names, telephone numbers, social security numbers, email addresses, photographs, and account numbers.
+
+	> 匿名数据。数据匿名化是指一种或多种技术，如消隐、散列或屏蔽个人和识别信息，以保护数据中包含的人的身份。这有助于通过保持匿名来保护个人信息。一旦信息被匿名化，它就可以被自由使用和共享。应该匿名化的数据类型包括姓名、电话号码、社会安全号码、电子邮件地址、照片和帐号。
+
+
 
 **Data bias**
 
-Another important data ethics practice is making sure that the data you collect does not indicate any biases. **Data bias** is a type of error that tends to skew results in a certain direction. Maybe the questions on your survey had a particular slant to influence answers, or maybe your sample group was not fully representative of the population you want to study. Bias can also happen if a sample group lacks inclusivity. For example, if your sample does not include people with disabilities. The way you collect data can also bias a dataset. Say you give people only a short time to answer questions, this can lead to rushed responses. When people are rushed, they tend to make more mistakes, which can affect the quality of their data and create biased outcomes. As a project manager, you have to think about bias and fairness from the moment you start collecting data to the time you present your conclusions. 
+> 数据偏差
+
+Another important data ethics practice is making sure that the data you collect does not indicate any biases.
+
+> 另一个重要的数据伦理实践是确保您收集的数据不显示任何偏见。
+
+**Data bias** is a type of error that **tends to**-倾向于 skew-歪曲 results in a certain direction.
+
+> 数据偏差是一种使结果向某个方向倾斜的错误。
+
+Maybe the questions on your survey had a particular slant-倾斜 to influence answers, or maybe your sample group was not fully representative-代表,代理人 of the population-人群 you want to study.
+
+> 也许你调查中的问题对答案有特别的影响，或者你的样本组不能完全代表你想研究的人群。
+
+Bias can also happen if a sample group lacks inclusivity-包容性.
+
+> 如果样本群体缺乏包容性，也可能出现偏见。
+
+For example, if your sample does not include people with disabilities.
+
+> 例如，如果您的样本不包括残疾人。
+
+The way you collect data can also bias a dataset.
+
+> 收集数据的方式也会对数据集产生偏差。
+
+Say you give people only a short time to answer questions, this can lead to rushed-仓促 responses.
+
+> 比如你只给人们很短的时间来回答问题，这可能会导致匆忙的回答。
+
+When people are rushed, they tend to make more mistakes, which can affect the quality of their data and create biased outcomes.
+
+> 当人们匆忙时，他们往往会犯更多的错误，这可能会影响他们的数据质量，并产生有偏见的结果。
+
+As a project manager, you have to think about bias and fairness-公平,公平性 from the moment you start collecting data to the time you present-提出,陈述 your conclusions-结论,推论. 
+
+> 作为一名项目经理，从你开始收集数据的那一刻起，到你提出结论的那一刻，你必须考虑偏见和公平性。
 
 
 
 **Types of biases**
 
-There are different types of biases to keep in mind when setting up your data collection processes. Here are four of the most common types of biases that could impact your data:
+> 偏见的类型
 
-- **Sampling bias** is when a sample is not representative of the population as a whole. For example, maybe your sample did not include people above the age of 65. Or maybe you excluded people from certain socioeconomic groups.
-- **Observer bias** is the tendency for different people to observe things differently. For example, stakeholders from different parts of the world might view the same data differently and draw different conclusions from it. 
-- **Interpretation bias** is the tendency to always interpret situations that don’t have obvious answers in a strictly positive or negative way, when, in fact there is more than one way to understand the data. Data that does not provide an obvious set of conclusions makes some people feel anxious, which can lead to interpretation bias. For example, a team member might interpret inconclusive survey results negatively, while other team members might be able to think more carefully and assess the data from different angles. 
-- **Confirmation bias** is the tendency to search for or interpret information in a way that confirms pre-existing beliefs. For example, you might ask only specific stakeholders for feedback on parts of your project because you know they are the most likely to have the same perspective as you.
+There are different types of biases to keep in mind when setting up your data collection processes.
 
-Each of these types of bias affect the way you collect and make sense of the data, so it is important to be aware of them when setting up your data collection processes. 
+> 在设置数据收集过程时，需要记住不同类型的偏差。
+
+Here are four of the most common types of biases that could impact your data:
+
+> 以下是可能影响数据的四种最常见的偏差:
+
+- **Sampling bias** is when a sample is not representative of the population as a whole. For example, maybe your sample did not include people above-超过 the age of 65. Or maybe you excluded people from certain socioeconomic-社会经济学的 groups.
+
+	> 抽样偏差是指一个样本不能代表总体。例如，也许你的样本不包括65岁以上的人。或者你把人们排除在某些社会经济群体之外。
+
+- **Observer bias** is the tendency-趋势,趋向 for different people to observe-注意到,观察到 things differently. For example, stakeholders from different parts of the world might view the same data differently and draw different conclusions from it. 
+
+	> 观察者偏见是指不同的人观察事物的方式不同。例如，来自世界不同地区的利益相关者可能会以不同的方式查看相同的数据，并从中得出不同的结论。
+
+- **Interpretation-解释,理解 bias** is the tendency-趋势,趋向 to always interpret-解释,说明 situations that don’t have obvious answers in a strictly-严格地,确切地 positive or negative way, when, in fact there is more than one way to understand the data. Data that does not provide an obvious set of conclusions makes some people feel anxious-焦虑的,担心的, which can lead to interpretation bias. For example, a team member might interpret inconclusive-不确定的,非决定性的 survey results negatively-消极地,否定地, while other team members might be able to think more carefully and assess the data from different angles-角度,视角. 
+
+	> 解释偏差是指人们总是倾向于用严格的积极或消极的方式来解释没有明显答案的情况，而实际上，有不止一种理解数据的方式。没有提供一套明显结论的数据会让一些人感到焦虑，这可能导致解释偏差。例如，一个团队成员可能会消极地解释不确定的调查结果，而其他团队成员可能会更仔细地思考并从不同的角度评估数据。
+
+- **Confirmation bias** is the tendency-趋势,趋向 to search for or interpret information in a way that confirms pre-existing beliefs-信念,观点. For example, you might ask only specific stakeholders for feedback on parts of your project because you know they are the most likely to have the same perspective as you.
+
+	> 确认偏误是指人们倾向于以一种确认已有信念的方式来搜索或解释信息。例如，您可能只要求特定的涉众对项目的某些部分进行反馈，因为您知道他们最有可能与您有相同的观点。
+
+Each of these types of bias affect the way you collect and **make sense of**-理解,弄懂 the data, so it is important to be aware of them when setting up your data collection processes. 
+
+> 每一种类型的偏见都会影响你收集和理解数据的方式，所以在设置数据收集过程时，了解这些偏见是很重要的。
 
 
 
 **Key takeaway**
 
-According to the Project Management Institute’s [Code of Ethics & Professional Conduct](https://www.pmi.org/about/ethics/code#:~:text=Ethics is about making the,absolutely dependent on ethical choices.), “Ethics is about making the best possible decisions concerning people, resources, and the environment. Ethical choices diminish risk, advance positive results, increase trust, determine long term success, and build reputations. Leadership is absolutely dependent on ethical choices."
+According to the Project Management Institute’s [Code of Ethics & Professional Conduct](https://www.pmi.org/about/ethics/code#:~:text=Ethics is about making the,absolutely dependent on ethical choices.), “Ethics is about making the best possible decisions concerning-涉及,关于,有关 people, resources, and the environment.
 
-A key way you can show your leadership skills is by exercising sound judgment when it comes to data ethics. In order to tell a project’s data-informed story to stakeholders, project team members, and others in an ethical way, you have to make sure you think about both privacy and bias-related concerns in how you conduct, analyze, and share that data.
+> 根据项目管理协会(Project Management Institute)的《道德与职业行为准则》(https://www.pmi.org/about/ethics/code#:~:text=Ethics是关于做出绝对依赖于道德的选择)，“道德是关于在人、资源和环境方面做出最好的决定。
+
+Ethical choices diminish-减弱,降低 risk, advance-促进 positive results, increase trust, determine long term success, and build reputations-名誉,名声. 
+
+> 道德选择减少风险，促进积极结果，增加信任，决定长期成功，并建立声誉。
+
+Leadership is absolutely dependent on ethical choices."
+
+> 领导力绝对取决于道德选择。”
+
+A key way you can show your leadership skills is by exercising sound-合理的 judgment when it comes to data ethics.
+
+> 展示领导技能的一个关键方法是在数据道德方面做出合理的判断。
+
+In order to tell a project’s data-informed story to stakeholders, project team members, and others in an ethical way, you have to make sure you think about both privacy and bias-related concerns-担心,担忧 in how you conduct-管理, analyze, and share that data.
+
+> 为了以合乎道德的方式向利益相关者、项目团队成员和其他人讲述项目的数据故事，您必须确保在如何管理、分析和共享数据时考虑到隐私和与偏见相关的问题。
 
 
 
 ## Using data analysis to inform decisions
 
-Hi again! In this video, we'll go into data analysis and how project managers use it to make informed decisions throughout a project.
+> 使用数据分析来为决策提供信息
+
+Hi again! In this video, we'll go into data analysis and how project managers use it to make informed-明智的 decisions throughout a project.
 
 >  在这个视频中，我们将深入探讨数据分析以及项目经理如何在整个项目中使用数据来做出明智的决策。
 
@@ -1056,35 +1219,35 @@ We use data every day to help us make both simple and important decisions in our
 
 > 我们每天都使用数据来帮助我们在生活中做出简单和重要的决策。
 
-For example, imagine that you're saving money for a big purchase. Maybe you decided that the best way to reach your goal sooner is to create a budget. After spending time reviewing your budget, perhaps you find that your weekly expenses are higher than your weekly allowances and that many of your expenses are from ordering food and dining out. You realize that in order for you to reach your goal, you'll need to start spending less money on eating out and find more cost-effective ways to buy food. With this new information, you've found a way to save up for your big purchase.
+For example, imagine that you're saving-储蓄 money for a big purchase. Maybe you decided that the best way to reach your goal sooner-更快地,更早地 is to create a budget. After spending time reviewing your budget, perhaps you find that your weekly expenses are higher than your weekly allowances-津贴,补助 and that many of your expenses are from **ordering food**-点餐,外卖 and **dining out**-外出就餐. You realize that in order for you to reach-实现,实现 your goal, you'll need to start spending less money on eating out and find more cost-effective ways to buy food. With this new information, you've found a way to save up for your big purchase.
 
 > 例如，想象一下，你正在为一笔大购物储钱。也许你决定更快地实现目标的最佳方式是制定一个预算。在花时间审查预算后，也许你发现你的周支出高于周津贴，并且许多支出都用于外卖和外出就餐。你意识到为了实现目标，你需要开始花更少的钱在外出就餐，并找到更经济的购买食物的方式。有了这些新信息，你找到了一种储钱以实现大购物的方法。
 
-Similar to how you might create an adjusted budget to reach a desired outcome, it's your role as a project manager to select appropriate data to help inform your decision-making. You can do this using a process called data analysis. Data analysis is the process of collecting and organizing information to help draw conclusions. It's used to solve problems, make informed decisions, and support goals.
+Similar to how you might create an adjusted budget to reach a desired outcome, it's your role as a project manager to select appropriate-合适的,相称的 data to help inform your decision-making. You can do this using a process called data analysis. Data analysis is the process of collecting and organizing information to help draw conclusions-结论,推论. It's used to solve problems, make informed decisions, and support goals.
 
 > 就像你可能会制定一个调整后的预算来实现期望的结果一样，作为项目经理，你的角色是选择适当的数据来帮助指导你的决策。你可以使用一种称为数据分析的过程来实现这一点。数据分析是收集和组织信息以帮助得出结论的过程。它用于解决问题，做出明智的决策，并支持目标。
 
-Businesses use data analysis to reveal important insights and patterns within their data that help inform actions and drive results. Gathering data is only part of the process. The other part is analyzing the data. What you learn from your analysis becomes knowledge that powers smart solutions for your project.
+Businesses use data analysis to reveal-揭示,透露 important insights and patterns within their data that help inform actions and drive results. Gathering data is only part of the process. The other part is analyzing the data. What you learn from your analysis becomes knowledge that powers smart solutions for your project.
 
 > 企业使用数据分析来揭示数据中的重要见解和模式，以帮助指导行动并推动结果。收集数据只是过程的一部分。另一部分是分析数据。你从分析中学到的知识将成为推动项目智能解决方案的动力。
 
-Project managers will often apply data analysis to look for repeated behaviors and to find a solution based on data predictions.
+Project managers will often apply data analysis to look for repeated behaviors and to find a solution based on data predictions-预测.
 
 > 项目经理通常会应用数据分析来寻找重复的行为并基于数据预测找到解决方案。
 
-For example, let's imagine that a ride-share company has a group of data analysts working on using patterns in rider behavior to improve customer support. They noticed a high demand for drivers midweek during rush hour in one specific city. As a result, riders are having a hard time getting drivers to pick them up during peak hours. As a project manager, you've been asked to come up with a solution to help meet the increased demand for drivers. You work with your team to determine which data points would be most appropriate to review. You might decide to track peak traffic times, the number of average daily rider requests, and the number of available drivers. These data points can help inform how to solve for the high demand during rush hour.
+For example, let's imagine that a ride-share-拼车 company has a group of data analysts-分析者 working on using patterns in rider-乘客 behavior to improve customer support. They noticed a high demand-强烈要求,需要,需求 for drivers midweek during rush hour in one specific city. As a result, riders are having a hard time getting drivers-司机 to pick them up during peak hours. As a project manager, you've been asked to come up with a solution to help meet the increased demand for drivers. You work with your team to determine which data points would be most appropriate to review. You might decide to track peak-巅峰 traffic-交通 times, the number of average daily rider requests, and the number of available drivers. These data points can help inform how to solve for the high demand during rush-高峰时间 hour.
 
 > 例如，让我们想象一下，一家共乘公司有一组数据分析师，他们致力于利用乘客行为中的模式来改善客户支持。他们注意到，在特定城市的工作日高峰时段，对司机的需求很高。因此，乘客在高峰时段很难找到司机接送。作为项目经理，你被要求提出解决办法，以满足对司机的增加需求。你与团队合作确定了哪些数据点最适合审查。你可以决定跟踪高峰交通时间、平均每日乘客请求的数量以及可用司机的数量。这些数据点可以帮助指导如何解决高峰时段的高需求。
 
-After analyzing the data, your team realizes that one solution could be to offer incentives to drivers to pick up riders in the city during peak times. The new incentives make drivers feel appreciated, and the increase in drivers increases customer satisfaction. And you came to this solution thanks to the insights gleaned from data analysis.
+After analyzing the data, your team realizes that one solution could be to offer incentives-激励,刺激 to drivers to pick up riders in the city during peak-巅峰,高峰 times. The new incentives make drivers feel appreciated-欣赏,重视, and the increase in drivers increases customer satisfaction. And you came to this solution thanks to the insights gleaned-收集 from data analysis.
 
 > 在分析数据后，你的团队意识到一个解决方案可能是向司机提供激励，以在高峰时段接送乘客。新的激励措施使司机感到受到赞赏，司机的增加提高了客户满意度。而且，由于从数据分析中获取的见解，你提出了这个解决方案。
 
-In this example, you collected types of data: qualitative and quantitative. Quantitative data includes statistical and numerical facts about the number of rider requests that came in. Requests in the city increased at specific points over a period of time. The other data is qualitative data, which describes the subjective qualities or things that can't be measured with numerical data, like user feedback about the service or product.
+In this example, you collected types of data: qualitative-定性的 and quantitative-定量的. Quantitative data includes statistical-统计的 and numerical-数字的 facts about the number of rider requests that came in. Requests in the city increased at specific points over a period of time. The other data is qualitative data, which describes the subjective-主观的 qualities-特征,特质 or things that can't be measured with numerical data, like user feedback about the service or product.
 
-> 在这个示例中，你收集了不同类型的数据：定量数据和定性数据。定量数据包括有关乘客请求数量的统计和数值事实。城市内的请求在一段时间内的特定时间点有所增加。另一种数据是定性数据，它描述了主观特质或无法用数值数据测量的事物，比如关于服务或产品的用户反馈。
+> 在这个示例中，你收集了不同类型的数据：定性数据和定量数据。定量数据包括有关乘客请求数量的统计和数值事实。城市内的请求在一段时间内的特定时间点有所增加。另一种数据是定性数据，它描述了主观特质或无法用数值数据测量的事物，比如关于服务或产品的用户反馈。
 
-In project management, you will use both qualitative data and quantitative data points to inform decisions, make improvements, and share insights.
+In project management, you will use both qualitative data and quantitative data points to inform decisions, make improvements, and share insights-见解.
 
 > 在项目管理中，你将使用定性数据和定量数据点来指导决策，进行改进和分享见解。
 
@@ -1098,59 +1261,221 @@ Coming up, you'll learn how to tell stories using data and effective ways to pre
 
 ## The six steps of data analysis
 
-In an earlier video, you learned that **data analysis** is the process of collecting and organizing information to help draw conclusions, solve problems, make informed decisions, and support your goals. In this reading, we will go over the key parts of the data analysis process. 
+> 数据分析的六个步骤
 
-There are six main steps involved in data analysis: **Ask, prepare, process, analyze, share** and **act**. Let’s break these down one by one. 
+In an earlier video, you learned that **data analysis** is the process of collecting and organizing information to help draw conclusions-结论,推论, solve problems, make informed decisions, and support your goals.
 
+> 在之前的视频中，你了解到数据分析是收集和组织信息的过程，以帮助得出结论，解决问题，做出明智的决定，并支持你的目标。
 
+In this reading, we will **go over**-回顾 the key parts of the data analysis process. 
 
-![Icon for "Ask"](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/c_SlNsbqSc20pTbG6rnNXw_c7e6caffa04c4ed5be8acb9bf8ff4dbd_DA_C1M1L2R1_A.png?expiry=1698969600000&hmac=yK3bw8HuQ4HKHOLhkbjqxcvBelACf38HUMeXum0pOB4)
-
-During the **Ask** phase, ask key questions to help frame your analysis, starting with: What is the problem? When defining the problem, look at the current state of the business and identify how it is different from the ideal state. Usually, there is an obstacle in the way or something wrong that needs to be fixed. At this stage, you want to be as specific as possible. You also want to stay focused on the problem itself, not just the symptoms. For example, imagine you are doing data analysis for a gym that is losing memberships. You could ask: Why do we keep losing members? But a better and more specific question would be: What factors are negatively impacting the member experience? That way, when you set off to do your research, you know exactly what to look for. 
-
-
-
-![Line graph trending downwards for gym memberships declining month-over-month](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/r2pjZWd1QHaqY2VndWB2Fg_69d5bf9a61444efa872f353610ce85c6_C4M3L2R2.png?expiry=1698969600000&hmac=g1vvTtuwDcx-YC9OpYo770X8bIDKByK3UiY6hhMPymE)
-
-Another part of the **Ask** stage is identifying your stakeholders and understanding their expectations. There can be lots of stakeholders on a project, and each of them can make decisions, influence actions, and weigh in on strategies. Each stakeholder will also have specific goals they want to meet. It is pretty common for a stakeholder to come to you with a problem that needs solving. But before you begin your analysis, you need to be clear about what they are asking of you. For example, if your manager assigns you a project related to analyzing the gym’s business risk, it would be a good idea to confirm whether they want you to analyze all types of risks that could affect the gym or just risks related to weather or seasonal trends.
+> 在这篇阅读中，我们将回顾数据分析过程的关键部分。
 
 
 
-![Icon for "prepare"](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/zd0bH2DHTVSdGx9gx_1U6Q_00b892e65386495aaaae3ce458aed86e_DA_C1M1L2R1_B.png?expiry=1698969600000&hmac=ChoaVdC2PFKhIuemkoCaae1SXivRlIsTa9IF-6_rxA8)
+There are six main steps involved in data analysis: **Ask, prepare, process, analyze, share** and **act**.
 
-After you have a clear direction, it is time to move to the **Prepare** stage. This is where you collect and store the data you will use for the upcoming analysis process. 
+> 数据分析涉及六个主要步骤:**询问、准备、处理、分析、分享**和**行动**。
 
-Let’s turn back to our gym membership example. To collect data on the member experience, you decide to send surveys to the gym’s members asking for feedback about their experience. To make sure you get specific answers, you ask them to offer feedback in three distinct categories: upkeep of the facility, customer service, and membership cost**.** You also leave room for them to write in a response. When you get the member surveys back, it is important that you have an organized system for tracking and filing them.  
-
-
-
-![Icon for "Process"](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/oz6QsMleQF--kLDJXrBfEA_df977ac33dde4c5ba8bc19fe660c1a1b_DA_C1M1L2R1_C.png?expiry=1698969600000&hmac=gdOuCwrIWWMTxkOOEv6cSrDwGhG8-hCcKWJvmFZ1Q8c)
-
-This stage is when it is time to **Process** your data. In this step, you will “clean” your data, which means you will enter your data into a spreadsheet, or another tool of your choice, and eliminate any inconsistencies and inaccuracies that can get in the way of results. While collecting data, be sure to get rid of any duplicate responses or biased data. This helps you know that any decisions made from the analysis are based on facts and that they are fair and unbiased. For example, if you noticed duplicate responses from a single gym member when sorting through the surveys, you would need to get rid of the copies to be sure your data set is accurate. 
-
-During this stage, it is also important to check the data you prepared to make sure it is complete and correct and that there are no typos or other errors. 
+Let’s break these down one by one. 
 
 
 
-![icon for "analyze"](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/WCm702aQQ6Wpu9NmkKOlfg_26847d884b2342bfba42712e4f649192_DA_C1M1L2R1_D.png?expiry=1698969600000&hmac=Cx5v_4omrKR2d8LjwYxwv_MW8eti4F9NmtYGtZzn4aQ)
+![Icon for "Ask"](img/11.png)
 
-Now it is time to **Analyze**. In this stage, you take a close look at your data to draw conclusions, make predictions, and decide on next steps. Here, you will transform and organize the data in a way that highlights the full scope of the results so you can figure out what it all means. You can create visualizations using charts and graphs to determine if there are any trends or patterns within the data or any need for additional research. 
+During the **Ask** phase, ask key questions to help frame-构架,勾勒出 your analysis, starting with: What is the problem?
 
-In our gym membership example, let’s say you notice 50% of the members wrote in an additional response on the survey citing that the equipment is outdated. The survey also showed that 75% of the responses cited “expensive membership fees.” When looking at the 50% of responses citing “outdated equipment” and 75% of responses citing “expensive membership fees” side by side on a graph, you may be able to deduce that these responses inform one another. Members feel like the experience just isn’t worth the price. You might conclude that the gym should invest in new equipment if they want to keep members and add value to the membership fee. 
+> 在**Ask**阶段，问一些关键问题来帮助构建你的分析，首先是:问题是什么?
+
+When defining the problem, look at the current state of the business and identify how it is different from the ideal-理想的,最佳的 state.
+
+> 在定义问题时，查看业务的当前状态，并确定它与理想状态有何不同。
+
+Usually, there is an obstacle-障碍,阻碍 in the way or something wrong that needs to be fixed.
+
+> 通常情况下，会有一个障碍或一些错误需要解决。
+
+At this stage, you want to be as specific as possible.
+
+> 在这个阶段，您希望尽可能具体。
+
+You also want to stay focused on the problem itself, not just the symptoms-症状,迹象,征兆.
+
+> 你也要关注问题本身，而不仅仅是症状。
+
+For example, imagine you are doing data analysis for a gym-体育馆 that is losing memberships.
+
+> 例如，假设您正在为一家正在流失会员的健身房做数据分析。
+
+You could ask: Why do we keep losing members?
+
+> 你可能会问:为什么我们的会员不断流失?
+
+But a better and more specific question would be: What factors are negatively impacting the member experience?
+
+> 但一个更好、更具体的问题应该是:哪些因素对会员体验产生了负面影响?
+
+That way, when you **set off to do**-开始做某事 your research, you know exactly what to look for. 
+
+> 这样，当你开始做研究时，你就知道要找什么了。
+
+![Line graph trending downwards for gym memberships declining month-over-month](img/12.png)
+
+Another part of the **Ask** stage is identifying your stakeholders and understanding their expectations.
+
+> **Ask**阶段的另一部分是确定你的利益相关者并了解他们的期望。
+
+There can be lots of stakeholders on a project, and each of them can make decisions, influence actions, and weigh-权衡 in on strategies.
+
+> 一个项目中可能有很多利益相关者，他们中的每个人都可以做出决定，影响行动，并权衡策略。
+
+Each stakeholder will also have specific goals they want to meet.
+
+> 每个涉众也会有他们想要达到的具体目标。
+
+It is pretty common for a stakeholder to come to you with a problem that needs solving.
+
+> 一个涉众带着一个需要解决的问题来找你是很常见的。
+
+But before you begin your analysis, you need to be clear about what they are asking of you.
+
+> 但是在你开始分析之前，你需要弄清楚他们对你的要求是什么。
+
+For example, if your manager assigns you a project related to analyzing the gym’s business risk, it would be a good idea to confirm whether they want you to analyze all types of risks that could affect the gym or just risks related to weather-天气 or seasonal-季节 trends-趋势,动态.
+
+> 例如，如果您的经理分配给您一个与分析健身房的业务风险相关的项目，那么确认他们是否希望您分析可能影响健身房的所有类型的风险，或者只是与天气或季节趋势相关的风险，这将是一个好主意。
 
 
 
-![Icon for "Share"](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/hAvGT3_TSPaLxk9_03j27A_8f2deb5dfb954686a3bd98804aec734e_DA_C1M1L2R1_E.png?expiry=1698969600000&hmac=Xsqs2OwKrPRYe6mZDVjePp18wz4-T_9qGv_78_IvnC8)
+![Icon for "prepare"](img/13.png)
 
-Once you have asked questions to figure out the problem—then prepared, processed, and analyzed the data—it is time to **Share** your findings. In this stage, you use **data visualization** to organize your data in a format that is clear and digestible for your audience. When sharing, you can offer the insights you gained during your analysis to help stakeholders make effective, data-driven decisions for solving the problem. 
+After you have a clear direction, it is time to move to the **Prepare** stage.
+
+> 在你有了明确的方向之后，是时候进入准备阶段了。
+
+This is where you collect and store the data you will use for the upcoming analysis process. 
+
+> 这是您收集和存储将用于即将到来的分析过程的数据的地方。
+
+Let’s turn back to our gym membership example.
+
+> 让我们回到健身房会员的例子。
+
+To collect data on the member experience, you decide to send surveys to the gym’s members asking for feedback about their experience.
+
+> 为了收集会员体验方面的数据，您决定向健身房的会员发送调查问卷，询问他们对体验的反馈。
+
+To make sure you get specific answers, you ask them to offer feedback in three distinct-不同的,明显的,确切的 categories: upkeep-维持,保养 of the facility-设施,设备, customer service, and membership cost**.**
+
+> 为了确保你得到具体的答案，你要求他们在三个不同的方面提供反馈:设施维护、客户服务和会员费用。
+
+You also leave room for them to write in a response.
+
+> 你也要给他们留下回复的空间。
+
+When you get the member surveys back, it is important that you have an organized system for tracking and filing-存档,归档 them.  
+
+> 当你收到会员调查问卷时，重要的是你要有一个有组织的系统来跟踪和归档它们。
 
 
 
-![Icon for "Act"](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/XW23hYKzTIitt4WCs0yIOQ_ba83e3f966994e93af0257a2f0068288_DA_C1M1L2R1_F.png?expiry=1698969600000&hmac=CiPuTwSHgBHYkMDiGmj70QiyS3cNRpLEYZT2v4WYllo)
+![Icon for "Process"](img/14.png)
 
-And finally, you are ready to **Act**! In the final stage of your data analysis, the business takes all of the insights you have provided and puts them into action to solve the original business problem. 
+This stage is when it is time to **Process** your data.
 
-Conducting a data analysis is an essential process for understanding a business’ needs and challenges and determining effective solutions. These six foundational steps—**ask, prepare, process, analyze, share,** and **act**—will help set you up for success! 
+> 这个阶段是**处理**数据的时候。
+
+In this step, you will “clean” your data, which means you will enter your data into a spreadsheet, or another tool of your choice, and eliminate-消除,排除 any inconsistencies-不一致矛盾 and inaccuracies-错误,不精确 that can **get in the way of**-妨碍,阻碍 results.
+
+> 在这个步骤中，你将“清理”你的数据，这意味着你将把你的数据输入到电子表格中，或者你选择的其他工具中，并消除任何可能妨碍结果的不一致和不准确。
+
+While collecting data, be sure to get rid of any duplicate-重复 responses or biased data.
+
+> 在收集数据时，一定要去掉任何重复的回答或有偏差的数据。
+
+This helps you know that any decisions made from the analysis are based on facts and that they are fair and unbiased.
+
+> 这可以帮助你知道，从分析中做出的任何决定都是基于事实的，而且是公平和无偏见的。
+
+For example, if you noticed duplicate responses from a single gym member when sorting through the surveys, you would need to get rid-摆脱,消除 of the copies to be sure your data set is accurate. 
+
+> 例如，如果您在整理调查时注意到来自单个健身房会员的重复回复，则需要删除副本以确保数据集的准确性。
+
+During this stage, it is also important to check the data you prepared to make sure it is complete and correct-正确的 and that there are no typos-打字错误 or other errors. 
+
+> 在此阶段，检查您准备的数据以确保它是完整和正确的，并且没有打字错误或其他错误也很重要。
+
+
+
+![icon for "analyze"](img/15.png)
+
+Now it is time to **Analyze**.
+
+In this stage, you take a close look at your data to draw conclusions, make predictions, and decide on next steps.
+
+> 在此阶段，您将仔细查看数据以得出结论、做出预测并决定下一步。
+
+Here, you will transform and organize the data in a way that highlights the full scope of the results so you can figure out what it all means.
+
+> 在这里，您将以一种突出显示结果的全部范围的方式转换和组织数据，以便您可以弄清楚这一切意味着什么。
+
+You can create visualizations using charts and graphs to determine if there are any trends-趋势,动向 or patterns within the data or any need for additional research. 
+
+> 您可以使用图表和图形创建可视化，以确定数据中是否存在任何趋势或模式，或者是否需要进行额外的研究。
+
+In our gym membership example, let’s say you notice 50% of the members wrote in an additional response on the survey citing that the equipment-设备,用具 is outdated-过时的,陈旧的.
+
+> 在我们的健身房会员的例子中，假设你注意到50%的会员在调查问卷上写了一个额外的回复，说设备已经过时了。
+
+The survey also showed that 75% of the responses cited “expensive membership fees.”
+
+> 调查还显示，75%的受访者提到了“昂贵的会员费”。
+
+When looking at the 50% of responses citing-引用,引证 “outdated equipment” and 75% of responses citing “expensive membership fees” side by side on a graph, you may be able to deduce-推断,演绎 that these responses inform one another.
+
+> 当把50%的回答提到“过时的设备”和75%的回答提到“昂贵的会员费”并排放在一张图表上时，你可能会推断出这些回答是相互联系的。
+
+Members feel like the experience just isn’t worth-值得 the price.
+
+> 会员们觉得这种体验不值这个价钱。
+
+You might conclude that the gym should invest in new equipment if they want to keep members and add value to the membership fee. 
+
+> 你可能会得出这样的结论:如果健身房想留住会员，增加会员费的价值，就应该投资购买新设备。
+
+
+
+![Icon for "Share"](img/16.png)
+
+Once you have asked questions to figure out the problem—then prepared, processed, and analyzed the data—it is time to **Share** your findings.
+
+> 一旦你提出问题来找出问题所在——然后准备、处理和分析数据——是时候分享你的发现了。
+
+In this stage, you use **data visualization** to organize your data in a format that is clear and digestible-易消化的 for your audience.
+
+> 在这个阶段，你使用数据可视化，以一种清晰易懂的格式来组织你的数据。
+
+When sharing, you can offer the insights you gained during your analysis to help stakeholders make effective, data-driven decisions for solving the problem. 
+
+> 在分享时，您可以提供在分析过程中获得的见解，以帮助利益相关者做出有效的、数据驱动的决策来解决问题。
+
+
+
+![Icon for "Act"](img/17.png)
+
+And finally, you are ready to **Act**!
+
+In the final stage of your data analysis, the business takes all of the insights you have provided and puts them into action to solve the original business problem. 
+
+> 在数据分析的最后阶段，业务将采用您提供的所有见解，并将其付诸行动，以解决最初的业务问题。
+
+Conducting a data analysis is an essential-必不可少的,基本的 process for understanding a business’ needs and challenges and determining effective solutions.
+
+> 进行数据分析是了解业务需求和挑战并确定有效解决方案的基本过程。
+
+These six foundational steps—**ask, prepare, process, analyze, share,** and **act**—will help set you up for success! 
+
+> 这六个基本步骤——询问、准备、处理、分析、分享、**和**行动——将帮助你走向成功!
 
 
 
@@ -1158,59 +1483,61 @@ Conducting a data analysis is an essential process for understanding a business�
 
 # Presenting and visualizing data
 
+> 呈现和可视化数据
+
 ## Presenting data to tell a project's story
+
+> 展示数据来讲述一个项目的故事
 
 Welcome back. In this video, we'll discuss how to tell a powerful story using data.
 
 > 欢迎回来。在这个视频中，我们将讨论如何使用数据讲述有力的故事。
 
-We'll teach you how to gather and organize your project data to present it to others within your organization. Presenting is a powerful way to communicate your ideas and support your decisions throughout the project journey.
+We'll teach you how to gather and organize your project data to present-呈现,陈述 it to others within your organization. Presenting is a powerful way to communicate your ideas and support your decisions throughout the project journey.
 
 > 我们将教你如何收集和组织项目数据，以便向组织内的其他人进行展示。展示是在整个项目过程中传达你的想法并支持你的决策的强大方式。
 
-Think of presenting as telling the story of your project. Storytelling is the process of turning facts into narrative to communicate something to your audience. Storytelling is how you bring data to life and is a useful way to tell stakeholders within your organization about your project. In a way, we're all storytellers using information and experiences to share ideas with others.
+Think of presenting as telling the story of your project. Storytelling is the process of turning facts into narrative-叙述 to communicate something to your audience. Storytelling is how you bring data to life and is a useful way to tell stakeholders within your organization about your project. In a way, we're all storytellers using information and experiences to share ideas with others.
 
 > 将展示看作是讲述你的项目故事。讲故事是将事实转化为叙述的过程，以向观众传达信息。讲故事是如何让数据生动起来的方式，也是向组织内的利益相关者讲述项目的有用方式。在某种程度上，我们都是使用信息和经验来与他人分享想法的讲故事者。
 
-Stories usually have a beginning, middle, and end. To tell a great story using data, we'll go over some best practices to make sure your story is complete, accurate, and compelling.
+Stories usually have a beginning, middle, and end. To tell a great story using data, we'll go over some best practices to make sure your story is complete, accurate, and compelling-令人信服的,有说服力的.
 
 > 故事通常有一个开头、中间和结尾。为了使用数据讲述一个出色的故事，我们将介绍一些最佳实践，以确保你的故事完整、准确和引人入胜。
 
-In general, there are six main steps to storytelling. First, define your audience. Then, collect the data. Next, filter and analyze the data. Fourth, choose a visual representation. Then, shape the story. And finally, gather your feedback. Now let's review each one.
+In general, there are six main steps to storytelling. First, define your audience. Then, collect the data. Next, filter and analyze the data. Fourth, choose a visual representation. Then, shape-塑造 the story. And finally, gather your feedback. Now let's review each one.
 
 > 总的来说，讲故事有六个主要步骤。首先，确定你的受众。然后，收集数据。接下来，过滤和分析数据。第四，选择视觉呈现方式。然后，塑造故事。最后，收集反馈。现在让我们逐一回顾每一步。
 
-Step 1: Define your audience. In this first step, it's important to know who you're presenting to. Are you presenting to project sponsors or executives? Or to team members? Define your audience and find out what matters most to them. Begin by asking yourself qualifying questions like: What would my audience want to know about the project? Or, what are their most urgent concerns? Which key data points influence the story and project outcome? This will set you up to know the type of story you want to tell and the type of data you should use to tell it.
+Step 1: Define your audience. In this first step, it's important to know who you're presenting to. Are you presenting to project sponsors or executives-高管? Or to team members? Define your audience and find out what matters most to them. Begin by asking yourself qualifying-有资格,限定 questions like: What would my audience want to know about the project? Or, what are their most urgent-紧急的,急迫的 concerns? Which key data points influence the story and project outcome? This will set you up to know the type of story you want to tell and the type of data you should use to tell it.
 
 > 步骤1：定义你的受众。在这第一步中，了解你要向谁进行展示非常重要。你是向项目赞助商或高管进行展示吗？还是向团队成员？明确定义你的受众并找出对他们最重要的事项。从自问一些资格问题开始，比如：我的受众想了解项目的什么信息？或者，他们最紧急的关注点是什么？哪些关键数据点影响了故事和项目的结果？这将帮助你知道你想要讲述的故事类型以及应该使用的数据类型。
 
-For example, years ago, I was working on a project for Google Maps. Our goal was to apply a label to every business in the world: restaurants, hotels, gas stations—you name it. There are many, many, many businesses in the world, and I only had a small team of engineers to work with. For this project, we tailored our storytelling to an audience of vice presidents from Google Maps and Google Search. Both were important to consider, because we were helping users find and connect to businesses through the Google Maps app and through Google Search. I'll return to this example as I take you through the steps of storytelling.
+For example, years ago, I was working on a project for Google Maps. Our goal was to apply a label to every business in the world: restaurants, hotels, **gas stations**-加油站—you name it. There are many, many, many businesses in the world, and I only had a small team of engineers to work with. For this project, we tailored-迎合,使适应 our storytelling to an audience of vice-副的 presidents-总裁 from Google Maps and Google Search. Both were important to consider, because we were helping users find and connect to businesses through the Google Maps app and through Google Search. I'll return to this example as I take you through the steps of storytelling.
 
 > 例如，多年前，我曾经参与了一个Google Maps的项目。我们的目标是为世界上的每家企业都标上标签：餐馆、酒店、加油站——你名字都有。世界上有很多很多企业，而我只有一个小团队的工程师可以合作。对于这个项目，我们根据Google Maps和Google搜索的副总裁受众来定制了我们的讲故事方式。考虑到这两方面都很重要，因为我们正在帮助用户通过Google Maps应用和Google搜索找到并连接到企业。在我带你逐步讲故事的过程中，我将回到这个例子。
 
-Next step is Step 2: Find the data that connects to the
-
- question you want to answer. You'll need to begin searching for data from trustworthy resources to support the point you're trying to make. Leverage the relevant project resources in documents like your project plan or work management software to download and analyze key data points. For my Google Maps project, the question we were trying to answer was: Where should we focus our attention first? So to find the right data for this question, we turned to the many businesses in our internal database and the available information about what types of businesses users were searching for.
+Next step is Step 2: Find the data that connects to the question you want to answer. You'll need to begin searching for data from trustworthy-值得信赖的,可信的 resources to support the point you're trying to make. Leverage the relevant-切题的,相关的 project resources in documents like your project plan or work management software to download and analyze key data points. For my Google Maps project, the question we were trying to answer was: Where should we focus our attention first? So to find the right data for this question, we turned to the many businesses in our internal database and the available information about what types of businesses users were searching for.
 
 > 下一步是第二步：找到与你要回答的问题相关的数据。你需要开始搜索来自可信资源的数据，以支持你要表达的观点。利用项目计划或工作管理软件等文档中的相关项目资源，下载并分析关键数据点。对于我的Google Maps项目，我们试图回答的问题是：我们应该首先关注哪里？因此，为了找到这个问题的合适数据，我们查阅了内部数据库中的众多企业以及关于用户搜索的企业类型的可用信息。
 
-That brings us to Step 3: Filter and analyze the data. Now that you've collected your data, you'll need to vet it for credibility and filter the information. For my Maps project, we used search queries to determine the types of businesses that users searched for most often, which included restaurants, cafes, and hotels. There were other categories—gas stations, museums, etc.—but they collectively made up a much smaller percentage of geo-specific search traffic.
+That brings us to Step 3: Filter and analyze the data. Now that you've collected your data, you'll need to vet-仔细检查 it for credibility-可靠性,可信度 and filter the information. For my Maps project, we used search queries to determine the types of businesses that users searched for most often, which included restaurants, cafes, and hotels. There were other categories—gas stations, museums-博物馆, etc-等等.—but they collectively-集体地,共同地 made up a much smaller percentage of geo-specific-地理特定的 search traffic.
 
 > 这将我们带到第三步：过滤和分析数据。现在你已经收集了数据，你需要对其进行核查以确保可信度并过滤信息。对于我的地图项目，我们使用搜索查询来确定用户最常搜索的企业类型，包括餐厅、咖啡馆和酒店。还有其他类别——加油站、博物馆等——但它们共同占据了地理特定搜索流量的很小比例。
 
-Step 4: Choose a visual representation. Visualizations are a great way to help people remember the information you're presenting and are an essential piece of storytelling. You can use data in different ways to tell a story, like using dashboards, charts, infographics, and mappings, and we'll go over these examples in more detail in the next video. For my Maps project, we decided on a pie chart to help tell our story.
+Step 4: Choose a visual representation. Visualizations are a great way to help people remember the information you're presenting and are an essential piece of storytelling. You can use data in different ways to tell a story, like using dashboards, charts, infographics-信息图, and mappings, and we'll go over these examples in more detail in the next video. For my Maps project, we decided on a pie-馅饼 chart to help tell our story.
 
 > 第四步：选择视觉呈现方式。可视化是帮助人们记住你呈现的信息的绝佳方式，也是讲故事的重要组成部分。你可以使用不同的方式来使用数据来讲述故事，比如使用仪表板、图表、信息图表和地图，我们将在下一个视频中更详细地讨论这些例子。对于我的地图项目，我们决定使用饼图来帮助讲述我们的故事。
 
-Which brings me to Step 5: Shape the story. After you've analyzed your data and know how you'd like to visualize it, it's time to tie it all together into one cohesive narrative. Take some time to think about what you're hoping to achieve, the points you want to make, and the questions and concerns you want to answer. For the Maps project, we used the pie chart to show that most geo-specific search queries are covered by a relatively small number of businesses. So we built a story about that data. We wanted agreement from our VPs to work on improving the data behind this set of categories in a few major markets. It needed to illustrate that if we improved the category data, we'd succeed in improving the search results for more than 50% of geo searches.
+Which brings me to Step 5: Shape the story. After you've analyzed your data and know how you'd like to visualize it, it's time to tie-联系,打结 it all together into one cohesive-团结的,有凝聚力的 narrative-叙述. Take some time to think about what you're hoping to achieve, the points you want to make, and the questions and concerns you want to answer. For the Maps project, we used the pie chart to show that most geo-specific search queries are covered by a relatively-相当地,相对地 small number of businesses. So we built a story about that data. We wanted agreement from our VPs to work on improving the data behind this set of categories in a few major markets. It needed to illustrate that if we improved the category data, we'd succeed in improving the search results for more than 50% of geo searches.
 
 > 这将我们带到第五步：塑造故事。在你分析了数据并知道如何将其可视化之后，是时候将所有内容汇集成一个连贯的叙述了。花些时间考虑你希望实现什么，你想提出哪些观点，以及你想回答的问题和关切。对于地图项目，我们使用饼图来展示大多数地理特定搜索查询由相对较少的企业涵盖。因此，我们建立了关于这些数据的故事。我们希望我们的副总裁同意致力于改善几个主要市场中这一类别背后的数据。它需要说明，如果我们改进了类别数据，我们将成功改进超过50%的地理搜索的搜索结果。
 
-Lastly is Step 6: Gather your feedback. Similar to how you may ask a friend to practice with you before an interview, you want to be sure that before you present, you do a trial run. Try getting feedback from someone who's not connected to the project. Find out if it was interesting. Did it make sense? What questions did they have? Their feedback can help you identify areas of your story that were unclear or unmemorable and give you a final chance to make adjustments.
+Lastly is Step 6: Gather your feedback. Similar to how you may ask a friend to practice with you before an interview, you want to be sure that before you present, you do a trial-试验,试用 run. Try getting feedback from someone who's not connected to the project. Find out if it was interesting. Did it make sense? What questions did they have? Their feedback can help you identify areas of your story that were unclear or unmemorable-不值得注意的 and give you a final chance to make adjustments.
 
 > 最后是第六步：收集反馈。与你在面试前可能会请朋友练习一样，你需要确保在你展示之前进行试运行。尝试从与项目无关的人那里获得反馈。看看它是否有趣。是否讲得通？他们有什么问题？他们的反馈可以帮助你确定你的故事中不清楚或不易记忆的部分，并给你最后一个调整的机会。
 
-To recap, you want to define your audience, collect the data, filter and analyze the data, choose a visual representation, shape the story, and finally, gather your feedback. The key to effective storytelling is to be organized, intentional, and prepared.
+To recap, you want to define your audience, collect the data, filter and analyze the data, choose a visual representation, shape the story, and finally, gather your feedback. The key to effective storytelling is to be organized, intentional-有意的, and prepared.
 
 > 总结一下，你需要明确定义你的受众，收集数据，过滤和分析数据，选择视觉呈现方式，塑造故事，最后，收集反馈。有效讲故事的关键是组织有序，有意识，并做好准备。
 
@@ -1222,6 +1549,8 @@ Coming up, we'll talk more about Step 4: effective visualization. See you there.
 
 ## Data visualization tools
 
+> 数据可视化工具
+
 Hi there. In this video, we'll discuss data visualization and how it helps inform decisions for your project.
 
 > 你好。在这个视频中，我们将讨论数据可视化以及它如何帮助项目决策。
@@ -1230,7 +1559,7 @@ Data visualization is the graphical representation of information to facilitate 
 
 > 数据可视化是信息的图形表示，以促进理解。它可以包括图形、地图和表格等等。
 
-Project managers use these visual representations for a few reasons. They're useful for communicating data to others because they help filter information by focusing the audience on the most important data points and insights. Visualizations are also a more efficient way to summarize information because they condense long ideas and facts into a single image or representation, and crucially, they help the viewer make sense of and remember the information being presented. Visualizations help aid information processing and enhance memory. It plays an active role in the storytelling process by helping communicate project insights to your audience.
+Project managers use these visual representations for a few reasons. They're useful for communicating data to others because they help filter information by focusing the audience on the most important data points and insights. Visualizations are also a more efficient way to summarize information because they condense long ideas and facts into a single image or representation-陈述, and crucially-关键地,至关重要地, they help the viewer make sense of and remember-记住 the information being presented-呈现. Visualizations help aid-促进,有助于,帮助,援助 information processing and enhance memory. It plays an active role in the storytelling process by helping communicate project insights to your audience.
 
 > 项目经理使用这些视觉表示有几个原因。它们用于将数据传达给他人，因为它们通过让观众关注最重要的数据点和见解来帮助过滤信息。可视化还是一种更高效的方式来总结信息，因为它将复杂的想法和事实压缩成单个图像或表示，最重要的是，它有助于观众理解和记住所呈现的信息。可视化有助于信息处理和增强记忆。它在讲故事过程中发挥了积极的作用，帮助将项目见解传达给你的受众。
 
@@ -1238,33 +1567,31 @@ Let's go into some familiar types of data visualizations that project managers u
 
 > 让我们来看看项目经理在整个项目生命周期中使用的一些常见数据可视化类型。
 
-First, let's discuss a common data visualization tool used when running the project: a dashboard. A dashboard is a type of user interface, typically a graph or summary chart, that provides a snapshot view of your project's progress or performance. It acts as a centralized location for project stakeholders to draw quick insights. It can display a tight summary of metrics, stats, and key performance indicators, or KPIs. A KPI is a measurable value or metric that demonstrates how effective an organization is at achieving key objectives. They serve as a great aid in helping your team and stakeholders understand if you're on the right track. In other words, they signal if you're making progress to reach your success criteria. In your dashboard, you may have a summary of your top KPIs or metrics and your progress to date. For instance, if one of your objectives is for your project to reach a 95% customer satisfaction score at the end of a three-month period, you may track that goal via thousands of customer satisfaction surveys. Rather than displaying a spreadsheet of each response, a dashboard is a good place to summarize those results and showcase the average customer satisfaction score to see how you are pacing to your goal.
+First, let's discuss a common data visualization tool used when running the project: a dashboard. A dashboard is a type of user interface-界面, typically a graph or summary chart, that provides a snapshot-快照,简要说明 view of your project's progress or performance. It acts as a centralized location for project stakeholders to draw quick insights. It can display a tight-严格的 summary of metrics, stats, and key performance indicators-标志,迹象, or KPIs. A KPI is a measurable value or metric that demonstrates how effective an organization is at achieving key objectives. They serve as a great aid-促进,有助于 in helping your team and stakeholders understand if you're on the right track. In other words, they signal-预示 if you're making progress to reach your success criteria. In your dashboard-仪表盘, you may have a summary of your top KPIs or metrics and your progress to date. For instance, if one of your objectives is for your project to reach a 95% customer satisfaction score at the end of a three-month period, you may track that goal via thousands of customer satisfaction surveys. Rather than displaying a spreadsheet of each response, a dashboard is a good place to summarize those results and showcase the average customer satisfaction score to see how you are pacing to your goal.
 
 > 首先，让我们讨论一种在项目运行中常见的数据可视化工具：仪表板。仪表板是一种用户界面，通常是图形或摘要图表，它提供了项目进展或绩效的快照视图。它充当项目利益相关者汲取快速见解的集中位置。它可以显示指标、统计数据和关键绩效指标（KPI）的紧凑摘要。KPI是可衡量的值或指标，用来展示组织在实现关键目标方面的效能。它们对于帮助你的团队和利益相关者了解你是否在正确的轨道上起到了很大的帮助。换句话说，它们表示你是否正在取得进展以达到你的成功标准。在你的仪表板上，你可以总结你的顶级KPI或指标以及到目前为止的进展。例如，如果你的一个目标是在三个月后将项目的客户满意度得分达到95%，你可以通过成千上万份客户满意度调查来跟踪这一目标。与显示每份回应的电子表格不同，仪表板是一个很好的地方，可以总结这些结果并展示平均客户满意度得分，以了解你是否在赶上你的目标。
 
-Similarly, you could also include other key KPIs that signify progress, like a countdown that shows the number of days until project launch or the percentage of the number of issues resolved. Many project dashboards may also summarize project plans, documents, and reports in one place and provide a visual of the status of each of them. For example, if your project plan has hundreds of tasks with varying degrees of completion, your dashboard may summarize the amount of tasks or milestones completed at that point in time and the percentage of tasks that are in progress, complete, or not started. As you may start to notice, dashboards are great visualizations for efficient status updates because they enable you to group, summarize, and highlight top project data points.
+Similarly, you could also include other key KPIs that signify-意味着,象征,表示 progress, like a countdown-倒计时 that shows the number of days until project launch or the percentage of the number of issues resolved. Many project dashboards-仪表盘 may also summarize project plans, documents, and reports in one place and provide a visual of the status of each of them. For example, if your project plan has hundreds of tasks with varying degrees-度 of completion, your dashboard may summarize the amount of tasks or milestones completed at that point in time and the percentage of tasks that are in progress, complete, or not started. As you may start to notice, dashboards are great visualizations for efficient status updates because they enable you to group, summarize, and highlight top project data points.
 
-> 同样，你还可以包括其他表示进展的关键KPI，比如倒计时显示距离项目启动还有多少天，或者解决的问题数量的百分比。许多项目仪表板还可以总结项目计划、文档和报告，并提供每个项目的状态的可视化。例如，如果你的项目计划有数百个任务，完成度各不相同，你的仪表板可以总结在那个时间点完成的任务或里程碑的数量，以及正在进行、已完成或未开始的任务的百分
+> 同样，你还可以包括其他表示进展的关键KPI，比如倒计时显示距离项目启动还有多少天，或者解决的问题数量的百分比。许多项目仪表板还可以总结项目计划、文档和报告，并提供每个项目的状态的可视化。例如，如果你的项目计划有数百个任务，完成度各不相同，你的仪表板可以总结在那个时间点完成的任务或里程碑的数量，以及正在进行、已完成或未开始的任务的百分比。正如你可能开始注意到的，仪表板是高效的状态更新的出色可视化，因为它们使你能够对顶级项目数据点进行分组、总结和突出显示。
 
-比。正如你可能开始注意到的，仪表板是高效的状态更新的出色可视化，因为它们使你能够对顶级项目数据点进行分组、总结和突出显示。
-
-Another visualization that does this is one that we mentioned earlier: a burndown chart. A burndown chart is a line chart that measures the time against the amount of work done and the amount of work remaining. The outstanding work is usually on the vertical axis, with the time visualized horizontally. This serves as a strong visualization to help the team picture the amount of tasks left to complete. Similar to line charts, column charts are another popular graph used to signal project performance and progress. Column charts are useful for comparing different activities or comparing progress over time. For instance, you can show different outputs, like the number of customers and the number of plants delivered, year-over-year, to demonstrate growth in change.
+Another visualization that does this is one that we mentioned earlier: a burndown chart. A burndown chart is a line chart that measures the time against-以…为背景,与…相比 the amount of work done and the amount of work remaining. The outstanding-杰出的,优秀的 work is usually on the vertical-垂直的 axis-轴线, with the time visualized horizontally-水平地,地平地. This serves as a strong visualization to help the team picture the amount of tasks left to complete. Similar to line charts, column charts are another popular graph used to signal project performance and progress. Column-柱状物 charts are useful for comparing different activities or comparing progress over time. For instance, you can show different outputs, like the number of customers and the number of plants delivered, year-over-year, to demonstrate growth in change.
 
 > 另一个也做到这一点的可视化工具是我们之前提到的：燃尽图。燃尽图是一种线状图，它度量了所花时间与已完成的工作量以及剩余的工作量之间的关系。未完成的工作通常位于垂直轴上，时间横向可视化。这是一个强大的可视化工具，有助于团队了解剩下的任务量。与线状图类似，柱状图是另一种用于指示项目绩效和进展的常见图表。柱状图适用于比较不同的活动或比较随时间的进展。例如，你可以展示不同的输出，比如年度客户数量和交付的植物数量，以展示变化中的增长。
 
-Pie charts are useful when showing the composition of something or the parts-to-whole relationship.
+Pie charts are useful when showing the composition-成分构成,成分 of something or the parts-to-whole-部分到整体的关系 relationship.
 
 > 饼图在展示某物的构成或部分与整体的关系时非常有用。
 
-All of these simple charts offer visualizations that enable you to draw quick insights and help tell stories. There are many more in the following reading that I recommend checking out and practicing.
+All of these simple charts offer visualizations that enable you to draw quick insights and help tell stories. There are many more in the following reading that I recommend **checking out**-查阅 and practicing.
 
 > 所有这些简单的图表都提供了可视化，可以帮助你迅速获取见解并讲述故事。我建议你查阅和练习以下内容中的更多内容。
 
-Before that, there is a final visual tool that I want you to know about, which is an infographic. Infographics are visual representations of information, such as data or facts, and are typically in the form of what we call at Google a "one-pager" or a "one-sheeter." The difference is that they're typically concise summaries of that data. This is often done primarily through graphics or drawings, emphasizing the biggest points with added text for further explanation. Use infographics to present complex information quickly, professionally, and clearly, especially when you may not be present to share all the details yourself. Infographics should be able to communicate strong information without the need for extra support and explanation.
+Before that, there is a final visual tool that I want you to know about, which is an infographic-信息图表. Infographics are visual representations of information, such as data or facts, and are typically in the form of what we call at Google a "one-pager" or a "one-sheeter." The difference is that they're typically concise-简明的,简洁的 summaries of that data. This is often done primarily through graphics or drawings, emphasizing-强调,着重,使突出 the biggest points with added text for further-进一步 explanation. Use infographics to present complex information quickly, professionally-专业地, and clearly, especially when you may not be present to share all the details yourself. Infographics should be able to communicate strong information without the need for extra support and explanation.
 
 > 在此之前，有一个最后的可视化工具我想让你知道，那就是信息图。信息图是信息（如数据或事实）的视觉表示，通常以我们在谷歌称之为“一页纸”或“一张纸”的形式呈现。不同之处在于它们通常是对这些数据的简明摘要。这通常是通过图形或图画来完成的，强调了通过附加的文本来进一步解释的要点。使用信息图可以快速、专业和清晰地呈现复杂信息，尤其是当你可能无法亲自分享所有细节时。信息图应该能够在不需要额外支持和解释的情况下传达强有力的信息。
 
-These are just a few examples of data visualization in project management. Remember, you'll want to use visuals to demonstrate and illustrate situations like changes over time, frequency, relationship correlations, and to analyze value and risks.
+These are just a few examples of data visualization in project management. Remember, you'll want to use visuals to demonstrate and illustrate situations like changes over time, frequency, relationship correlations-相关性, and to analyze value and risks.
 
 > 这只是项目管理中数据可视化的一些示例。请记住，你需要使用可视化来演示和说明随时间变化、频率、关系相关性以及分析价值和风险等情况。
 
@@ -1272,131 +1599,303 @@ Another important tip is to make sure that these visualizations are accessible. 
 
 > 另一个重要的提示是要确保这些可视化是可访问的。正如我们之前提到的，你需要确保每个人都能理解你的数据故事。查看关于一些可访问的可视化和通信最佳实践的资源选项卡。
 
-Nice job! Now that you're noticing how to use data to effectively tell your story, we'll continue on to the final piece of this lesson: learning about presentation techniques to present your data. Meet you in the next video.
+Nice job! Now that you're noticing how to use data to effectively tell your story, we'll continue on to the final piece of this lesson: learning about presentation-表示 techniques to present-呈现 your data. Meet you in the next video.
 
-> 做得好！现在你已经注意到如何使用数据来有效地讲述你的故事，我们将继续学习
+> 做得好！现在你已经注意到如何使用数据来有效地讲述你的故事，我们将继续本课的最后一部分:学习展示数据的表示技术。下个视频见。
 
 
 
 ## Different ways to visualize data
 
-Earlier, we discussed best practices for collecting and analyzing data. When it is time to present your data to your audience, you don’t just want to tell them about your findings and what they mean, you want to *show* them. **Data visualization** helps us organize data and turn it into information that is clear and easy for our audience to digest.
+> 可视化数据的不同方式
 
-In this reading, we will go over a variety of charts and graphs you can use to visually represent data. 
+Earlier, we discussed best practices for collecting and analyzing data.
+
+> 前面，我们讨论了收集和分析数据的最佳实践。
+
+When it is time to present your data to your audience, you don’t just want to tell them about your findings and what they mean, you want to *show* them. 
+
+> 当你向观众展示你的数据时，你不只是想告诉他们你的发现和它们的意义，你还想“展示”它们。
+
+**Data visualization** helps us organize data and turn it into information that is clear and easy for our audience to digest-理解,领悟.
+
+> **数据可视化**帮助我们组织数据，并将其转化为清晰、易于受众消化的信息。
+
+In this reading, we will go over a variety of charts and graphs you can use to visually-形象化地,在视觉上地 represent data. 
+
+> 在本文中，我们将介绍各种图表和图形，您可以使用它们直观地表示数据。
+
+---
 
 **Visualizing your data**
 
-Before translating your data into a chart or graph, you should be clear on what you want to show your audience. Figure out what data you want to use and *why.* You might want to **inform** your audience about a new trend or a valuable piece of information, or **show relationships** between data sets. Or maybe you need to **compare values,** understand the **composition** of something, or **analyze trends and behaviors over set periods of time.** 
+> 可视化数据
 
-The type of data you have, and the information you want to show or understand, will help you figure out the right data visualization to use. Let's go over some scenarios and discuss which charts and graphs would be best for each. 
+Before translating your data into a chart or graph, you should be clear on what you want to show your audience.
+
+> 在把你的数据转换成图表之前，你应该清楚你想要向你的观众展示什么。
+
+Figure out what data you want to use and *why.*
+
+> 弄清楚你想要使用什么数据以及“为什么”
+
+You might want to **inform** your audience about a new trend or a valuable piece-条 of information, or **show relationships** between data sets.
+
+> 你可能想要**告知你的受众一个新的趋势或一条有价值的信息，或者**显示数据集之间的关系。
+
+Or maybe you need to **compare values,** understand the **composition-成分构成,成分** of something, or **analyze trends and behaviors over set periods of time.** 
+
+> 或者你需要**比较价值，**了解某物的**组成，或**分析特定时期的趋势和行为
+
+The type of data you have, and the information you want to show or understand, will help you figure out the right data visualization to use.
+
+> 您拥有的数据类型以及您想要显示或理解的信息将帮助您确定要使用的正确数据可视化。
+
+Let's go over some scenarios and discuss which charts and graphs would be best for each. 
+
+> 让我们浏览一些场景，并讨论哪种图表和图形最适合每种场景。
+
+---
 
 **Show relationships**
 
-A **scatter plot**, sometimes referred to as a scatter chart or scatter graph, uses dots to represent values for two different variables. The position of each dot on the horizontal and vertical axis indicates values for an individual data point. Scatter plots will sometimes have a line drawn across its center. This line is known as the trend line and highlights the direction the points are trending towards. 
+> 显示关系
 
-Scatter plots show the relationship between data sets, and can help us understand the impact of one factor on another. For example, the scatterplot below shows the relationship between the life expectancy of people living in a country and how happy those people are. The first variable, the happiness score, is reflected on the vertical axis —also called the **y-axis.** The second variable, life expectancy, is on the horizontal axis —also called the **x-axis.** By looking at this scatterplot, we can tell that as a person’s happiness score increases, so does their life expectancy. 
+A **scatter-分散 plot - 散点图**, sometimes referred to as a scatter chart or scatter graph, uses dots-点,小圆点 to represent-代表,表示 values for two different variables-变量.
 
+> 散点图，有时被称为散点图或散点图，用点来表示两个不同变量的值。
 
+The position of each dot on the horizontal-水平的 and vertical-垂直的 axis indicates values for an individual data point.
 
-![Graph of happiness on the y-axis and health on the x-axis with a line trend and dots scattered in the top right](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/7Wf4bQ0QRnWn-G0NEGZ1Dg_8f3fa989ea3f40aab261edba5f57c626_C4M3L3R1_A.png?expiry=1698969600000&hmac=ZVGrY_fgYZIMPq1F7O-DXmC79e5vBlyzamT_mG4A7cQ)
+> 每个点在水平和垂直轴上的位置表示单个数据点的值。
+
+Scatter plots will sometimes have a line drawn across its center.
+
+> 散点图有时会在其中心画一条线。
+
+This line is known as the trend line and highlights the direction the points are trending towards. 
+
+> 这条线被称为趋势线，突出了点的趋势方向。
+
+Scatter plots show the relationship between data sets, and can help us understand the impact of one factor on another.
+
+> 散点图显示了数据集之间的关系，可以帮助我们理解一个因素对另一个因素的影响。
+
+For example, the scatterplot below shows the relationship between the life expectancy-期待,期望 of people living-寿命 in a country and how happy those people are.
+
+> 例如，下面的散点图显示了居住在一个国家的人们的预期寿命与这些人的幸福程度之间的关系。
+
+The first variable, the happiness score, is reflected on the vertical axis —also called the **y-axis.** 
+
+> 第一个变量，幸福指数，反映在纵轴上——也被称为y轴
+
+The second variable, life expectancy, is on the horizontal axis —also called the **x-axis.**
+
+> 第二个变量，预期寿命，在横轴上，也称为x轴
+
+By looking at this scatterplot, we can tell that as a person’s happiness score increases, so does their life expectancy. 
+
+> 通过观察这张散点图，我们可以看出，一个人的幸福指数越高，他的预期寿命也越长。
+
+![Graph of happiness on the y-axis and health on the x-axis with a line trend and dots scattered in the top right](img/18.png)
 
 **Scatter plot best practices:** 
 
+> 散点图最佳实践
+
 - Start the y-axis at 0 to represent data accurately.
+
+	> y轴从0开始，以准确地表示数据。
+
+---
 
 **Comparing values**
 
-**Bar graphs** use size contrast to compare two or more values. In the example below, the time of day is compared to someone’s level of motivation throughout the whole work day. By comparing this data, we can tell that this person’s motivation is low at the beginning of the work day, and gets higher and higher by the end. Bar graphs are also a great way to clarify trends and identify patterns. 
+> 比较值
 
+**Bar graphs** use size contrast-差异,对比 to compare-比较 two or more values.
 
+> **条形图**使用大小对比来比较两个或多个值。
 
-![Bar chart signaling motivation throughout the day with bars (motivation) increasing as time increases](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/J01Dg46EQteNQ4OOhFLXMg_82a8f5b13caa40e8a410348821d35ada_C4M3L3R1_B-1-.png?expiry=1698969600000&hmac=bzTAQkJ9MYmtGR0GwvRCs7InA3L-4dm7NhyKWuLKuMQ)
+In the example below, the time of day is compared to someone’s level of motivation-动力,积极性 throughout the whole work day.
+
+> 在下面的例子中，将一天中的时间与某人在整个工作日中的动力水平进行比较。
+
+By comparing this data, we can tell that this person’s motivation is low at the beginning of the work day, and gets higher and higher by the end.
+
+> 通过比较这些数据，我们可以看出，这个人的动机在工作日开始时很低，到最后会越来越高。
+
+Bar graphs are also a great way to clarify-阐明,澄清 trends and identify patterns. 
+
+> 条形图也是一个很好的方式来阐明趋势和识别模式。
+
+![Bar chart signaling motivation throughout the day with bars (motivation) increasing as time increases](img/19.png)
 
 **Bar graph best practices:**
 
+> 柱状图最佳实践
+
 - Use consistent colors throughout the chart
 
-- Use accent colors to highlight important data points or changes over time
+	> 在整个图表中使用一致的颜色
+
+- Use accent-强调,突出 colors to highlight important data points or changes over time
+
+	> 使用重音颜色突出显示重要的数据点或随时间的变化
+
 - Use horizontal labels so it is easier to read 
+
+	> 使用水平标签，这样更容易阅读
+
+---
 
 **Demonstrating composition** 
 
-Now let’s check out another visualization you will probably recognize—the **pie chart.** Pie charts show us the **composition** of something. In other words, how much each part of something makes up the whole. The **pie chart** below shows us all the activities that make up someone’s day. Half of it is spent working, which is shown by the amount of space that the blue section takes up. From a quick glance at this pie chart, you can easily tell which activities make up a good chunk of the day and which ones take up less time.
+> 展示构成
 
+Now let’s check out another visualization you will probably recognize—the **pie chart.** 
 
+> 现在让我们来看看另一个你可能会认识的可视化图——饼状图
 
-![Pie chart of daily activities. Work showing 45% of the chart; eat, commute and watch TV show 8% and sleep is 29%](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/s2K1PuLcQQOitT7i3AEDvw_fc8fcc6169fa477bbd61e5ef51f285e1_C4M3L3R1_C.png?expiry=1698969600000&hmac=2Ynqa3dUHMG34PHtEDdOlZCl-H-3ZPSzDiYG-KJRQ5k)
+Pie charts show us the **composition** of something.
+
+> 饼状图向我们展示了某物的组成。
+
+In other words, how much each part of something makes up the whole.
+
+> 换句话说，就是某物的每个部分构成整体的程度。
+
+The **pie chart** below shows us all the activities that make up someone’s day.
+
+> 下面的饼状图向我们展示了组成一个人一天的所有活动。
+
+Half of it is spent working, which is shown-解释,表明 by the amount of space that the blue section takes up.
+
+> 一半的时间用于工作，这可以通过蓝色部分所占的空间来显示。
+
+From a quick glance-浏览 at this pie chart, you can easily tell which activities make up a good chunk-组块,数据块 of the day and which ones take up less time.
+
+> 快速浏览一下这个饼状图，你可以很容易地分辨出哪些活动占了一天的大部分时间，哪些活动占用的时间较少。
+
+![Pie chart of daily activities. Work showing 45% of the chart; eat, commute and watch TV show 8% and sleep is 29%](img/20.png)
 
 **Pie chart best practices:** 
 
-- Avoid including too many categories so it is easy to compare slices
+> 饼状图最佳实践
+
+- Avoid including too many categories so it is easy to compare slices-片
+
+	> 避免包含太多的类别，以便于比较切片
 
 - Make sure that the slice values add up to 100%
+
+	> 确保切片值加起来等于100%
+
 - Order slices according to their size
+
+	> 根据大小来点切片
+
+---
 
 **Analyzing trends and behaviors** 
 
-Tracking trends can help us understand shifts or changes in our data. **Line graphs** are a great tool for visually showing change over time, but they can be paired with other factors, too. In the line graph below, we are using two lines to compare the popularity of cats and dogs over a period of time. Because the graph is using two different line colors, we can instantly tell that dogs are more popular than cats. We will talk more about using colors and patterns to make visualizations more accessible to audiences later, too. Even as the lines move up and down, there is a general trend upwards, and the line for dogs always stays higher than the line for cats.
+> 分析趋势和行为
+
+Tracking trends can help us understand shifts-改变,转变 or changes in our data.
+
+> 跟踪趋势可以帮助我们了解数据的变化或变化。
+
+**Line graphs** are a great tool for visually showing change over time, but they can be paired-使成对,配对 with other factors, too.
+
+> 折线图是一个很好的工具，可以直观地显示随时间的变化，但它们也可以与其他因素配对。
+
+In the line graph below, we are using two lines to compare the popularity of cats and dogs over a period of time.
+
+> 在下面的线形图中，我们用两条线来比较猫和狗在一段时间内的受欢迎程度。
+
+Because the graph is using two different line colors, we can instantly-立刻,马上 tell that dogs are more popular than cats.
+
+> 由于图表使用了两种不同的线条颜色，我们可以立即看出狗比猫更受欢迎。
+
+We will talk more about using colors and patterns to make visualizations more accessible to audiences later, too.
+
+> 稍后，我们还将更多地讨论如何使用颜色和图案来使可视化更容易为观众所接受。
+
+Even as the lines move up and down, there is a general trend upwards, and the line for dogs always stays higher than the line for cats.
+
+> 尽管这条线上下移动，但总的趋势是向上的，而且狗的线总是比猫的线高。
 
 
 
-![Line chart of popularity on the y-xis and time on the x-axis. Two lines - one for dogs and one for cats trend up](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/td5XDwzqTVWeVw8M6l1Vvw_01a24f25a0784bfe94adc7cccb1a3fdd_C4M3L3R1_D.png?expiry=1698969600000&hmac=Vzmg8ET9dQz8_6m9uGwvO8XFzqCGKCacgtoQfa0Qbog)
+![Line chart of popularity on the y-xis and time on the x-axis. Two lines - one for dogs and one for cats trend up](img/21.png)
 
 **Line graph best practices:**
 
-- To avoid clutter, don't show more than four categories.
+> 线图最佳实践:
 
-- Organize highly variable data at the top of the chart to make it easy to read
+- To avoid clutter-杂乱的东西,杂乱, don't show more than four categories.
 
-Scatterplots, bar graphs, pie charts, and line graphs are common data visualizations you will use throughout your career as a project manager. To practice creating these charts, check out [this step-by-step overview for creating charts using Google Sheets](https://support.google.com/docs/answer/63824?co=GENIE.Platform%3DDesktop&hl=en) or this [resource](https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2) for Microsoft Excel. 
+	> 为了避免混乱，不要显示超过四个类别。
+
+- Organize highly-高度 variable-易变的,可变的 data at the top of the chart to make it easy to read
+
+	> 在图表顶部组织高度可变的数据，使其易于阅读
+
+---
+
+Scatterplots, bar graphs, pie charts, and line graphs are common data visualizations you will use throughout your career as a project manager.
+
+> 散点图、条形图、饼图和线形图是你作为项目经理的职业生涯中常用的数据可视化。
+
+To practice creating these charts, check out [this step-by-step overview for creating charts using Google Sheets](https://support.google.com/docs/answer/63824?co=GENIE.Platform%3DDesktop&hl=en) or this [resource](https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2) for Microsoft Excel. 
+
+> 要练习创建这些图表，请查看[使用谷歌表格创建图表的分步概述](https://support.google.com/docs/answer/63824?co=GENIE.Platform%3DDesktop&hl=en)或Microsoft Excel的[资源](https://support.microsoft.com/en-us/office/create-a-chart-from-start-to-finish-0baf399e-dd61-4e18-8a73-b3fd5d5680c2)。
 
 
 
 ## Effective presentation techniques
 
-Hi. You've learned the process of crafting a narrative about your project, and you've learned how to visualize key data points that help you to tell that story. Now it's time to bring it all together.
+Hi. You've learned the process of crafting-精心制作 a narrative-记叙文,叙述 about your project, and you've learned how to visualize key data points that help you to tell that story. Now it's time to bring it all together.
 
 > 你好。你已经学会了如何构建关于你的项目的叙述过程，以及如何可视化帮助你讲述这个故事的关键数据点。现在是时候把一切都整合在一起了。
 
-In this video, we'll highlight some useful presentation techniques. Think about one of your favorite public speakers and why you enjoy their presentations so much. Is it their voice, their knowledge, or the confidence they exude while speaking? Brene Brown is one of my favorite speakers. She's widely known for her 2010 TED Talk, The Power of Vulnerability, which received 60 million views worldwide. Brown didn't begin her career as a public speaker, but as a research professor at the University of Houston. Today, she uses public speaking as a way to teach executives and leaders about courage and empathy.
+In this video, we'll highlight some useful presentation techniques. Think about one of your favorite public speakers and why you enjoy their presentations so much. Is it their voice, their knowledge, or the confidence they exude-散发,流出 while speaking? Brene Brown is one of my favorite speakers. She's widely known for her 2010 TED Talk, The Power of Vulnerability, which received 60 million views worldwide. Brown didn't begin her career as a public speaker, but as a research professor-教授 at the University of Houston. Today, she uses public speaking as a way to teach executives-主管,经理 and leaders about courage-勇气,胆量 and empathy-同理心.
 
 > 在这个视频中，我们将强调一些有用的演讲技巧。想想你最喜欢的一位公开演讲者，以及你为什么那么喜欢他们的演讲。是他们的声音、知识，还是他们在演讲时流露出的自信？布伦·布朗（Brene Brown）是我最喜欢的演讲者之一。她因其2010年的TED演讲《脆弱的力量》而广为人知，在全球获得了6000万次观看。布朗并不是从事公开演讲而开始她的职业生涯，而是作为休斯敦大学的研究教授。今天，她利用公开演讲的方式教导高管和领导者有关勇气和同理心。
 
-Public speakers spend a lot of time working on their craft. Speaking to an audience—whether to inform, entertain, or share—isn't always easy, and data alone isn't enough to convince people that you've made the right decisions or that your project was impactful. An effective presentation helps convey the important work that you and your team are accomplishing on your project. And throughout the project, you'll likely have many opportunities to present—from your initial kickoff meeting to your weekly status updates to your final project presentation.
+Public speakers spend a lot of time working on their craft-技艺. Speaking to an audience—whether to inform, entertain-娱乐,使有兴趣,使快乐, or share—isn't always easy, and data alone isn't enough to convince-说服,劝服 people that you've made the right decisions or that your project was impactful. An effective presentation helps convey-表达,传递 the important work that you and your team are accomplishing on your project. And throughout the project, you'll likely have many opportunities to present—from your initial kickoff meeting to your weekly status updates to your final project presentation-演示.
 
 > 公开演讲者花费大量时间来磨练他们的技艺。向观众演讲，无论是为了提供信息、娱乐还是分享，都并不总是容易的，仅凭数据并不足以说服人们你已经做出了正确的决策或者你的项目具有重大影响。一个有效的演示可以帮助传达你和你的团队在项目上所做的重要工作。而在整个项目过程中，你可能会有很多机会进行演讲，从最初的启动会议到每周的状态更新，再到最后的项目演示。
 
-As you begin to craft your narrative, think about your audience. Ask yourself: What do I want my audience to know, think, or do as a result of this presentation? Create your presentation around the big picture, and keep it simple.
+As you begin to craft your narrative-记叙文,叙述, think about your audience. Ask yourself: What do I want my audience to know, think, or do as a result of this presentation? Create your presentation around the big picture, and keep it simple.
 
 > 当你开始构建你的叙述时，要考虑你的观众。问问自己：我希望我的观众在这次演示之后知道、思考或做什么？围绕大局来创建你的演示，保持简单。
 
-Now let's discuss three ways to help you give an effective presentation. Those are being precise, flexible, and memorable.
+Now let's discuss three ways to help you give an effective presentation. Those are being precise-精确的,准确的, flexible, and memorable-难忘的,值得纪念的.
 
 > 现在让我们讨论三种帮助你进行有效演示的方法。那就是要准确、灵活和令人难忘。
 
-First, to give an effective presentation, you need to be precise about your key points. Identify the problem you're solving for your audience and remove any content that dilutes your narrative. One way I ensure that my slideshow presentations are as precise as they can be is by using a technique called "designing for five seconds." The idea is that your audience should be able to understand a slide within five seconds. So I keep my presentation slides simple, including only the most relevant data points, to avoid overloading my audience with text they don't have time to read.
+First, to give an effective presentation, you need to be precise about your key points. Identify the problem you're solving for your audience and remove any content that dilutes-削弱,降低 your narrative. One way I ensure that my slideshow-幻灯片 presentations are as precise-精确的,准确的 as they can be is by using a technique called "designing for five seconds." The idea is that your audience should be able to understand a slide-幻灯片 within five seconds. So I keep my presentation slides simple, including only the most relevant data points, to avoid overloading my audience with text they don't have time to read.
 
 > 首先，为了进行有效的演示，你需要准确地了解你的要点。确定你要为观众解决的问题，并删除任何削弱你叙述的内容。我确保我的幻灯片演示尽可能精确的一种方法是使用一种称为“五秒钟设计”的技巧。这个想法是你的观众应该能够在五秒钟内理解一张幻灯片。所以我让我的演示幻灯片保持简单，只包括最相关的数据点，以避免用他们没有时间阅读的文本来过度加载我的观众。
 
-To give an effective presentation, you also need to be flexible. Flexibility is a huge part of your job as a project manager. For example, it's possible that a stakeholder may have to leave your presentation unexpectedly or that other attendees may arrive late. Consider the approach you'd take if you had to shorten your presentation from an hour to 30 minutes, or even just five. Know the most important points you want to make, and be prepared to share only those points, should the unexpected occur.
+To give an effective presentation, you also need to be flexible. Flexibility is a huge part of your job as a project manager. For example, it's possible that a stakeholder may have to leave your presentation unexpectedly or that other attendees-出席者,在场者 may arrive late. Consider the approach you'd take if you had to shorten your presentation from an hour to 30 minutes, or even just five. Know the most important points you want to make, and be prepared to share only those points, should the unexpected-想不到的,意外的 occur.
 
 > 为了进行有效的演示，你还需要具备灵活性。灵活性是作为项目经理工作的重要组成部分。例如，可能会有利益相关者不得不突然离开你的演示，或者其他与会者可能会迟到。考虑一下，如果你不得不将演示从一个小时缩短到30分钟，甚至只有五分钟，你将采取什么样的方法。知道你想要表达的最重要的观点，并准备在意外发生时只分享这些观点。
 
-Preparing
-
- ahead of time also helps you be more flexible when presenting. Ample preparation helps you to avoid small mistakes that can potentially distract from your narrative, like stumbling over sentences or struggling to pull up a slideshow presentation. To prepare ahead of time, you might practice delivering your presentation to members of your team and invite them to offer feedback, ask questions, or share concerns. Preparing ahead of time also gives you space to identify and come up with answers to the types of questions your audience might have about your presentation. It also gives you time to imagine and prepare for possible objections your audience might have to the decisions you want to make.
+Preparing ahead of time also helps you be more flexible when presenting. Ample-充足的,充裕的 preparation helps you to avoid small mistakes that can potentially distract-使分心,使转移注意力 from your narrative, like stumbling-障碍的 over sentences-句子 or struggling-奋斗 to pull up a slideshow presentation. To prepare ahead of time, you might practice delivering your presentation to members of your team and invite them to offer feedback, ask questions, or share concerns. Preparing ahead of time also gives you space to identify and come up with answers to the types of questions your audience might have about your presentation. It also gives you time to imagine and prepare for possible objections-反对,异议 your audience might have to the decisions you want to make.
 
 > 提前准备还有助于在演示时更加灵活。充分的准备可以帮助你避免小错误，这些错误可能会分散你叙述的注意力，比如句子结结巴巴或者努力打开幻灯片演示。提前准备时，你可以练习将你的演示交付给团队成员，并邀请他们提供反馈、提问或分享顾虑。提前准备还给了你时间去回答你的观众可能对你的演示提出的问题。它还给了你时间去想象和为你想要做出的决定可能会遇到的可能的反对意见做准备。
 
-Lastly, be memorable. Develop a strategy that helps make your narrative unforgettable. Think back to effective storytelling. This is the point where you want to tie in your data analysis, effective visualization, and put the finishing touches on your narrative to bring it all together. Use stories or include repetition to help your audience remember the information moving forward.
+Lastly, be memorable. Develop a strategy that helps make your narrative unforgettable. Think back to effective storytelling. This is the point where you want to tie-联系 in your data analysis, effective visualization, and put the finishing touches-润色 on your narrative to bring it all together. Use stories or include repetition-重复,重说 to help your audience remember the information moving forward.
 
 > 最后，要让人难忘。制定一个帮助你叙述令人难忘的策略。回想一下有效的叙述。这是你想要将数据分析、有效的可视化紧密结合，为你的叙述做最后的润色，使它变得完美无瑕的时刻。使用故事或重复来帮助你的观众记住信息。
 
-Another helpful tip is to be aware of your body language when presenting. Maintain an upright posture and rest your hands at your side. When making a point, try elevating your tone of voice for emphasis. Pace yourself by using intentional pauses and speak about half the speed you would normally speak while keeping your sentences short. Make eye contact with your audience and keep your facial expressions warm and friendly. Finally, have confidence. You've done the research and are well-prepared, you can set your worries aside. If you're precise, flexible, and memorable, you'll give a great presentation.
+Another helpful tip is to be aware of your body language when presenting. Maintain an upright-挺直的 posture-姿势,态度 and rest your hands at your side. When making a point, try elevating-提高 your tone of voice for emphasis-重要性,重点强调. Pace yourself by using intentional-故意的,蓄意的 pauses-暂停,停顿 and speak about half the speed you would normally speak while keeping your sentences short. Make eye contact with your audience and keep your facial-面部的 expressions-表情,神情 warm-友好的 and friendly. Finally, have confidence. You've done the research and are well-prepared, you can set your worries aside. If you're precise, flexible, and memorable, you'll give a great presentation.
 
 > 在演示时，另一个有用的提示是要注意你的身体语言。保持挺直的姿势，把手放在身体两侧。在表达观点时，尝试提高音调以突出重点。通过使用有意的暂停来调整自己的语速，以及保持句子简洁，来控制自己的语速。与观众保持眼神接触，保持面部表情温暖和友好。最后，要有信心。你已经做了研究，并做好了充分的准备，你可以放下担忧。如果你做到了准确、灵活和令人难忘，你将做出出色的演示。
 
-Now that you've analyzed the data and crafted your story, your job is to present your findings effectively. Use these tips to deliver a presentation worthy of a standing ovation. In the next video, we'll wrap up and review what we've recently learned. I'll meet you over there.
+Now that you've analyzed the data and crafted your story, your job is to present your findings effectively. Use these tips to deliver a presentation worthy of a standing-起立 ovation-鼓掌. In the next video, we'll wrap up and review what we've recently-最近,不久前 learned. I'll meet you over there.
 
 > 现在你已经分析了数据并构建了你的故事，你的任务是有效地呈现你的发现。使用这些建议来进行一个值得掌声的演示。在下一个视频中，我们将总结并回顾我们最近学到的内容。我会在那里见你。
 
@@ -1404,122 +1903,227 @@ Now that you've analyzed the data and crafted your story, your job is to present
 
 ## Preparing an effective presentation
 
-At various points throughout a project, you will likely be required to deliver a presentation to team members, key stakeholders, senior leaders, or customers. Use the following tips and best practices to help you prepare an effective presentation.
+> 准备一次有效的演讲
 
+At various points throughout a project, you will likely be required to deliver a presentation to team members, key stakeholders, senior leaders, or customers.
 
+> 在整个项目的不同阶段，您可能需要向团队成员、关键涉众、高级领导或客户交付演示文稿。
 
-![Three people gathered around a presentation screen with charts](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/qAGWvLjsTXmBlry47L15Tw_fbac57cd506a4587b4855db1d394c5b2_C4M3L3R3.png?expiry=1699142400000&hmac=3gV4rD5jYYeRZVs-EK2kZKnJlt8EY9N0ELOAvd0AM6k)
+Use the following tips and best practices to help you prepare an effective presentation.
+
+> 使用以下技巧和最佳实践来帮助你准备一个有效的演讲。
+
+![Three people gathered around a presentation screen with charts](img/22.png)
 
 **Preparation** 
 
 **Get clear on your goals and the purpose of your presentation.**
 
-Be clear and specific about what you want to get out of the meeting, then frame the discussion with that goal in mind. For instance, “We need two engineers who have worked in this industry before,” instead of “We need more resources.” 
+> 明确你的目标和你演讲的目的
 
-**Seek input and set expectations.**
+Be clear and specific about what you want to get out of the meeting, then frame the discussion with that goal in mind.
 
-Ask your manager or check with stakeholders regarding your presentation goals. Get their input and feedback ahead of time.
+> 明确你想从会议中得到什么，然后把这个目标放在讨论的框架里。
+
+For instance, “We need two engineers who have worked in this industry before,” instead of “We need more resources.” 
+
+> 例如，“我们需要两名以前在这个行业工作过的工程师”，而不是“我们需要更多的资源”。
+
+**Seek-寻求,谋求 input and set expectations.**
+
+> 寻求意见并设定期望
+
+Ask your manager or check with stakeholders regarding-涉及 your presentation goals.
+
+> 向你的经理或利益相关者询问你的演讲目标。
+
+Get their input and feedback ahead of time.
+
+> 提前获得他们的意见和反馈。
 
 - If you were invited to present, make sure you understand in advance exactly what the requestor is hoping to gain from your presentation.
 
+	> 如果你被邀请做演讲，确保你事先确切地了解请求者希望从你的演讲中获得什么。
+
 **Create a delivery plan.**
 
-Identify a headline for each slide, which is the one-sentence main point that you are trying to illustrate with that slide.
+> 制定交付计划
 
-- Create a couple of supporting points that add interest to the headline, such as anecdotes, charts, data, etc.
-- Build in signposts. These are ways to clue the audience in to where you are going and what to expect with your presentation.
-- Limit the number of slides in the main presentation. At the same time, consider creating backup slides for potential challenges, difficult questions, trade-offs, or alternative solutions. You can hide these backup slides at the end of your presentation if you don’t need them, or add them into your presentation if you do.
+Identify a headline-标题 for each slide, which is the one-sentence main point that you are trying to illustrate with that slide.
+
+> 为每张幻灯片确定一个标题，这是你试图用幻灯片说明的一句话要点。
+
+- Create a couple of supporting points that add interest to the headline, such as anecdotes-轶事,趣闻, charts, data, etc.
+
+	> 创建几个支撑点来增加标题的趣味性，比如轶事、图表、数据等。
+
+- Build in signposts-指示牌. These are ways to clue-线索,提示 the audience in to where you are going and what to expect with your presentation.
+
+	> 建立路标。这些方法可以让听众知道你要去哪里，以及你的演讲会带来什么。
+
+- Limit the number of slides in the main presentation. At the same time, consider creating backup slides for potential challenges, difficult questions, trade-offs-权衡, or alternative-替代物 solutions. You can hide these backup slides at the end of your presentation if you don’t need them, or add them into your presentation if you do.
+
+	> 限制主演示文稿中的幻灯片数量。同时，考虑为潜在的挑战、难题、权衡——或者替代——解决方案创建备份幻灯片。如果不需要这些备份幻灯片，可以在演示文稿结束时隐藏它们，如果需要，也可以将它们添加到演示文稿中。
 
 **Be mindful of your audience’s time.**
 
+> 注意听众的时间
+
 Invite only participants who need to be there.
+
+> 只邀请需要出席的参与者。
 
 - Send the presentation ahead of time, if possible.
 
+	> 如果可能的话，提前发送演示文稿。
+
 **Develop a strategy for making your presentation memorable.**
+
+> 制定一个让你的演讲令人难忘的策略
 
 Use stories and repeat key points. 
 
-- Start with a strong intro. Spend extra prep time on the beginning. The beginning is when your nerves are typically the highest, and delivering the introduction successfully can help you quickly gain confidence.
+> 使用故事并重复要点。
+
+- Start with a strong intro-介绍,介绍. Spend extra prep time on the beginning. The beginning is when your nerves-神经 are typically the highest-最高的, and delivering the introduction successfully can help you quickly gain confidence.
+
+	> 以强有力的自我介绍开始。在开始的时候多花些准备时间。开始的时候通常是你最紧张的时候，成功地介绍自己可以帮助你迅速获得信心。
 
 
+
+---
 
 **Practice**
 
+> 实践、练习
+
 **Guide your audience through your presentation.** 
 
-Help them notice what you notice, and transition between slides by using phrases like “Building on this point . . .” or “As I mentioned before . . .”
+> 引导你的听众完成你的演讲。
+
+Help them notice what you notice, and transition-过渡,转变 between slides by using phrases-短语,词组 like “Building on this point . . .” or “As I mentioned before . . .”
+
+> 帮助他们注意到你注意到的东西，并在幻灯片之间使用诸如“建立在这一点上……”或“正如我之前提到的……”之类的短语来过渡。
 
 **Do a mock presentation with your team.**
 
-If there will be more than one presenter, coordinate what each person will cover and how you will manage handoffs.
+> 和你的团队做一个模拟演示。
 
-- Practice a question-and-answer (Q&A) session, anticipating the kinds of questions your participants might ask so you are prepared with a quick and confident response. In addition, practice what you will say if you are asked a question that you don’t know the answer to.
-- Be prepared to run the whole meeting yourself. If a co-presenter fails to show up, are you prepared to step in?
+If there will be more than one presenter, coordinate what each person will cover and how you will manage handoffs-交接,传递.
 
-**Schedule time to practice.**
+> 如果演讲者不止一个，协调好每个人的演讲内容，以及如何处理交接。
 
-- Once you’ve outlined what you want to say, practice it—ideally in front of a mirror—or record yourself. This may help you identify awkward phrasing that could be improved and other issues.
+- Practice a question-and-answer (Q&A) session, anticipating-预期,预料 the kinds of questions your participants might ask so you are prepared with a quick and confident response. In addition, practice what you will say if you are asked a question that you don’t know the answer to.
+
+	> 练习提问和回答(Q&A)环节，预测你的参与者可能会问的问题，这样你就可以准备一个快速而自信的回答。另外，练习一下当你被问到一个你不知道答案的问题时你会怎么回答。
+
+- Be prepared to run the whole meeting yourself. If a co-presenter-共同主持,搭档 fails to show up, are you prepared to **step in**-叉手,介入?
+
+	> 准备好亲自主持整个会议。如果共同主持的人没有出现，你准备好介入了吗?
+
+**Schedule-安排 time to practice.**
+
+> 安排时间练习
+
+- Once you’ve outlined what you want to say, practice it—ideally-理想地,观念上地 in front of a mirror-镜子—or record yourself. This may help you identify awkward-令人尴尬的,使人难堪的 phrasing that could be improved and other issues.
+
+	> 一旦你勾勒出你想说的话，练习一下——最好是在镜子前——或者自己录下来。这可以帮助你找出可以改进的尴尬措辞和其他问题。
 
 **Be prepared for surprises.** 
 
-Show that you can adapt and that you know your subject matter. 
+> 准备好迎接惊喜
+
+Show that you can adapt and that you know your subject matter-情况. 
+
+> 表现出你可以适应，并且你了解你的主题。
 
 - If time runs short, can you quickly summarize the key points?
-- Can you pivot the content according to what is most important to your audience?
+
+	> 如果时间紧迫，你能快速总结要点吗?
+
+- Can you pivot the content **according to**-根据,按照 what is most important to your audience?
+
+	> 你能根据对你的听众最重要的内容来调整内容吗?
 
 
+
+---
 
 **Presentation and pace**
 
+> 表达和节奏
+
 **Get right to the point.** 
+
+> 开门见山
 
 Identify what problem you are solving and state it up front.
 
+> 确定你要解决的问题，并提前说明。
+
 - Tell the audience why you are in the room with them and what you will be covering.
-- Lay down the ground rules. For example, how do you want to handle questions and comments? Will you take them throughout your presentation or afterwards?
+
+	> 告诉听众你为什么和他们在一起，以及你将要报道什么。
+
+- Lay down the ground rules. For example, how do you want to handle questions and comments? Will you take them throughout your presentation or afterwards-以后,后来?
+
+	> 制定基本规则。例如，您希望如何处理问题和评论?你会在整个演讲过程中还是演讲结束后使用它们?
 
 **Check your pace.** 
 
-Be mindful of clues from your audience and adjust accordingly.
+> 检查你的速度
+
+Be mindful of clues-暗示,提示,线索 from your audience and adjust accordingly-相应地.
+
+> 注意听众的暗示并做出相应调整。
 
 **Follow up**
 
+> 跟进
+
 - If appropriate, send a follow up email with summary notes, action items, and time frames.
+
+	> 如果合适的话，发送一封带有总结笔记、行动项目和时间框架的后续邮件。
+
 - Debrief with your manager or key audience members on what they heard from the presentation. Ask them what went well and what could have gone better.
+
+	> 向你的经理或主要听众汇报他们从演讲中听到的内容。问问他们哪些进展顺利，哪些可以做得更好。
+
 - Review next steps.
 
+	> 回顾接下来的步骤。
 
 
-## Making presentations accessible
 
-Hello again. You just learned a lot about presentation best practices from my colleague. Just like you need to be strategic, prepared, and clear about which data you want to share, you also need to be intentional about ensuring your presentations are accessible and can be consumed and understood by everyone.
+## Making presentations-演示文稿 accessible
+
+> 使演示文稿易于访问
+
+Hello again. You just learned a lot about presentation best practices from my colleague-同事,同僚. Just like you need to be strategic-战略性的, prepared, and clear about which data you want to share, you also need to be intentional-故意的,蓄意的 about ensuring your presentations are accessible and can be consumed and understood by everyone.
 
 > 你好，又回来了。你刚刚从我的同事那里学到了很多有关演示的最佳实践。就像你需要在分享哪些数据时要有战略、做好准备并保持清晰一样，你还需要刻意确保你的演示具有可访问性，并可以被每个人消化和理解。
 
-Let's dive into some accessibility tips to set you up for success, starting with the design of your presentation. First, create clear, simple slides. Avoid using too many graphics, too much text, or too much animation. Visual complexity makes it harder for people to absorb information during your presentation, especially for those with a visual or cognitive impairment. If your slide uses animation, make sure that you don't leave people behind by making important content disappear. If people read more slowly or rely on an interpreter, they might need a bit more time to absorb the content. Avoid using repetitive animation, like flashing or flickering, since it can be distracting and can trigger seizures. Simple doesn't have to mean boring, though. A simple slide can still be beautiful and informative. Just don't try to crowd too much information or activity into a single slide. If you generally don't use slides when giving a talk, consider giving it a try—even if you create just one slide with your main points. If you rely only on your voice, that is, you don't provide any visual accompaniment, some people might have difficulty understanding, whether because of a language barrier or hearing or cognitive impairment.
+Let's dive into some accessibility tips to set you up for success, starting with the design of your presentation. First, create clear, simple slides. Avoid using too many graphics, too much text, or too much animation-动画. Visual complexity makes it harder for people to absorb-吸收,汲取 information during your presentation, especially for those with a visual or cognitive-认识的,认知的 impairment-缺陷,障碍. If your slide uses animation, make sure that you don't leave people behind by making important content disappear-消失,失踪. If people read more slowly-缓慢地,慢慢地 or rely on an interpreter-口译者, they might need a bit more time to absorb the content. Avoid using repetitive animation, like flashing-闪光 or flickering-闪烁, since it can be distracting and can trigger seizures-癫痫. Simple doesn't have to mean boring-乏味的,无趣的, though-不过,可是. A simple slide can still be beautiful and informative. Just don't try to crowd-聚集,群集 too much information or activity into a single slide. If you generally-通常 don't use slides when giving a talk, consider giving it a try—even if you create just one slide with your main points. If you rely only on your voice, that is, you don't provide any visual accompaniment-伴奏,伴随物, some people might have difficulty understanding, whether because of a language barrier or hearing or cognitive-认识的,认知的 impairment-缺陷,障碍.
 
 > 让我们深入探讨一些可访问性提示，以帮助你取得成功，首先从你的演示设计开始。首先，创建清晰、简洁的幻灯片。避免使用过多的图形、过多的文本或过多的动画。视觉复杂性会使人们在你的演示过程中更难吸收信息，特别是对于那些有视觉或认知障碍的人。如果你的幻灯片使用了动画，确保重要内容不会因此而消失，以免让人落后。如果人们阅读速度较慢或依赖翻译，他们可能需要更多的时间来吸收内容。避免使用重复的动画，比如闪烁或闪烁，因为这可能会分散注意力并引发癫痫。然而，简单并不意味着无聊。简单的幻灯片仍然可以既美观又信息丰富。只是不要试图将太多的信息或活动拥挤到一个幻灯片中。如果你通常在演讲时不使用幻灯片，考虑尝试一下，即使你只创建一个包含主要观点的幻灯片。如果你只依赖你的声音，也就是说，你不提供任何视觉伴随效果，一些人可能会难以理解，无论是因为语言障碍还是听力或认知障碍。
 
-Another tip is to include alternative text, also called "alt text," for any images, drawings, or diagrams. Doing so describes the information relayed in a graphic to make it accessible to people who rely on screen readers. To add alt text in Google Slides or PowerPoint, simply select the object, right-click, and then select "alt text." The same consideration applies to charts. Charts can be difficult to decipher, especially if they use a small font in order to fit more data. If your slide includes data-heavy charts or graphs, be sure to specify the takeaway either on the slide itself or in the speaker notes.
+Another tip is to include alternative-可替代的 text, also called "alt text," for any images, drawings, or diagrams. Doing so describes the information relayed-传递,传达 in a graphic to make it accessible to people who rely on screen readers. To add alt text in Google Slides or PowerPoint, simply select the object, right-click, and then select "alt text." The same consideration applies to charts. Charts can be difficult to decipher-理解,破译,辨认, especially if they use a small font in order to fit more data. If your slide includes data-heavy charts or graphs, be sure to specify-明确指出,具体说明 the takeaway-要点 either on the slide itself or in the speaker notes.
 
 > 另一个提示是为任何图像、图画或图表包括替代文本，也称为“alt文本”。这样做可以描述图形中传达的信息，以使依赖屏幕阅读器的人能够访问。要在Google幻灯片或PowerPoint中添加替代文本，只需选择对象，右键单击，然后选择“alt文本”。相同的考虑也适用于图表。图表可能很难解读，特别是如果它们使用小字体以适应更多的数据。如果你的幻灯片包含数据密集的图表或图形，请确保在幻灯片本身或演讲者备注中指定要点。
 
-Next, always use text for critical information. Never rely only on color or other visual formatting to convey critical information on a chart or slide. Relying too heavily on visual formatting excludes anyone who is color-blind or unable to see the screen. For example, to highlight a new section of a flowchart, don't simply use a different color. Along with the color change, add a textual cue, such as the word "new."
+Next, always use text for critical information. Never rely only on color or other visual formatting to convey-表达,传递 critical information on a chart or slide. Relying too heavily on visual formatting excludes anyone who is color-blind-色盲的 or unable to see the screen. For example, to highlight a new section of a flowchart, don't simply use a different color. **Along with**-除了 the color change, add a textual-本文的 cue-暗示,提示, such as the word "new."
 
-> 此外，始终使用文本来传达关键信息。永远不要仅仅依赖颜色或其他视觉格式来在图表或幻灯片上传达关键信息。过于依赖视觉格式会排斥任何色盲或无法看到屏幕的人。例如，要突出显示流程图的新部分，不要仅仅使用不同的颜色
+> 此外，始终使用文本来传达关键信息。永远不要仅仅依赖颜色或其他视觉格式来在图表或幻灯片上传达关键信息。过于依赖视觉格式会排斥任何色盲或无法看到屏幕的人。例如，要突出显示流程图的新部分，不要仅仅使用不同的颜色，除了颜色的改变，添加一个文本提示，比如“新”这个词。
 
-。除了颜色的改变，添加一个文本提示，比如“新”这个词。
-
-If your presentation relies heavily on images, consider including a written summary at the end of the presentation so that people can read your main points easily in one place. Another tip is to include captions for video content and in real-time. Provide captions for all audio or video recordings shared in your presentation. If you're using a YouTube video, check that the YouTube automatic captioning is accurate. If it's not, request closed captioning through a captioning service. Use real-time captioning for your presentation, if available. Along with helping deaf or hard-of-hearing audience members, real-time captioning is useful if there are diverse accents and languages in the room, if the presenter speaks too quickly, if there are microphone issues, or if you have chatty audience members who are distracting their neighbors.
+If your presentation relies heavily on images, consider including a written summary at the end of the presentation so that people can read your main points easily in one place. Another tip is to include captions-字幕 for video-录像 content and in real-time. Provide captions for all audio-音频的 or video recordings shared in your presentation. If you're using a YouTube video, check that the YouTube automatic captioning-字幕 is accurate. If it's not, request closed captioning through a captioning service. Use real-time captioning for your presentation, if available. Along with helping deaf-聋的 or hard-of-hearing audience members, real-time captioning is useful if there are diverse-不同的,各式各样的 accents-口音 and languages in the room, if the presenter speaks too quickly, if there are microphone-扩音器,麦克风 issues, or if you have chatty-饶舌的,爱讲闲话的 audience members who are distracting-使分心,使转移注意力 their neighbors-邻居,邻近的.
 
 > 如果你的演示高度依赖图像，考虑在演示的最后包括一个书面摘要，以便人们可以在一个地方轻松阅读你的主要观点。另一个提示是为视频内容和实时内容提供字幕。为演示中共享的所有音频或视频记录提供字幕。如果你使用YouTube视频，请检查YouTube自动字幕是否准确。如果不准确，可以通过字幕服务请求封闭字幕。如果有可能的话，使用实时字幕进行演示。除了帮助聋人或听觉有障碍的听众，实时字幕还在以下情况下很有用：如果房间里有不同的口音和语言，如果演讲者说得太快，如果有麦克风问题，或者如果你有闲话多的听众分散了他们的邻居的注意力。
 
-Another thing to remember is for contrast and text size, more is better. The difference between text and its background color is called contrast ratio. A high-contrast ratio makes it easier for people to read text or decipher images, especially if they're sitting far away or have low vision or color blindness. An ideal contrast ratio is 7:1. There are contrast checker tools available online, so be sure to check those out. Recommendations for text size vary, but bigger is usually better. Before your presentation begins, go to the back of the room and make sure you can read your slides. Also, the use of all capital letters makes reading texts more difficult for some people, such as people with dyslexia. When possible, avoid using all caps. This is a simple change that can go a long way.
+Another thing to remember is for contrast-对比度,对比,对照 and text size, more is better. The difference between text and its background color is called contrast ratio. A high-contrast ratio makes it easier for people to read text or decipher-理解,破译 images, especially if they're sitting far away or have low vision-视力,愿景 or color blindness-失明,盲区. An ideal contrast ratio is 7:1. There are contrast checker tools available online, so be sure to check those out. Recommendations for text size vary, but bigger is usually better. Before your presentation begins, go to the back of the room and make sure you can read your slides. Also, the use of all capital-大写的,资本 letters-字幕 makes reading texts more difficult for some people, such as people with dyslexia-阅读障碍. When possible, avoid using all caps-大写. This is a simple change that can go a long way.
 
 > 另一个要记住的是，对比度和文本大小，越多越好。文本和其背景颜色之间的差异被称为对比度比例。高对比度比例使人们更容易阅读文本或解读图像，特别是如果他们坐得离屏幕很远，或者视力不佳或色盲。理想的对比度比例是7:1。网上有对比度检查工具，所以一定要检查一下。关于文本大小的建议各不相同，但通常来说，更大通常更好。在你的演示开始之前，走到房间的后面，确保你能够阅读你的幻灯片。另外，使用全大写字母会使一些人，比如患有阅读障碍的人，阅读文本更加困难。在可能的情况下，避免使用全大写。这是一个简单的改变，但可以走很远。
 
-My final tip is to share your content in advance. If possible, send slides to your audience a few days before your presentation. This gives the audience a chance to review the content, and if needed, make arrangements to accommodate their own needs and preferences. For example, visually-impaired audience members might want to follow along with your slides on their own device with screen-reading software. If you aren't able to share your slides in advance, consider sending a document with a bulleted outline of your presentation. If you're using acronyms or technical or obscure terminology, include a glossary with definitions. This information is especially helpful for sign language interpreters and captioners. All of these best practices you just learned will help make your presentations accessible to all of your audience members. Remember, you can't communicate information effectively if your audience can't easily access it. For these and other best practices on how to make your documents and presentations more accessible, check out the resources tab. Coming up, you will learn about team communication and best practices. Good work so far! You're making real progress, and I'm excited to be a part of your journey.
+My final tip is to share your content in advance. If possible, send slides to your audience a few days before your presentation. This gives the audience a chance to review the content, and if needed, make arrangements-安排,筹备 to accommodate-考虑到,顾及 their own needs and preferences-偏爱,偏好. For example, visually-impaired-视力损伤的 audience members might want to follow along with your slides on their own device with screen-reading software. If you aren't able to share your slides in advance, consider sending a document with a bulleted outline of your presentation. If you're using acronyms-首字母缩略词 or technical or obscure-难以说清楚的,模糊的 terminology-术语, include a glossary with definitions. This information is especially helpful for sign language interpreters-口译者,译员 and captioners-字幕制作者. All of these best practices you just learned will help make your presentations accessible to all of your audience members. Remember, you can't communicate information effectively if your audience can't easily access it. For these and other best practices on how to make your documents and presentations more accessible, check out the resources tab. Coming up, you will learn about team communication and best practices. Good work so far! You're making real progress, and I'm excited to be a part of your journey.
 
 > 我的最后一个提示是提前分享你的内容。如果可能的话，将幻灯片提前几天发送给你的听众。这给了观众审查内容的机会，如果需要的话，可以安排以满足他们自己的需求和偏好。例如，视障听众可能希望在自己的设备上使用屏幕阅读软件跟踪你的幻灯片。如果你无法提前分享你的幻灯片，考虑发送一个带有演示大纲的文档。如果你使用首字母缩写、技术术语或晦涩的术语，包括一个包含定义的词汇表。这些信息对手语口译员和字幕制作者尤为有用。你刚刚学到的所有这些最佳实践都将有助于使你的演示对所有听众都具有可访问性。请记住，如果你的听众无法轻松获取信息，你将无法有效地传达信息。关于如何使你的文件和演示更具可访问性的这些和其他最佳实践，请查看资源选项卡。接下来，你将学习团队沟通和最佳实践。到目前为止，你做得非常出色！你正在取得实质性的进展，我很高兴能参与你的旅程。
 
@@ -1527,9 +2131,11 @@ My final tip is to share your content in advance. If possible, send slides to yo
 
 # Review: Data-informed Decision-making
 
+> 基于数据的决策
+
 ## Wrap-up
 
-Congrats on reaching the end of this module. So what did we learn? We learned that data plays a key part in the success of any organization and it impacts your role as a project manager. We've learned what data is, the value that data provides for your projects, and how it empowers you to achieve your project's goals. You learned about the different types of data, like metrics and projections, and how to identify and discern what information to watch for and to communicate to stakeholders. We also discussed how important data is to help you make informed decisions and showcase areas where you and your team are being most effective, flagging potential risks, and opportunities to advance. We reviewed data visualization and data tools and learned that facts are usually easier to remember when there's a visual alongside it. We also discussed ways for you to present all of your insights to stakeholders, colleagues, and customers. So let's pause so you can give yourself a high five for coming this far. Next up, we'll discuss leadership and the fundamentals of teamwork. Keep up the great work, and we'll meet you there when you're ready.
+Congrats on reaching the end of this module. So what did we learn? We learned that data plays a key part in the success of any organization and it impacts your role as a project manager. We've learned what data is, the value that data provides for your projects, and how it empowers-授权 you to achieve your project's goals. You learned about the different types of data, like metrics and projections-预测,预计, and how to identify and discern-辨别,识别 what information to watch for and to communicate to stakeholders. We also discussed how important data is to help you make informed decisions and showcase areas where you and your team are being most effective, flagging-给…做标记 potential risks, and opportunities to advance. We reviewed data visualization and data tools and learned that facts are usually easier to remember when there's a visual alongside it. We also discussed ways for you to present all of your insights to stakeholders, colleagues, and customers. So let's pause so you can give yourself a high five for coming this far. Next up, we'll discuss leadership-领导力 and the fundamentals of teamwork. Keep up the great work, and we'll meet you there when you're ready.
 
 > 恭喜你完成了这个模块。那么我们学到了什么呢？我们学到了数据在任何组织的成功中都起着关键作用，它影响着你作为项目经理的角色。我们了解了数据是什么，数据为你的项目提供了什么价值，以及如何使你能够实现项目的目标。你学到了不同类型的数据，比如指标和预测，以及如何识别和区分要关注的信息，并向利益相关者传达。我们还讨论了数据对于帮助你做出明智决策以及展示你和你的团队效果最好的领域，标志潜在风险和推进机会的重要性。我们回顾了数据可视化和数据工具，并了解到，通常情况下，有可视化效果的数据更容易记住。我们还讨论了如何向利益相关者、同事和客户呈现所有你的见解。所以让我们停下来，好让你能够给自己来一个高潮，感受一下你已经走了这么远。接下来，我们将讨论领导力和团队合作的基本原则。继续保持出色的工作，我们将在你准备好时见面。
 

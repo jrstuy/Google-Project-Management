@@ -32,3 +32,70 @@ Structure and clarity refers to an individual's understanding of job expectation
 
 
 
+
+
+I am studying by TOGAF reference, but English is not my native language, and I also hope to learn English. So I need your help with the following things:
+
+1. Help me summarize the original text and present it in simpler English (easy to read).
+2. My native language is Chinese, and I hope you can add parentheses with Chinese translations after some difficult  words.
+3. My vocabulary is about the level of an American middle school student (only 2500 words).
+
+Reply 'understood' if you get it, and then I will give you the original text.
+
+
+
+
+
+
+
+11.06 ～ 11.12
+
+Must Have：
+
+- [x] 完成 Google 项目管理 L4W3 内容
+- [x]  11.07 跑步（6KM）
+- [x] 胸（11.7 -> 11.8）
+- [x] 11.08 跑步（2KM）
+- [ ] 肩（11.10）、背（11.11）一个循环 +， 4次跑步（11.11，11.12），
+- [ ] 周五晚带小朋友锻炼
+- [x] 周四分享 debezium 同步数据中间件
+- [x] 整理 sales 相关内容的业务流程
+- [x] 完成上线后的 standby
+- [x] 周一明缘聚餐
+
+Nice Have：
+
+- [ ] 完成 Google 项目管理 L4W4 第一块内容
+- [ ] 11.10号如果没事可以跑步一次
+- [ ] 周六下午不睡觉，去图书馆学习 GPM 课程
+- [ ] 周日下午带小朋友出去玩
+
+
+
+11.13 ～ 11.19
+
+> 上周由于特殊原因，加班两天，导致一些任务没有完成，这周争取改正
+
+Must Have：
+
+- [x] 周一 休假，出去玩，放松心情，出去玩时，不碰电脑
+- [x] 周二跑步1小时
+- [x] 周三陪小孩子进行运动 - 自己去了运动，小朋友手受伤了
+- [ ] 周四如果小孩子游泳，我去健身，如果不游泳陪小孩子运动
+- [ ] 周六 图书馆 与健身
+- [ ] 周日 陪小孩子去军博
+- [x] 把天津聚会的时间确定
+- [ ] 完成 Google 项目管理 L4W4 内容
+
+
+
+Nice Have：
+
+- [ ] 大到着眼整理 ES 官方文档的整体内容
+
+
+
+
+
+
+
