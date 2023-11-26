@@ -1748,15 +1748,487 @@ If those around you trust your decision-making, they may be more likely to try t
 
 # The elements of influencing
 
+> 影响因素
+
 ## Steps to effective influencing
 
-Hi again. In this video, we're going to discuss influencing the people around you. I'll describe the four steps of influencing and some common influencing mistakes. There are a few techniques that project managers can use to influence the people they work with, both within a team and beyond it. But first, what do we mean by influencing? Influencing is the ability to alter another person's thinking or behaviors. We'll discuss the concept of influencing in the context of our Plant Pals project at Office Green. Let's say that your team would like to partner with a well-known chocolate manufacturer to create a bundle deal. With this deal, the client could choose to add on a high-quality chocolate bar with each plant they purchase. You decide to send an initial email to a partnership Manager at the chocolate manufacturer to gauge their interest in the idea, and ultimately influence them to work with you. So, how do you go about writing that email that effectively influences your audience to consider your idea? Well, it turns out there are four tried and true steps of effective influencing. Leadership expert, Dr. Jay A Conger identifies the steps to effective influencing as: establish credibility, frame for common ground, provide evidence and connect emotionally. Let's discuss each step. The first step to effective influencing is to establish credibility. During this step, you make the case for why your audience should listen to you. According to Dr. Conger, credibility comes from two sources, expertise, and relationships. You need to demonstrate to your audience that you're an expert on a given topic, whether that's through professional experience, extensive research, or something else, and you need to demonstrate relationship credibility by establishing that you're honest, trustworthy, and someone who they want to work with. To establish credibility, you might kick off your Office Green email by greeting the recipient by name, then writing something like, "I'm Elita, a lead project manager at Office Green. Your colleague, Alex, passed on your contact information. Alex and I worked together to launch new services at Office Green before she joined your organization." In these opening lines, you've established expertise, credibility by introducing your role at office green and by suddenly highlighting that you've launched new services in the past. To demonstrate relationship credibility, you've established that you and the recipient have a shared contact who has worked closely with you in the past and can vouch for your trustworthiness and emotional intelligence. The second step is to frame for common ground. In this step, you'll make the case for how your idea can benefit your audience. To determine this, you'll need a strong understanding of your audience and their values. In essence, what about your idea will appeal to them, and how will they stand to benefit from agreeing to your idea? In our Office Green email, you might establish that you've researched their organization extensively and believe that this new service might align with their current offerings. For example, you might write something like this, "We're launching a service to provide top clients with desk plants and we'd like to explore a bundle offering to pair high-quality chocolate with each plant order. I've admired your organizations push in recent years to work with other lifestyle and wellness brands and I think there may be a great opportunity for us to collaborate." In this portion of the email, you've established that you've done your research on the organization and that their previous partnerships indicate that working together might be a great fit. The next step is to provide evidence. In this step, you'll make your case through hard data and persuasive storytelling. Numbers aren't strong enough on their own. They need stories to live in them up. In our Office Green email, you might appeal to your recipient with a line like, "We recently surveyed clients to gauge interest in this kind of offering, and your brand came up again and again." In this example, you provided evidence through the results of client surveys which showed overwhelmingly positive brand recognition for our shared audience. The last step is to connect emotionally. In this step, you'll demonstrate to your audience that you're emotionally committed to your idea and you'll do your best to match their emotional state. In our Office Green email, you might demonstrate an emotional connection by tapping into their brand ethos. For example, you might write something like, "We've been following your profile on Instagram and love your posts on chocolate's connection to living a well and balanced lifestyle. Perhaps we can discuss combining forces to bring this message to an even wider audience," and then you end your note with a friendly closer, something like, "If you're interested, I'd love to connect and share what our partner program is all about." To recap, establishing credibility, framing for common ground, providing evidence and connecting emotionally, are four proven, effective steps you can apply when attempting to influence others. Dr. Conger also identified four common mistakes that people make when attempting to influence others. They'll often approach their audience too aggressively, and that tends to put people off ideas entirely. They might also resist compromise, which is crucial for any kind of mutual agreement. They'll focus too much on developing their argument for the idea and not enough time establishing credibility, framing for common ground, providing evidence and connecting emotionally, and they'll assume that they can work out an agreement through just one conversation. These mistakes can jeopardize your attempts to influence others and limit your ability to build relationships, so be mindful of these common mistakes when preparing to pitch another person on your big idea. Great job. Now you know the four steps of influencing, as well as some common mistakes that people make when attempting to influence others. Coming up, you'll learn more about personal and organizational sources of influencing power. Meet you in the next video.
+> 有效影响的步骤
+
+Hi again.
+
+In this video, we're going to discuss influencing the people around you.
+
+> 在这个视频中，我们将讨论如何影响你周围的人。
+
+I'll describe the four steps of influencing and some common influencing mistakes.
+
+> 我将描述影响的四个步骤和一些常见的影响错误。
+
+There are a few techniques that project managers can use to influence the people they work with, both within a team and beyond it.
+
+> 项目经理可以使用一些技巧来影响与他们一起工作的人，无论是在团队内部还是团队之外。
+
+---
+
+But first, what do we mean by influencing?
+
+> 但首先，我们所说的影响是什么意思?
+
+Influencing is the ability to alter another person's thinking or behaviors.
+
+> 影响是改变他人思想或行为的能力。
+
+We'll discuss the concept of influencing in the context of our Plant Pals project at Office Green.
+
+> 我们将在“绿色办公室”的植物伙伴项目中讨论影响的概念。
+
+Let's say that your team would like to partner-成为搭档,合伙 with a well-known chocolate-巧克力 manufacturer-生产商,制造商 to create a bundle-捆,绑 deal-交易.
+
+> 假设你的团队想与一家知名的巧克力制造商合作，创造一个捆绑交易。
+
+With this deal, the client could choose to add on a high-quality chocolate bar with each plant they purchase.
+
+> 通过这项交易，客户可以选择在他们购买的每棵植物上添加一个高质量的巧克力棒。
+
+You decide to send an initial email to a partnership Manager at the chocolate manufacturer to gauge-判断,测量 their interest in the idea, and ultimately influence them to work with you.
+
+> 你决定向巧克力制造商的合作经理发送一封初始邮件，以评估他们对这个想法的兴趣，并最终影响他们与你合作。
+
+So, how do you go about writing that email that effectively influences your audience to consider your idea?
+
+> 那么，你该如何写邮件来有效地影响你的听众，让他们考虑你的想法呢?
+
+Well, it turns out there are four tried-经过验证的,可靠的 and true steps of effective influencing.
+
+> 事实证明，有四个行之有效的有效影响步骤。
+
+Leadership expert, Dr. Jay A Conger identifies the steps to effective influencing as: establish credibility-可靠性,可信度, frame for common ground, provide evidence-证据,证明 and connect emotionally-感情上,情绪上.
+
+> 领导力专家Jay A . Conger博士认为，有效影响的步骤包括:建立可信度、建立共识框架、提供证据和情感联系。
+
+Let's discuss each step.
+
+---
+
+The first step to effective influencing is to establish credibility-可靠性,可信度.
+
+> 有效影响的第一步是建立信誉。
+
+During this step, you make the case for why your audience should listen to you.
+
+> 在这一步中，你要说明为什么你的听众应该听你说话。
+
+According to Dr. Conger, credibility comes from two sources, expertise-专业知识, and relationships-人际关系.
+
+> 根据康格博士的说法，可信度来自两个方面，专业知识和人际关系。
+
+You need to demonstrate to your audience that you're an expert on a given topic, whether that's through professional experience, extensive-广阔的,广泛的 research, or something else, and you need to demonstrate relationship credibility by establishing that you're honest-诚实的,正直的, trustworthy, and someone who they want to work with.
+
+> 你需要向你的听众证明你是某一特定领域的专家，无论是通过专业经验，广泛的研究，还是其他什么，你需要通过建立诚实，值得信赖的关系来证明你是他们想要合作的人。
+
+To establish credibility, you might kick off your Office Green email by greeting the recipient by name, then writing something like, "I'm Elita, a lead project manager at Office Green.
+
+> 为了建立信誉，你可以通过称呼收件人的名字来开始你的Office Green电子邮件，然后写一些像“我是Elita, Office Green的首席项目经理。
+
+Your colleague, Alex, passed on your contact-联系,联络 information.
+
+> 你的同事亚历克斯把你的联系方式给我了。
+
+Alex and I worked together to launch new services at Office Green before she joined your organization." 
+
+> 在亚历克斯加入贵公司之前，我和她一起在绿色办公室推出了新的服务。”
+
+In these opening lines, you've established expertise, credibility by introducing your role at office green and by suddenly highlighting that you've launched new services in the past.
+
+> 在这些开场白中，通过介绍你在办公室绿色环保中的角色，以及突然强调你过去曾推出过新服务，你已经建立了专业知识和可信度。
+
+To demonstrate relationship credibility, you've established that you and the recipient have a shared contact who has worked closely with you in the past and can vouch-担保,证明 for your trustworthiness and emotional-情感的,情绪的 intelligence-才智.
+
+> 为了证明这段关系的可信度，你已经建立了你和收信人有一个共同的联系人，这个联系人过去曾与你密切合作过，可以为你的可信度和情商做担保。
+
+---
+
+The second step is to frame for common ground.
+
+> 第二步是建立共同基础。
+
+In this step, you'll make the case for how your idea can benefit your audience. 
+
+> 在这一步中，你要说明你的想法如何能让你的听众受益。
+
+To determine this, you'll need a strong understanding of your audience and their values.
+
+> 为了确定这一点，你需要对你的用户和他们的价值观有深刻的了解。
+
+In essence-本质,要素, what about your idea will appeal-有吸引力,引起兴趣 to them, and how will they stand to benefit from agreeing to your idea?
+
+> 从本质上讲，你的想法如何吸引他们，他们将如何从同意你的想法中获益?
+
+In our Office Green email, you might establish that you've researched their organization extensively-广阔的,广泛的 and believe that this new service might align with their current offerings.
+
+> 在我们的Office Green电子邮件中，你可以表明你已经对他们的组织进行了广泛的研究，并且相信这项新服务可能与他们目前的产品相一致。
+
+For example, you might write something like this, "We're launching a service to provide top clients with desk plants and we'd like to explore a bundle-捆绑 offering to pair high-quality chocolate with each plant order.
+
+> 例如，你可以这样写:“我们正在推出一项服务，为顶级客户提供桌上植物，我们想探索一种捆绑服务，将高质量的巧克力与每份植物订单搭配在一起。”
+
+I've admired-钦佩,仰慕,欣赏 your organizations push in recent years to work with other lifestyle and wellness-健康 brands and I think there may be a great opportunity for us to collaborate."
+
+> 我很钦佩贵公司近年来与其他生活方式和健康品牌合作的努力，我认为我们可能有很好的合作机会。”
+
+In this portion-一部分,一份 of the email, you've established that you've done your research on the organization and that their previous partnerships indicate that working together might be a great fit.
+
+> 在邮件的这一部分，你要表明你已经对这家公司做了研究，他们之前的合作伙伴关系表明，在一起工作可能是一个非常合适的选择。
+
+---
+
+The next step is to provide evidence-证明,证据.
+
+> 下一步是提供证据。
+
+In this step, you'll make your case through hard-确凿的 data and persuasive-有说服力的,能使人信服的 storytelling-讲故事.
+
+> 在这一步中，你将通过确凿的数据和有说服力的故事来证明你的观点。
+
+Numbers aren't strong enough on their own.
+
+> 数字本身是不够强大的。
+
+They need stories to live in them up.
+
+> 他们需要故事来充实自己。
+
+In our Office Green email, you might appeal to your recipient with a line like, "We recently surveyed clients to gauge-估计,测量 interest in this kind of offering, and your brand **came up**-出现 again and again."
+
+> 在我们的Office Green电子邮件中，你可以这样吸引收件人:“我们最近调查了客户对这类产品的兴趣，你们的品牌一次又一次地出现。”
+
+In this example, you provided evidence-证据,证明 through the results of client surveys which showed overwhelmingly-压倒性地,不可抵抗地 positive brand recognition for our shared audience.
+
+> 在这个例子中，你通过客户调查的结果提供了证据，这些结果显示我们的共同受众对品牌的认知度非常高。
+
+---
+
+The last step is to connect emotionally-情感上.
+
+> 最后一步是情感上的交流。
+
+In this step, you'll demonstrate to your audience that you're emotionally committed to your idea and you'll do your best to match their emotional state.
+
+> 在这一步中，你要向你的听众证明你在情感上忠于你的想法，你会尽你所能去迎合他们的情感状态。
+
+In our Office Green email, you might demonstrate an emotional connection by tapping into their brand ethos-气质.
+
+> 在我们的Office Green电子邮件中，你可以通过挖掘他们的品牌气质来展示一种情感联系。
+
+For example, you might write something like, "We've been following your profile on Instagram and love your posts-帖子 on chocolate's connection to living a well and balanced lifestyle.
+
+> 例如，你可以这样写:“我们一直在关注你在Instagram上的个人资料，喜欢你关于巧克力与健康平衡生活方式的联系的帖子。
+
+Perhaps we can discuss combining forces-力,力量,影响力 to bring this message to an even wider audience," and then you end your note with a friendly closer, something like, "If you're interested, I'd love to connect and share what our partner program is all about."
+
+> 也许我们可以讨论联合力量，把这个信息带给更广泛的受众，”然后你以友好的结尾结束，比如，“如果你感兴趣，我很乐意联系并分享我们的合作伙伴计划是关于什么的。”
+
+---
+
+To recap, establishing credibility, framing for common ground, providing evidence and connecting emotionally, are four proven-被证明的,已证实的, effective steps you can apply when attempting-努力,尝试 to influence others.
+
+> 总而言之，建立信誉、建立共识、提供证据和情感上的联系是四个被证明有效的步骤，当你试图影响他人时，你可以应用这些步骤。
+
+Dr. Conger also identified four common mistakes that people make when attempting-尝试,努力 to influence others.
+
+> 康格博士还指出了人们在试图影响他人时会犯的四个常见错误。
+
+They'll often approach-接近,靠近 their audience too aggressively-好斗地,侵略地, and that tends-倾向于,往往会 to put people off ideas entirely.
+
+> 他们通常会过于咄咄逼人地接近听众，这往往会让听众完全放弃自己的想法。
+
+They might also resist-阻挡,抵制 compromise-妥协,让步, which is crucial for any kind of mutual-共同的,共有的 agreement.
+
+> 他们也可能拒绝妥协，而妥协对于任何形式的共同协议都是至关重要的。
+
+They'll focus too much on developing their argument for the idea and not enough time establishing credibility, framing for common ground, providing evidence and connecting emotionally, and they'll assume that they can work out an agreement through just one conversation.
+
+> 他们会把过多的精力放在阐述自己的观点上，而没有足够的时间来建立可信度、构建共同点、提供证据和情感联系，他们会认为自己可以通过一次谈话达成协议。
+
+These mistakes can jeopardize-危及,损害 your attempts-努力,试图,尝试 to influence others and limit your ability to build relationships, so be mindful of these common mistakes when preparing to pitch-推销 another person on your big idea.
+
+> 这些错误会危及你影响他人的努力，限制你建立人际关系的能力，所以在准备向别人推销你的伟大想法时，要注意这些常见的错误。
+
+---
+
+Great job.
+
+Now you know the four steps of influencing, as well as some common mistakes that people make when attempting to influence others.
+
+> 现在你知道了影响他人的四个步骤，以及人们在试图影响他人时会犯的一些常见错误。
+
+Coming up, you'll learn more about personal and organizational sources of influencing power.
+
+> 接下来，你会学到更多关于个人和组织影响力的来源。
+
+Meet you in the next video.
 
 
 
 ## Using sources of power to influence
 
-Welcome back. Earlier, you learned how your approach can impact your ability to influence others. But influencing is about more than just your approach. In fact, so much of your ability to influence others comes from your own sources of power. Throughout your career, you'll rely on your sources of power to influence others to do great work in service of the project goals. In his book, The Elements of Power: Lessons On Leadership and Influence, the researcher Terry Bacon, determined that most power sources fall into two buckets, organizational and personal. From these power sources, we picked out the ones we feel are most important to cover here. Let's start with organizational sources of power, which include your role, information, network, and reputation. First, we have your role, which refers to your position within an organization, or team. In a project management role, you have a certain level of power over the project, and therefore more influence. Information is another source of organizational power, which refers to your level of access, and control over information. As a project manager, you possess a huge amount of information about your work, and your stakeholders, which can work to your benefit. Now it may be tempting to assume that as a leader, you have all of the answers, but to be a good influencer, you should ask questions, and consider all ideas. You may even hear new insights, and notice issues in a different way. Share information with your team regularly so that they can provide input on the full picture. You can also derive power from your network. This refers to people you're connected with professionally and personally. Strong connections within your organization and beyond it can boost your ability to influence others, and help your project continue on. If you demonstrate that you're well-connected and have a good chance of getting stakeholders support, or budget approval for your plans, then you're more likely to get your audience on your side. You should use your network to help colleagues make new connections. Your team's effectiveness will increase as you take on the responsibility of helping each person develop their skills and expand their network, which in turn increases their own influencing power. Lastly, we have reputation, which refers to how others perceive you overall. As you might expect, people with positive reputations tend to be more influential than those with negative reputations. One way I've noticed this play out is through collaboration. If you're a good collaborator, you can boost your reputation by becoming known for being easy to work with, keeping your commitments, and helping others achieve their own goals. Your role, access to and control of information, network, and reputation are important organizational sources of power to be aware of. It's also important to identify power sources that come from you. These are referred to as personal sources of power, which include knowledge, expressiveness, history and character. I like to think of these as your own personal superpowers. Knowledge refers to the power that you draw from your expertise in certain subjects, your unique abilities, and skill sets, and even your ability to learn new things. What comes to mind when you think about an influential leader? Typically, they have a lot of knowledge in their field and you're more likely to trust their opinion. When you're considering how to use your own knowledge as a source of power, reflect on the expertise you already have, and consider areas where you still want to grow and learn more. Expressiveness refers to your ability to communicate with others. This is a big one. As you learned earlier, so much of influencing comes down to how you approach your audience. Maybe you're a great storyteller, or maybe you're really good at connecting emotionally with people. Strong communication skills like these can significantly increase your ability to influence others. The next personal source of power is history. History refers to the level of personal history there is between yourself and another person. Makes sense. A strong relationship with the person you hope to influence can go a long way. As a project manager, you'll be managing team dynamics and building team relationships, which can help you build up personal history with the people around you, and finally, character. Character refers to other people's view of the qualities that make you: you. Like, honesty, integrity, kindness, and so much more. Character is a huge one, you'll derive an enormous amount of power from high estimates of your character. What personal characteristics do you value within yourself? These are the qualities that have the power to make you a strong, supportive leader for the people around you. Knowledge, expressiveness, history, and character, are just four personal sources of power, but it's important to remember that there's so much wrapped in each one of these. There's trustworthiness, authenticity, wisdom, and on and on. There's so many attributes to draw power from. I like to think of these elements as personal superpowers. I learned early on in my career that my personal superpower is knowledge, specifically my innate curiosity. When I started at Google, I didn't have a background in software engineering, but I'm a naturally curious person and I'm not afraid to ask questions. When I join a new team, I find the engineer who seems to have the most knowledge or experience, and I ask them to teach me how everything works. Most people are genuinely interested in sharing what they know. That initial chat usually leads to conversations over lunch, which helps me to build my own knowledge, and personal history with my colleague. Through these conversations, I learn about other teammates to connect with, which increases my network. As you build your career, try to identify your own superpowers. Find the combination of influencing techniques that best suits your particular circumstances. It takes practice to polish your skills, and lean into various superpowers when working with others, but if you invest time in thinking, and troubleshooting your influencing strategy, it will pay off. In the next video, we'll review and wrap up. Meet you there.
+> 利用权力来施加影响
+
+Welcome back.
+
+Earlier, you learned how your approach can impact your ability to influence others.
+
+> 前面，你了解了你的方法如何影响你影响他人的能力。
+
+But influencing is about more than just your approach.
+
+> 但影响不仅仅是你的方法。
+
+In fact, so much of your ability to influence others comes from your own sources of power.
+
+> 事实上，你影响他人的能力很大程度上来自于你自己的权力来源。
+
+Throughout your career, you'll rely on your sources of power to influence others to do great work in service of the project goals. 
+
+> 事实上，你影响他人的能力很大程度上来自于你自己的权力来源。在您的整个职业生涯中，您将依赖于您的权力来源来影响他人为项目目标服务。
+
+In his book, The Elements of Power: Lessons On Leadership and Influence, the researcher Terry Bacon, determined that most power sources fall into two buckets, organizational and personal.
+
+> 在《权力的要素:关于领导力和影响力的课程》一书中，研究人员特里·培根(Terry Bacon)认为，大多数权力来源可以分为两类:组织和个人。
+
+From these power sources, we picked-挑选,采摘 out the ones we feel are most important to cover here.
+
+> 从这些动力源中，我们挑选了我们认为最重要的几个来介绍。
+
+---
+
+Let's start with organizational sources of power, which include your role, information, network, and reputation-名誉,名声.
+
+> 让我们从组织权力来源开始，包括你的角色、信息、网络和声誉。
+
+---
+
+First, we have your role, which refers to your position within an organization, or team.
+
+> 首先，我们有你的角色，它指的是你在一个组织或团队中的位置。
+
+In a project management role, you have a certain-一定程度上的 level of power over the project, and therefore more influence.
+
+> 在项目管理角色中，您对项目有一定程度的权力，因此具有更大的影响力。
+
+---
+
+Information is another source of organizational power, which refers to your level of access, and control over information.
+
+> 信息是组织权力的另一个来源，它指的是你对信息的访问和控制水平。
+
+As a project manager, you possess-拥有,持有 a huge amount of information about your work, and your stakeholders, which can work to your benefit.
+
+> 作为一个项目经理，您拥有大量关于您的工作和您的涉众的信息，这些信息可以为您的工作带来好处。
+
+Now it may be tempting-引诱,诱惑 to assume that as a leader, you have all of the answers, but to be a good influencer-有影响力的人, you should ask questions, and consider all ideas.
+
+> 现在，作为一个领导者，你可能很容易认为你有所有的答案，但要成为一个好的影响者，你应该提出问题，并考虑所有的想法。
+
+You may even hear new insights, and notice issues in a different way.
+
+> 你甚至可以听到新的见解，并以不同的方式注意问题。
+
+Share information with your team regularly so that they can provide input on the full picture.
+
+> 定期与你的团队分享信息，这样他们就可以提供全面的信息。
+
+---
+
+You can also derive-获得,取得 power from your network.
+
+> 你也可以从你的关系网中获得力量。
+
+This refers to people you're connected with professionally and personally-私人地,私下里.
+
+> 这指的是与你有专业和私人关系的人。
+
+Strong connections within your organization and beyond it can boost-推动,促进 your ability to influence others, and help your project continue on.
+
+> 组织内外的紧密联系可以提高你影响他人的能力，并帮助你的项目继续下去。
+
+If you demonstrate that you're well-connected and have a good chance of getting stakeholders support, or budget approval for your plans, then you're more likely to get your audience on your side.
+
+> 如果你能证明你人脉很广，很有可能得到利益相关者的支持，或者你的计划得到预算批准，那么你就更有可能得到听众的支持。
+
+You should use your network to help colleagues make new connections.
+
+> 你应该利用你的人际网络帮助同事建立新的关系。
+
+Your team's effectiveness will increase as you take on the responsibility of helping each person develop their skills and expand their network, which in turn increases their own influencing power.
+
+> 当你承担起帮助每个人发展他们的技能和扩大他们的网络的责任时，你的团队的效率就会提高，这反过来又会增加他们自己的影响力。
+
+---
+
+Lastly, we have reputation-声誉,名誉, which refers to how others perceive-认为,理解 you overall.
+
+> 最后是声誉，它指的是别人对你的整体看法。
+
+As you might expect, people with positive reputations tend to be more influential than those with negative reputations.
+
+> 正如你所料，拥有正面声誉的人往往比那些拥有负面声誉的人更有影响力。
+
+One way I've noticed this play out is through collaboration.
+
+> 我注意到的一种方式是合作。
+
+If you're a good collaborator, you can boost-提高,提升,推动,促进 your reputation by becoming known for being easy to work with, keeping your commitments-承诺,保证, and helping others achieve their own goals.
+
+> 如果你是一个好的合作者，你可以通过容易相处、信守承诺和帮助他人实现自己的目标来提高自己的声誉。
+
+Your role, access-获取,访问 to and control of information, network, and reputation are important organizational sources of power to be aware of.
+
+> 你的角色、对信息、网络和声誉的访问和控制是重要的组织权力来源。
+
+---
+
+It's also important to identify power sources that come from you.
+
+> 确定来自你的力量来源也很重要。
+
+These are referred to as personal sources of power, which include knowledge, expressiveness-表现力, history and character.
+
+> 这些被称为个人力量的源泉，包括知识、表现力、历史和性格。
+
+I like to think of these as your own personal superpowers-超能力.
+
+> 我喜欢把这些想象成你个人的超能力。
+
+Knowledge refers to the power that you draw from your expertise in certain subjects, your unique abilities, and skill sets, and even your ability to learn new things.
+
+> 知识指的是你从某些学科的专业知识、独特的能力和技能中汲取的力量，甚至是你学习新事物的能力。
+
+What comes to mind when you think about an influential leader?
+
+> 当你想到一个有影响力的领导者时，你会想到什么?
+
+Typically, they have a lot of knowledge in their field and you're more likely to trust their opinion.
+
+> 通常，他们在自己的领域有很多知识，你更有可能相信他们的意见。
+
+When you're considering how to use your own knowledge as a source of power, reflect-反映,深思,反省 on the expertise you already have, and consider areas where you still want to grow and learn more.
+
+> 当你在考虑如何将自己的知识作为一种力量的来源时，反思一下你已经拥有的专业知识，并考虑一下你还想要成长和学习更多的领域。
+
+---
+
+Expressiveness refers to your ability to communicate with others.
+
+> 表达能力是指你与他人沟通的能力。
+
+This is a big one.
+
+As you learned earlier, so much of influencing comes down to how you approach your audience.
+
+> 正如你之前学到的，影响力很大程度上取决于你如何接近你的听众。
+
+Maybe you're a great storyteller, or maybe you're really good at connecting emotionally with people.
+
+> 也许你是一个伟大的讲故事的人，或者你真的很擅长与人建立情感上的联系。
+
+Strong communication skills like these can significantly-显著地,大大地 increase your ability to influence others.
+
+> 像这样强大的沟通技巧可以显著提高你影响他人的能力。
+
+---
+
+The next personal source of power is history.
+
+> 下一个个人力量来源是历史。
+
+History refers to the level of personal history there is between yourself and another person.
+
+> 历史是指你和另一个人之间的个人历史水平。
+
+Makes sense.
+
+A strong relationship with the person you hope to influence can go a long way.
+
+> 与你希望影响的人建立牢固的关系可以大有帮助。
+
+As a project manager, you'll be managing team dynamics and building team relationships, which can help you build up personal history with the people around you, and finally, character.
+
+> 作为一名项目经理，你将管理团队动态并建立团队关系，这可以帮助你与周围的人建立个人关系，最后是性格。
+
+---
+
+Character refers to other people's view of the qualities that make you: you. Like, honesty-诚实,正直, integrity-正直,诚实, kindness-友好,善良, and so much more. 
+
+> 性格指的是别人对构成你的品质的看法。比如，诚实、正直、善良等等。
+
+Character is a huge one, you'll derive-获得,取得 an enormous-巨大的,极大的 amount of power from high estimates of your character.
+
+> 性格是一个巨大的因素，你将从对你的角色的高评价中获得巨大的力量。
+
+What personal characteristics do you value within yourself?
+
+> 你看重自己的哪些个人特质?
+
+These are the qualities that have the power to make you a strong, supportive-支持的,拥护的 leader for the people around you.
+
+> 这些品质会让你成为一个强大的、支持周围人的领导者。
+
+Knowledge, expressiveness, history, and character, are just four personal sources of power, but it's important to remember that there's so much wrapped in each one of these.
+
+> 知识、表现力、历史和性格，只是个人力量的四种来源，但重要的是要记住，每一种都包含着很多东西。
+
+There's trustworthiness, authenticity-真实性,可靠性, wisdom-智慧,才智, and on and on.
+
+> 有可信赖性、真实性、智慧等等。
+
+There's so many attributes to draw power from.
+
+> 有很多属性可以从中汲取力量。
+
+I like to think of these elements as personal superpowers.
+
+> 我喜欢把这些元素想象成个人的超能力。
+
+I learned early on in my career that my personal superpower is knowledge, specifically my innate-先天的,固有的 curiosity-好奇心,求知欲.
+
+> 在我职业生涯的早期，我就知道我个人的超能力是知识，特别是我天生的好奇心。
+
+When I started at Google, I didn't have a background in software engineering, but I'm a naturally-自然地,天性地,天生地 curious-好奇的 person and I'm not afraid to ask questions.
+
+> 当我开始在b谷歌工作时，我没有软件工程的背景，但我是一个天生好奇的人，我不怕问问题。
+
+When I join a new team, I find the engineer who seems to have the most knowledge or experience, and I ask them to teach me how everything works.
+
+> 当我加入一个新团队时，我会找到似乎知识或经验最多的工程师，并请他们教我如何工作。
+
+Most people are genuinely-真诚地 interested in sharing what they know.
+
+> 大多数人都真诚地对分享他们所知道的东西感兴趣。
+
+That initial chat usually leads to conversations over lunch-午餐,午饭, which helps me to build my own knowledge, and personal history with my colleague.
+
+> 最初的聊天通常会导致午餐时的谈话，这有助于我建立自己的知识，以及与同事的个人历史。
+
+Through these conversations, I learn about other teammates to connect with, which increases my network.
+
+> 通过这些对话，我了解了其他可以联系的队友，这增加了我的网络。
+
+As you build your career, try to identify your own superpowers.
+
+> 当你建立你的事业时，试着找出你自己的超能力。
+
+Find the combination of influencing techniques that best suits your particular circumstances-情况,环境.
+
+> 找到最适合你具体情况的影响技巧的组合。
+
+It takes practice to polish-改进,使完美 your skills, and lean into various superpowers when working with others, but if you invest time in thinking, and troubleshooting-排除..策略 your influencing strategy, it will **pay off**-获得好结果.
+
+> 打磨你的技能需要练习，在与他人合作时要学会各种各样的超能力，但如果你花时间思考和排除你的影响策略，你会得到回报的。
+
+In the next video, we'll review and wrap up.
+
+Meet you there.
 
 
 
@@ -1768,13 +2240,43 @@ Hi, I'm Chris. I'm a Diversity Program Manager here at Google. Influencing is a 
 
 ## Creating an effective influencing statement
 
-Introductions in literature are important. Think of the opening lines of a good book—they help set the tone for what the reader can expect going forward. Introductions are important in project management too, especially when you are hoping to influence a stakeholder to consider and approve a new plan or idea. 
+> 创造一个有效的影响力陈述
 
-In this reading, we will help you apply techniques you can use to influence others. We will take you through the steps of creating a strong **influencing statement** that opens the conversation and sets you up for success with your audience.
+Introductions in literature-文学,文献 are important.
+
+> 文学作品中的引言很重要。
+
+Think of the opening lines of a good book—they help set the tone for what the reader can expect-期待,期望 going forward.
+
+> 想想一本好书的开场白吧——它们有助于为读者对未来的期望奠定基调。
+
+Introductions are important in project management too, especially when you are hoping to influence a stakeholder to consider and approve a new plan or idea. 
+
+> 介绍在项目管理中也很重要，尤其是当你希望影响利益相关者考虑并批准一个新的计划或想法时。
+
+In this reading, we will help you apply techniques you can use to influence others.
+
+> 在这篇阅读中，我们将帮助你运用你可以用来影响他人的技巧。
+
+We will take you through the steps of creating a strong **influencing statement** that opens the conversation and sets you up for success with your audience.
+
+> 我们将带你完成创建一个强有力的有影响力的陈述的步骤，打开对话，并为你在听众中取得成功做好准备。
 
 **What is influencing?**
 
-First, let’s review what it means to influence another person. **Influencing** is the ability to alter another person’s thinking or behaviors. If you have ever tried to persuade another person to understand your point of view, then you know that influencing is easier said than done.
+First, let’s review what it means to influence another person.
+
+> 首先，让我们回顾一下影响他人是什么意思。
+
+**Influencing** is the ability to alter another person’s thinking or behaviors.
+
+> 影响是指改变他人思想或行为的能力。
+
+If you have ever tried to persuade-说服,劝服 another person to understand your point of view, then you know that influencing is easier said than done.
+
+> 如果你曾经试图说服另一个人理解你的观点，那么你就知道影响说起来容易做起来难。
+
+---
 
 **Conger’s four steps**
 
@@ -1787,139 +2289,259 @@ As you learned earlier, those steps are:
 3. **Provide evidence**
 4. **Connect emotionally** 
 
-Throughout your career in project management, there will be times when you will need to influence someone to consider an idea, approve a plan, or complete a project task. Conger’s four steps provide a useful framework for thoughtfully approaching conversations that are important to project success and influencing stakeholders. Let’s explore each step further before applying them to an influencing statement:
+Throughout your career in project management, there will be times when you will need to influence someone to consider an idea, approve a plan, or complete a project task.
+
+Conger’s four steps provide a useful framework for thoughtfully-深思熟虑地 approaching conversations that are important to project success and influencing stakeholders.
+
+> Conger的四个步骤为深思熟虑地接近对项目成功和影响涉众很重要的对话提供了一个有用的框架。
+
+Let’s explore each step further before applying them to an influencing statement:
+
+> 在将它们应用于影响语句之前，让我们进一步探索每一步:
 
 **1. Establish credibility**
 
-When trying to persuade another person to listen to you, it helps to establish credibility. Ask yourself, why should this person listen to you? According to Conger, it is best to draw credibility from both expertise and relationships. 
+When trying to persuade-说服,劝服 another person to listen to you, it helps to establish credibility.
 
-You can build credibility by showing a level of expertise on the topic at hand. It also helps to have “a history of sound judgement.” If you find that you lack expertise on a subject, don’t worry! You can work to increase your knowledge through education or research, or you can even ask an expert for help.
+> 当你试图说服别人听你的话时，这有助于建立可信度。
 
-You can also build credibility through strong relationships with your audience and others around you. Conger found that influential leaders tend to show their trustworthiness and willingness to do right by their colleagues over time, and in turn, people are more likely to listen to them.
+Ask yourself, why should this person listen to you?
+
+> 问问你自己，为什么这个人要听你的?
+
+According to Conger, it is best to draw credibility from both expertise and relationships. 
+
+> 根据Conger的说法，最好从专业知识和人际关系中获得可信度。
+
+You can build credibility by showing a level of expertise on the topic at hand.
+
+> 你可以通过展示自己在这个话题上的专业水平来建立可信度。
+
+It also helps to have “a history of sound judgement.” 
+
+> 拥有“正确判断的历史”也会有所帮助。
+
+If you find that you lack expertise on a subject, don’t worry!
+
+You can work to increase your knowledge through education or research, or you can even ask an expert for help.
+
+> 你可以通过教育或研究来增加你的知识，或者你甚至可以向专家寻求帮助。
+
+You can also build credibility through strong relationships with your audience and others around you.
+
+> 你也可以通过与你的听众和周围的人建立牢固的关系来建立信誉。
+
+Conger found that influential leaders tend to show their trustworthiness and willingness-乐意,意愿 to do right by their colleagues over time, and in turn, people are more likely to listen to them.
+
+> 康格尔发现，随着时间的推移，有影响力的领导者往往会表现出他们的可信赖性和为同事做好事的意愿，反过来，人们也更愿意倾听他们的意见。
 
 **2. Frame for common ground**
 
-The next step in effectively persuading people is to frame for common ground. You can do this by making a case for how your idea would benefit your audience, and you can determine how your ideas will benefit your audience by gaining a strong understanding of them and what they value. Pay close attention to what matters to your audience by listening carefully and gathering information during meetings and conversations. Then they frame your ideas based on your audience’s needs and interests. 
+The next step in effectively persuading people is to frame for common ground.
+
+You can do this by making a case for how your idea would benefit your audience, and you can determine how your ideas will benefit your audience by gaining a strong understanding of them and what they value.
+
+> 你可以通过说明你的想法将如何使你的受众受益来做到这一点，你可以通过对受众及其价值的深刻理解来确定你的想法将如何使受众受益。
+
+Pay close attention to what matters to your audience by listening carefully and gathering information during meetings and conversations.
+
+> 在会议和谈话中，通过仔细倾听和收集信息，密切关注听众关心的是什么。
+
+Then they frame your ideas based on your audience’s needs and interests. 
+
+> 然后他们根据听众的需求和兴趣来构建你的想法。
 
 **3. Provide evidence**
 
-The third step is to provide evidence that supports your ideas. As Conger notes, though numbers are important, the best persuaders pair numbers with vivid language**.** They share stories, examples, and metaphors to help influence their audiences. Using vivid language can help bring your figures to life and draw stakeholders’ interest to your proposal.
+The third step is to provide evidence that supports your ideas.
+
+As Conger notes, though numbers are important, the best persuaders-说服者 pair numbers with vivid-生动的,逼真的 language**.**
+
+> 正如康格所说，虽然数字很重要，但最好的说服者会将数字与生动的语言结合起来
+
+They share stories, examples, and metaphors-比喻 to help influence their audiences.
+
+> 他们通过分享故事、例子和比喻来影响听众。
+
+Using vivid language can help bring your figures to life and draw stakeholders’ interest to your proposal.
+
+> 使用生动的语言可以使你的数字栩栩如生，并吸引利益相关者对你的提案的兴趣。
 
 **4. Connect emotionally**
 
-The fourth step is to connect emotionally with your audience. In this step, you illustrate that you are emotionally invested in the idea that you are presenting. But crucially, Conger notes, you must also do your best to determine and match the emotional state of your audience.
+The fourth step is to connect emotionally with your audience.
+
+In this step, you illustrate that you are emotionally-情感上,感情上 invested in the idea that you are presenting.
+
+> 在这一步中，你要说明你对你所陈述的观点投入了感情。
+
+But crucially, Conger notes, you must also do your best to determine and match the emotional state of your audience.
+
+> 但至关重要的是，康格指出，你还必须尽最大努力确定和匹配听众的情绪状态。
 
 
 
-**Applying Conger’s steps to an influencing statement**
+---
 
-Conger’s four steps—establish credibility, frame for common ground, provide evidence, and connect emotionally—are meant to be applied throughout important conversations with those whom you aim to influence. But to set yourself up for success during these conversations, you can apply the four steps to the influencing statement that sets the stage for your idea. 
+**Applying Conger’s steps to an influencing statement-表述,陈述**
+
+> 将Conger的步骤应用到影响表述中
+
+Conger’s four steps—establish credibility, frame for common ground, provide evidence, and connect emotionally—are meant to be applied throughout important conversations with those whom you aim to influence.
+
+> 康格的四个步骤——建立信誉、建立共识框架、提供证据和情感联系——是为了在与那些你想要影响的人的重要对话中应用。
+
+But to set yourself up for success during these conversations, you can apply the four steps to the influencing statement that sets the stage for your idea. 
+
+> 但是，为了让自己在这些对话中取得成功，你可以将这四个步骤应用到为你的想法奠定基础的有影响力的陈述中。
 
 Let’s discuss how Conger’s four steps come together in the following example: 
 
-Carmen is a project manager at a small marketing agency. She would like to convince a human resources director at her organization to approve a new process for onboarding new graphic design employees.
+> 让我们在下面的例子中讨论一下Conger的四个步骤是如何组合在一起的:
 
-Though the company has an existing onboarding process, this process is the same for all new hires, regardless of role. As a project manager working in the human resources department, she learns that it is hard for newly-hired graphic designers to onboard since there are only a few people who hold graphic design roles at the company. Carmen identifies that there is a lack of information available for new graphic design hires to turn to for learning about procedures and software specific to their role. 
+Carmen is a project manager at a small marketing agency-代理行,经销处.
 
-Carmen would like to propose that all new graphic design hires receive a digital welcome packet containing guidelines for installing software, processes to be aware of, and other design-specific onboarding documents. Carmen developed a similar process in her role at a previous company, and it received a positive response from employees. She thinks a similar process will work for her new organization too, so she sets up time with her director to present her idea.
+> 卡门是一家小型营销机构的项目经理。
+
+She would like to convince-说服,劝服 a human resources director at her organization to approve a new process for onboarding-入职培训 new graphic design employees.
+
+> 她想说服公司的人力资源主管批准一项新的平面设计新员工入职流程。
+
+Though the company has an existing onboarding process, this process is the same for all new hires, regardless-无论如何 of role.
+
+> 虽然公司有一个现有的入职流程，但无论职位如何，这个流程对所有新员工都是一样的。
+
+As a project manager working in the human resources department, she learns that it is hard for newly-hired graphic designers to onboard since there are only a few people who hold graphic design roles at the company.
+
+> 作为一名在人力资源部工作的项目经理，她了解到新聘的平面设计师很难融入公司，因为在公司里担任平面设计职位的人很少。
+
+Carmen identifies that there is a lack of information available for new graphic design hires to turn to for learning about procedures and software specific to their role. 
+
+> Carmen指出，对于新聘的平面设计人员来说，缺乏可用的信息来学习特定于他们角色的程序和软件。
+
+Carmen would like to propose-提议,建议 that all new graphic design hires receive a digital welcome packet containing guidelines for installing software, processes to be aware of, and other design-specific onboarding documents.
+
+> 卡门建议，所有新聘用的平面设计人员都要收到一份数字欢迎包，其中包含安装软件的指导方针、需要注意的流程和其他特定于设计的入职文件。
+
+Carmen developed a similar process in her role at a previous company, and it received a positive response from employees.
+
+> 卡门在上一家公司工作时也采用了类似的流程，并得到了员工的积极响应。
+
+She thinks a similar process will work for her new organization too, so she sets up time with her director to present her idea.
+
+> 她认为类似的流程也适用于她的新组织，所以她安排时间与她的主管介绍她的想法。
+
+---
 
 To influence her director to approve the new process, Carmen opens her presentation with a strong influencing statement:
 
+> 为了影响她的主管批准这个新流程，卡门在她的演讲开始时用了一个很有影响力的陈述:
+
 *I’d like to propose a new onboarding process for graphic design hires.* 
 
-**(Provide evidence)** *In reviewing our new hire surveys, 80% of recent graphic design hires have assigned a negative rating to our onboarding process. When I followed up with respondents, I learned that our graphic designers lack access to relevant information that could help them acclimate to our organization faster. To address this issue, I would like to create a digital welcome packet containing design-specific onboarding documentation.*
+> 我想提出一个新的平面设计入职流程
 
-**(Frame for common ground)** *I have met with leaders on the graphic design team to discuss this idea, and they agreed that a design-specific onboarding process might help increase the productivity of new hires, since a better onboarding process would enable them to be better prepared to take on projects in their first few weeks on the job.*
+**(Provide evidence)** 
 
-**(Establish credibility)** *In my previous role, I designed a similar, role-specific onboarding process, which increased our new hire satisfaction rates by 60%. I think a new process could benefit employees here, as well.*
+*In reviewing our new hire surveys, 80% of recent graphic design hires have assigned a negative rating to our onboarding process.*
 
-**(Connect emotionally)** *It can be overwhelming to join a new company. A smoother, more personalized onboarding experience might help set the tone for the kind of support new graphic design hires can expect from our team.* 
+> 在回顾我们的新员工调查时，最近80%的平面设计员工对我们的入职流程给出了负面评价。
+
+*When I followed up with respondents, I learned that our graphic designers lack access to relevant information that could help them acclimate-适应新环境,使适应 to our organization faster.*
+
+> 当我跟进受访者时，我了解到我们的平面设计师缺乏相关信息，这些信息可以帮助他们更快地适应我们的组织
+
+*To address this issue, I would like to create a digital welcome packet containing design-specific onboarding documentation.*
+
+> 为了解决这个问题，我想创建一个包含特定设计的入职文档的数字欢迎包
+
+**(Frame for common ground)** 
+
+*I have met with leaders on the graphic design team to discuss this idea, and they agreed that a design-specific onboarding process might help increase the productivity of new hires, since a better onboarding process would enable them to be better prepared to take on projects in their first few weeks on the job.*
+
+> 我已经和平面设计团队的领导讨论过这个想法，他们同意一个专门针对设计的入职流程可能有助于提高新员工的工作效率，因为一个更好的入职流程可以让他们在工作的头几周就能更好地准备好接手项目
+
+**(Establish credibility)** 
+
+*In my previous role, I designed a similar, role-specific onboarding process, which increased our new hire satisfaction rates by 60%. I think a new process could benefit employees here, as well.*
+
+> *在我之前的工作中，我设计了一个类似的、针对特定角色的入职流程，使我们的新员工满意度提高了60%。我认为新的流程也会使这里的员工受益
+
+**(Connect emotionally)** 
+
+*It can be overwhelming-难以抗拒的,令人不知所措的 to join a new company. A smoother, more personalized onboarding experience might help set the tone for the kind of support new graphic design hires can expect from our team.* 
+
+> 加入一家新公司可能会让人不知所措。更顺畅、更个性化的入职体验可能有助于为新平面设计员工从我们团队获得的支持奠定基调
 
 **Key takeaway**
 
 In this influencing statement, the project manager:
 
+> 在这个影响声明中，项目经理:
+
 - **Provided evidence** from company surveys to set the stage for her proposal.
+
+	> **从公司调查中提供证据**，为她的提案奠定基础。
+
 - **Framed for common ground** by noting how a new onboarding process might increase employee productivity.
+
+	> 通过指出新的入职流程如何提高员工的工作效率来建立共识
+
 - **Established credibility** by outlining her previous experience with launching similar processes.
-- **Connected emotionally** by encouraging her audience to reflect on past experiences they may have endured as a new hire. 
 
-By opening with a strong influencing statement, you can set yourself up for a successful conversation that is more likely to persuade your audience and achieve your goals.
+	> 通过概述她以前启动类似程序的经验来建立可信度
 
+- **Connected emotionally** by encouraging her audience to reflect-深思,反省 on past experiences they may have endured-忍受,忍耐 as a new hire. 
 
+	> 通过鼓励听众反思他们作为新员工所经历的过去经历，在情感上建立联系
+
+By opening with a strong influencing statement, you can set yourself up for a successful conversation that is more likely to persuade-说服,劝服 your audience and achieve your goals.
+
+> 通过一个强有力的有影响力的陈述，你可以为自己的成功对话做好准备，更有可能说服你的听众并实现你的目标。
 
 
 
 # Review: Leadership and influencing skills
 
+> 回顾:领导和影响技能
+
 ## Wrap-up
 
-Nice work. You made it to the end of this module. How are you feeling? Over the past few videos, I've taken you through the many facets of team management and influencing. You learned to explain the importance of teamwork in creating a high-functioning team that can complete the work of a project on time. And you learned how to lead in ways that motivate others to succeed, both at the team level and on an individual level too.
-从 ::28 开始播放视频并学习脚本0:28
+Nice work.
+
+You made it to the end of this module.
+
+> 你完成了这个模块。
+
+How are you feeling?
+
+Over the past few videos, I've taken you through the many facets-部分,方面 of team management and influencing.
+
+> 在过去的几个视频中，我已经带你们了解了团队管理和影响的许多方面。
+
+You learned to explain the importance of teamwork in creating a high-functioning team that can complete the work of a project on time.
+
+> 你学会了解释团队合作在创建一个能够按时完成项目工作的高效团队中的重要性。
+
+And you learned how to lead in ways that motivate others to succeed, both at the team level and on an individual level too.
+
+> 你还学会了如何以激励他人成功的方式领导，无论是在团队层面还是在个人层面。
+
 You learned about the 5 stages of team development, which is a helpful framework for understanding and managing sometimes challenging team dynamics.
-从 ::36 开始播放视频并学习脚本0:36
-I explained how to apply techniques for effectively influencing the people around you, and you learned what not to do when trying to influence others. And finally, you learned about the sources of power, both organizational and personal that contribute to your overall ability to influence your team.
-从 ::54 开始播放视频并学习脚本0:54
-Coming up, I'll take you through effective project communication. See you soon
 
+> 您了解了团队发展的5个阶段，这是理解和管理有时具有挑战性的团队动态的有用框架。
 
+I explained how to apply techniques for effectively influencing the people around you, and you learned what not to do when trying to influence others.
 
+> 我解释了如何运用技巧来有效地影响你周围的人，你也学会了在试图影响别人的时候不要做什么。
 
+And finally, you learned about the sources of power, both organizational and personal that contribute to your overall ability to influence your team.
 
+> 最后，你了解了组织和个人权力的来源，这些来源有助于你影响团队的整体能力。
 
+Coming up, I'll take you through effective project communication.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+See you soon.
 
 
 
