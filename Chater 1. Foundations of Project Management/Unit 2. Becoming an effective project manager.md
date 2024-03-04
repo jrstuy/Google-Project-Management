@@ -1,28 +1,3 @@
-任务列表：
-
-- Exploring how a project manager adds value    ——   7.10  ～  7.11
-	- 观看视频：Introduction: Becoming an effective project manager（时长：1min）
-	- 观看视频：The value of a project manager（时长：5min）
-	- 观看视频：JuAnne: Path to becoming a project manager（时长：1min）
-	- 阅读材料：How project managers impact organizations（时长：20min）
-- Learning more about project manager roles and responsibilities      ——   7.12  ～  7.13
-	- 观看视频：Key project manager roles and responsibilities（时长：4min）
-	- 阅读材料：Responsibilities that utilize interpersonal skills（时长：20min）
-	- 观看视频：A project manager’s role within a team（时长：4min）
-	- 阅读材料：Working with cross-functional teams（时长：20min）
-	- 观看视频：Elita: A day in the life of a project manager（时长：3min）
-- Acquiring the core skills of a successful project manager        ——   7.14  ～  7.15
-	- 观看视频：The core skills of a project manager（时长：3min）
-	- 阅读材料：Key competencies: Flexibility and handling ambiguity（时长：20min）
-	- 观看视频：Rachel: My journey to becoming a project manager（时长：2min）
-	- 阅读材料：Common myths about project managers（时长：20min）
-	- 观看视频：Leadership and team dynamics（时长：4min）
-	- 观看视频：Ellen: Traits of a successful project manager（时长：2min）
-- Review: Becoming an effective project manager      ——   7.16  ～  7.16
-	- 观看视频：Wrap-up（时长：1min）
-
-
-
 You will learn how project managers add value to organizations and to their teams, what the role and responsibilities of a project manager entail-使必要,需要, and what core skills a project manager needs to be successful.
 
 > 您将学习项目经理如何为组织和团队增加价值，项目经理的角色和职责是什么，以及项目经理需要哪些核心技能才能取得成功。
@@ -53,9 +28,55 @@ You will learn how project managers add value to organizations and to their team
 
 > 简介：成为一个有效的项目经理
 
-Welcome back. Let's start by reviewing what we've discussed so far. Earlier, you were introduced to project management as a career path. We discussed how this course can help you advance-推进,进步,改善 your career goals with a project management certification. We also discussed some of the basics of project management, like how to define a project and its different components. Then, we went over some distinct-不同的,有区别的 project management careers, roles, and responsibilities. Now it's time to gain a deeper understanding of a project manager's role. By the end of this module, you'll **be able to**-会,能够 explain the unique-独特的 value a project manager brings to their team. You'll also be able to describe a project manager's roles and responsibilities, and list their core skills. This course will help you continue to recognize-认识,辨别出 the skills that you already have that will help you become a successful project manager. It will also help you identify new skills that you may need to learn in preparation for your new career. Ready? Let's get started.
+Welcome back.
 
-> 欢迎回来。让我们先回顾一下目前为止讨论过的内容。早些时候，你被介绍到项目管理作为职业道路。我们讨论了这门课程如何帮助你通过项目管理认证来推进你的职业目标。我们还讨论了项目管理的一些基础知识，比如如何定义项目及其不同的组件。然后，我们讨论了一些不同的项目管理职业、角色和责任。现在是时候深入了解项目经理的角色了。在本模块结束时，您将能够解释项目经理为其团队带来的独特价值。你还可以描述项目经理的角色和职责，并列出他们的核心技能。本课程将帮助你继续认识你已经拥有的技能，这些技能将帮助你成为一名成功的项目经理。它还可以帮助你发现你可能需要学习的新技能，为你的新职业做准备。准备好了吗？让我们开始吧。
+Let's start by reviewing what we've discussed so far.
+
+> 欢迎回来。让我们先回顾一下目前为止讨论过的内容。
+
+Earlier, you were introduced to project management as a career path.
+
+> 早些时候，你被介绍到项目管理作为职业道路。
+
+We discussed how this course can help you advance-推进,进步,改善 your career goals with a project management certification.
+
+> 我们讨论了这门课程如何帮助你通过项目管理认证来推进你的职业目标。
+
+We also discussed some of the basics of project management, like how to define a project and its different components.
+
+> 我们还讨论了项目管理的一些基础知识，比如如何定义项目及其不同的组件。
+
+Then, we went over some distinct-不同的,有区别的 project management careers, roles, and responsibilities.
+
+> 然后，我们讨论了一些不同的项目管理职业、角色和责任。
+
+---
+
+Now it's time to gain a deeper understanding of a project manager's role.
+
+> 现在是时候深入了解项目经理的角色了。
+
+By the end of this module, you'll **be able to**-会,能够 explain the unique-独特的 value a project manager brings to their team.
+
+> 在本模块结束时，您将能够解释项目经理为其团队带来的独特价值。
+
+You'll also be able to describe a project manager's roles and responsibilities, and list their core skills.
+
+> 你还可以描述项目经理的角色和职责，并列出他们的核心技能。
+
+This course will help you continue to recognize-认识,辨别出 the skills that you already have that will help you become a successful project manager.
+
+> 本课程将帮助你继续认识你已经拥有的技能，这些技能将帮助你成为一名成功的项目经理。
+
+It will also help you identify new skills that you may need to learn in preparation for your new career.
+
+> 它还可以帮助你发现你可能需要学习的新技能，为你的新职业做准备。
+
+Ready? Let's get started.
+
+> 准备好了吗？让我们开始吧。
+
+
 
 ~~~
 项目经理为团队带来的独特价值是什么？Explain the unique-独特的 value a project manager brings to their team
@@ -81,13 +102,43 @@ Welcome back. Let's start by reviewing what we've discussed so far. Earlier, you
 
 ## The value of a project manager
 
-Earlier in this course, we introduced you to the world of project management. We discussed how project management spans-贯穿 industries-行业 and companies of all kinds, from large corporations-公司 to small businesses-企业. Now let's define what a project manager is and describe how they add value to their teams and organizations. 
+Earlier in this course, we introduced you to the world of project management.
 
-> 在本课程的早些时候，我们向您介绍了项目管理的世界。我们讨论了项目管理如何跨越各种行业和公司，从大公司到小企业。现在让我们定义一下什么是项目经理，并描述一下他们是如何为团队和组织增加价值的。
+> 在本课程的早些时候，我们向您介绍了项目管理的世界。
 
-Let's start with the definition-定义. Project managers shepherd-带领,引领 projects from start to finish and serve as guides for their team, using their impeccable-无瑕疵的 organizational-组织的 and interpersonal-人际关系的,人际的 skills every step of the way. As you learned earlier, project managers usually follow a process that involves-牵涉,包含 planning and organizing, managing tasks, budgeting, and controlling costs **so that**-所以,以便 the project can be completed within the approved-认可的,批准 timeframe-时间表. We'll dig-搜寻,寻找 deeper into these topics throughout this program. What you need to know right now is that project managers play a crucial-至关重要的,决定性的 role in their organizations. Project managers add value to their teams and organizations in key ways that include prioritization-优先次序, delegation-授权,委派, and effective-有效的 communication. 
+We discussed how project management spans-贯穿 industries-行业 and companies of all kinds, from large corporations-公司 to small businesses-企业.
 
-> 让我们从定义开始。项目经理从头到尾管理项目，并作为团队的向导，在每一步都运用他们无可挑剔的组织和人际关系技巧。正如您前面所了解的，项目经理通常遵循一个过程，包括计划和组织、管理任务、预算和控制成本，以便项目能够在批准的时间框架内完成。我们将在整个节目中深入探讨这些话题。您现在需要知道的是，项目经理在他们的组织中扮演着至关重要的角色。项目经理通过关键的方式为他们的团队和组织增加价值，包括优先级、授权和有效的沟通。
+> 我们讨论了项目管理如何跨越各种行业和公司，从大公司到小企业。
+
+---
+
+Now let's define what a project manager is and describe how they add value to their teams and organizations. 
+
+> 现在让我们定义一下什么是项目经理，并描述一下他们是如何为团队和组织增加价值的。
+
+Let's start with the definition-定义.
+
+> 让我们从定义开始。
+
+Project managers shepherd-带领,引领 projects from start to finish and serve as guides for their team, using their impeccable-无瑕疵的 organizational-组织的 and interpersonal-人际关系的,人际的 skills every step of the way.
+
+> 项目经理从头到尾管理项目，并作为团队的向导，在每一步都运用他们无可挑剔的组织和人际关系技巧。
+
+As you learned earlier, project managers usually follow a process that involves-牵涉,包含 planning and organizing, managing tasks, budgeting, and controlling costs **so that**-所以,以便 the project can be completed within the approved-认可的,批准 timeframe-时间表.
+
+> 正如您前面所了解的，项目经理通常遵循一个过程，包括计划和组织、管理任务、预算和控制成本，以便项目能够在批准的时间框架内完成。
+
+We'll dig-搜寻,寻找 deeper into these topics throughout this program.
+
+> 我们将在整个节目中深入探讨这些话题。
+
+What you need to know right now is that project managers play a crucial-至关重要的,决定性的 role in their organizations.
+
+> 您现在需要知道的是，项目经理在他们的组织中扮演着至关重要的角色。
+
+Project managers add value to their teams and organizations in key ways that include prioritization-优先次序, delegation-授权,委派, and effective-有效的 communication. 
+
+> 项目经理通过关键的方式为他们的团队和组织增加价值，包括优先级、授权和有效的沟通。
 
 So let's **break these down**-把这些进行分解.
 
@@ -280,11 +331,6 @@ How：项目经理如何增加价值
 3.如何授权
 4.如何高效沟通
 
-
-
-
-
-
 ~~~
 
 
@@ -459,7 +505,7 @@ It’s your job to ask questions like:
 
 - What prompted-促使,提示 you to ask for help now? Example response: The customer says that they may lose department funding-资金 if they do not improve-改善 efficiency. 
 
-	> 是什么促使你现在寻求帮助？示例响应:客户说，如果他们不提高效率，他们可能会失去部门的资金。
+	> 是什么促使你现在寻求帮助？示例响应：客户说，如果他们不提高效率，他们可能会失去部门的资金。
 
 - What is your hope for the outcome of this project? Example response: The customer states that their ultimate-最终的 goal is to increase the speed at which they **fill orders**-处理订单 without sacrificing-牺牲 quality-质量. 
 
@@ -599,6 +645,8 @@ If your team is having a hard time getting an answer from another organization, 
 
 > 如果您的团队很难从其他组织获得答案，您可以亲自联系该组织，以使团队保持正轨并按计划进行。
 
+
+
 **Key takeaway**
 
 You have now learned some of the ways that project managers can add value to projects and impact organizations. 
@@ -637,6 +685,8 @@ So far we've discussed the types of project management roles you'll be qualified
 
 > 到目前为止，我们已经讨论了您将能够胜任的项目管理角色类型，以及如何搜索它们。
 
+---
+
 Earlier, we discussed the value that project managers bring to their teams and their organizations. 
 
 > 前面，我们讨论了项目经理给他们的团队和组织带来的价值。
@@ -649,8 +699,6 @@ Earlier you learned that project management is the application of knowledge, ski
 
 > 前面，您了解到项目管理是知识、技能、工具和技术的应用，以满足项目需求并实现预期的结果。
 
----
-
 How does that actually happen? That's where you come in. 
 
 > 这到底是怎么发生的呢？这就是你的用武之地。
@@ -658,6 +706,8 @@ How does that actually happen? That's where you come in.
 Project managers usually follow a process that involves planning and organizing, managing tasks, budgeting, and controlling costs, and other factors-因素, so that the project can be completed within the approved budget and timeframe. 
 
 > 项目经理通常遵循一个过程，包括计划和组织、管理任务、预算、控制成本和其他因素，以便项目能够在批准的预算和时间范围内完成。
+
+---
 
 Let's break these down into examples of responsibilities that you might find in a job listing for a project management role. 
 
@@ -741,7 +791,9 @@ These trackers kept both teams in the loop-循环 about the timeline for deliver
 
 By actively managing tasks throughout the project lifecycle, I was able to **keep tabs**-密切关注 on everyone's work and efficiently inform-通知,告知 stakeholders, which allowed us to achieve our project goal with minimal-极小的,极少的 issues.
 
-> 通过在整个项目生命周期中积极地管理任务，我能够密切关注每个人的工作，并有效地通知利益相关者，这使我们能够以最小的问题实现我们的项目目标。不错的工作。
+> 通过在整个项目生命周期中积极地管理任务，我能够密切关注每个人的工作，并有效地通知利益相关者，这使我们能够以最小的问题实现我们的项目目标。
+
+---
 
 Nice job. 
 
@@ -765,9 +817,13 @@ Catch you in a bit.
 
 > 运用人际交往能力的职责
 
-**What are the core job responsibilities of project managers?** Let’s recap-摘要说明 what we learned in the previous video.
+**What are the core job responsibilities of project managers?**
 
-> 项目经理的核心工作职责是什么?让我们回顾一下上一节视频的内容。
+> 项目经理的核心工作职责是什么？
+
+Let’s recap-摘要说明 what we learned in the previous video.
+
+> 让我们回顾一下上一节视频的内容。
 
 The project manager is responsible for planning, organizing, managing tasks, budgeting, controlling costs, and other factors to help keep the project within budget and on time. 
 
@@ -1145,6 +1201,8 @@ Meet you there.
 
 > 那儿见。
 
+
+
 ## Working with cross-functional-跨部门的 teams
 
 > 与跨职能团队合作
@@ -1159,7 +1217,7 @@ A cross-functional team includes team members who have different backgrounds, ty
 
 **Even though**-尽管,即使 these team members have different skill sets, occupy-扮演 different roles, and may even work in different departments-部门, they are all working towards-朝着 a common goal: the successful completion of your project. 
 
-> 尽管这些团队成员拥有不同的技能，担任不同的角色，甚至可能在不同的部门工作，但他们都朝着一个共同的目标努力:成功完成您的项目。
+> 尽管这些团队成员拥有不同的技能，担任不同的角色，甚至可能在不同的部门工作，但他们都朝着一个共同的目标努力：成功完成您的项目。
 
 ---
 
