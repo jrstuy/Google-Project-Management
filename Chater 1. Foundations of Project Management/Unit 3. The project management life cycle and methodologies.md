@@ -28,7 +28,7 @@ You will also learn about the different project management methodologies-方法�
 
 ## Introduction: The project management life cycle and methodologies
 
-> 简介:项目管理生命周期和方法论
+> 简介：项目管理生命周期和方法论
 
 Welcome back. 
 
@@ -53,6 +53,8 @@ Now is a good time to stop and recognize-认出,辨别出 how much you've learne
 By now you're familiar-熟悉的,常见的 with the job of project management, and you've started learning what it takes to be an effective project manager.
 
 > 到目前为止，你已经熟悉了项目管理的工作，并且你已经开始学习如何成为一名有效的项目经理。
+
+---
 
 Now you'll go a little further, and learn some of **the ins and outs of the job**-工作的来龙去脉, and before you know it, you'll be ready to guide any project successfully.
 
@@ -128,11 +130,11 @@ Check it out.
 
 > 看过来。
 
+---
+
 The main phases of a project are initiate-开始实施,发起 the project, make a plan, execute and complete tasks, and finally, close the project.
 
 > 项目的主要阶段是启动项目，制定计划，执行和完成任务，最后结束项目。
-
----
 
 Let's talk about the first phase, initiate the project.
 
@@ -302,6 +304,8 @@ There you have it.
 
 > 就是这样。
 
+---
+
 The project life-cycle.
 
 > 项目生命周期。
@@ -390,6 +394,8 @@ There’s no way to complete the request from Flight Simulators-模拟器, Inc. 
 
 > 没有办法在不影响预算、质量和时间的情况下完成飞行模拟器公司的要求。
 
+---
+
 **What should have happened**
 
 > 应该发生什么？
@@ -432,11 +438,7 @@ Let’s apply the project life cycle to this project.
 
 > 让我们将项目生命周期应用到这个项目中。
 
-
-
 ![Circular graphic showing how the project life cycle phases fit together. Initiate, plan, execute, and close.](img/16.png)
-
-
 
 **Initiating the project**
 

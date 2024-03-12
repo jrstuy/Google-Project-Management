@@ -1737,8 +1737,6 @@ You may need to experiment-尝试,实践 with different organizational approache
 
 > 你可能需要尝试不同的组织方式，以确定哪种方式最适合你和你的团队。
 
-
-
 ![Image of a project manager with an agenda and a clock keeping the team on time and organized during a meeting](img/13.png)
 
 **Flexibility**
@@ -1832,6 +1830,8 @@ These flexible planning strategies can help you manage your project during-在�
 	You will learn more about calculating float in a later course, when we discuss creating a critical-极其重要的 path for your project tasks.
 
 	> 当我们讨论为项目任务创建关键路径时，您将在后面的课程中了解更多关于计算float的信息。
+
+
 
 **Handling ambiguity**
 
@@ -2113,7 +2113,7 @@ Project managers don’t need to be experts in every field.
 
 **Myth: Only people with a lot of experience within an organization can manage projects successfully.** 
 
-> 
+> 误解：只有在组织中有丰富经验的人才能成功地管理项目
 
 **Reality:** 
 
@@ -2251,9 +2251,165 @@ Recognizing-认识,承认 these truths-真理,事实,真相 will help you be mor
 
 
 
-## Leadership and team dynamics
+## Leadership and team dynamics-动力,动态
 
-Earlier, you learned about the role of the project manager and the core skills you'll need to be successful in that role. You've also learned more about your role within the project team. Now let's discuss a few key skills that you'll use to build relationships with your teammates and stakeholders. Using your interpersonal skills is key to building relationships with the people involved in your project. By developing these relationships, you'll learn about the needs and concerns of the team. This will help you determine the priorities of the project and motivate your team throughout the process. Possessing strong interpersonal skills is a huge part of good leadership. Even if you've never held a formal leadership position, having these skills will help you when you need to guide a team. This is called influencing without authority, which refers to a project manager's ability to guide teammates to complete their assigned work without acting as their direct managers. There's a few key interpersonal skills that you can use to accomplish this and guide the project outcomes, even without the authority of being your teammates' boss. These skills include communication, negotiation, conflict mediation, and understanding motivations. Let's break these down. First step is a key skill we've mentioned a few times now, communication. In the context of leading a team, communication can include checking in with teammates to understand how they're progressing on a task and providing clear feedback on the quality of a teammate's work. Next is negotiation. Negotiation might include working with a teammate to compromise on a new deadline when they tell you that they won't be able to complete their work on time. Now, trust me, I know this can be frustrating, but you'll need to use your negotiation skills often with your teammates and stakeholders to balance their needs and what is best for the project. Another important skill is conflict mediation. As we mentioned, project plans can change and issues will arise. This can sometimes lead to tension and conflict within the team. Conflict mediation is a great skill to practice and develop to ensure the project does not suffer as a result. This might involve setting up a meeting with two teammates who are struggling to agree upon the best way to handle a shared task. Finally, there's understanding motivations. This means getting to know your teammates and figuring out what pushes them to do their best work. Understanding motivations might also include learning how your teammates prefer to receive feedback, and how they like to receive recognition for doing a great job. You would use that individualized information to motivate and encourage each person on your team. To recap, communication, negotiation, conflict mediation and understanding motivations are all interpersonal skills that will help you influence without authority. During job interviews for project management positions, you might be asked to discuss a time when you influenced without authority, and it's possible that you've already noticed ways that you've used these skills in your personal life without even realizing it. For example, let's say you have a coworker who's constantly late to every meeting and I mean, every meeting, while you can't force them to arrive on time, it's likely that you've thought about ways to motivate them to want to be on time. In doing so, you might have also wondered how to change the way you communicate with your coworker, to influence them to be on time. Maybe you've tried asking them to arrive 15 minutes earlier than the rest of the group or maybe you've told them how this behavior impacts the rest of the team. Both of these strategies are examples of influencing without authority, and they serve to encourage specific behavior. Influencing without authority is one of the most critical and one of the most challenging aspects of project management. As you've just learned, you'll need to leverage your interpersonal skills in order to do it effectively. In later courses, we'll review and learn more about using your interpersonal skills to manage various projects. We'll see you in the next video.
+> 领导能力和团队动力
+
+Earlier, you learned about the role of the project manager and the core skills you'll need to be successful in that role.
+
+> 前面，您了解了项目经理的角色以及成功担任该角色所需的核心技能。
+
+You've also learned more about your role within the project team.
+
+> 您还了解了更多关于您在项目团队中的角色。
+
+---
+
+Now let's discuss a few key skills that you'll use to build relationships-关系 with your teammates and stakeholders.
+
+> 现在让我们来讨论一些关键技能，你将使用这些技能与你的队友和利益相关者建立关系。
+
+Using your interpersonal skills is key to building relationships with the people involved in your project.
+
+> 运用你的人际交往技巧是与参与你项目的人建立关系的关键。
+
+By developing these relationships, you'll learn about the needs and concerns of the team.
+
+> 通过发展这些关系，您将了解团队的需求和关注点。
+
+This will help you determine the priorities of the project and motivate-激励,激发 your team throughout the process.
+
+> 这将帮助你确定项目的优先级，并在整个过程中激励你的团队。
+
+Possessing-拥有,持有 strong interpersonal skills is a huge part of good leadership.
+
+> 拥有强大的人际交往能力是优秀领导力的重要组成部分。
+
+Even if you've never held a formal leadership-领导 position-职务, having these skills will help you when you need to guide a team.
+
+> 即使你从未担任过正式的领导职务，掌握这些技能也会在你需要指导团队时对你有所帮助。
+
+This is called influencing without authority, which refers to a project manager's ability to guide teammates to complete their assigned work without acting as their direct managers.
+
+> 这被称为无权限影响，指的是项目经理指导队友完成分配工作的能力，而不是作为他们的直接管理者。
+
+There's a few key interpersonal skills that you can use to accomplish this and guide the project outcomes, even without the authority of being your teammates' boss.
+
+> 你可以使用一些关键的人际交往技巧来完成这个任务，并指导项目的结果，即使你没有成为队友的老板的权力。
+
+---
+
+These skills include communication, negotiation-谈判,协商, conflict-冲突 mediation-调解,仲裁, and understanding motivations.
+
+> 这些技能包括沟通、谈判、冲突调解和理解动机。
+
+Let's break these down.
+
+> 让我们来分析一下。
+
+First step is a key skill we've mentioned a few times now, communication.
+
+> 第一步是我们提到过几次的关键技能，沟通。
+
+In the context of leading a team, communication can include checking in with teammates to understand how they're progressing on a task and providing clear feedback on the quality of a teammate's work.
+
+> 在领导团队的背景下，沟通可以包括检查队友，了解他们在任务中的进展情况，并对队友的工作质量提供明确的反馈。
+
+---
+
+Next is negotiation.
+
+> 接下来是谈判。
+
+Negotiation might include working with a teammate to compromise-折中,妥协 on a new deadline when they tell you that they won't be able to complete their work on time.
+
+> 谈判可能包括当队友告诉你他们无法按时完成工作时，与他们在新的截止日期上妥协。
+
+Now, trust me, I know this can be frustrating-挫败,受挫, but you'll need to use your negotiation skills often with your teammates and stakeholders to balance their needs and what is best for the project.
+
+> 现在，相信我，我知道这可能会令人沮丧，但你需要经常与你的队友和利益相关者使用你的谈判技巧来平衡他们的需求和什么对项目是最好的。
+
+---
+
+Another important skill is conflict mediation-调解,仲裁.
+
+> 另一个重要的技能是调解冲突
+
+As we mentioned, project plans can change and issues will arise-产生,出现.
+
+> 正如我们提到的，项目计划可能会改变，问题也会出现。
+
+This can sometimes lead to tension-紧张,焦虑 and conflict-争论,冲突 within the team.
+
+> 这有时会导致团队内部的紧张和冲突。
+
+Conflict mediation is a great skill to practice and develop to ensure the project does not suffer-经受,遭受 as a result.
+
+> 冲突调解是一项很好的技能，需要练习和发展，以确保项目不会因此受到影响。
+
+This might involve setting up a meeting with two teammates who are struggling-奋斗,努力 to agree upon the best way to handle a shared task.
+
+> 这可能包括与两个正在努力就处理共同任务的最佳方式达成一致的队友召开会议。
+
+---
+
+Finally, there's understanding motivations.
+
+> 最后是理解动机。
+
+This means getting to know your teammates and figuring out what pushes them to do their best work.
+
+> 这意味着你要了解你的队友，弄清楚是什么促使他们把工作做到最好。
+
+Understanding motivations might also include learning how your teammates prefer to receive feedback, and how they like to receive recognition-认可 for doing a great job.
+
+> 理解动机可能还包括了解你的队友喜欢如何接受反馈，以及他们喜欢如何因出色的工作而获得认可。
+
+You would use that individualized-有个性的 information to motivate and encourage each person on your team.
+
+> 您可以使用这些个性化信息来激励和鼓励团队中的每个人。
+
+---
+
+To recap, communication, negotiation, conflict mediation and understanding motivations are all interpersonal skills that will help you influence without authority.
+
+> 综上所述，沟通、谈判、冲突调解和理解动机都是人际交往技巧，可以帮助你在没有权威的情况下发挥影响力。
+
+During job interviews for project management positions, you might be asked to discuss a time when you influenced without authority, and it's possible that you've already noticed ways that you've used these skills in your personal life without even realizing it.
+
+> 在项目管理职位的面试中，你可能会被要求讨论一个你在没有权威的情况下施加影响的时间，很可能你已经注意到你在个人生活中使用这些技能的方式，甚至没有意识到。
+
+For example, let's say you have a coworker who's constantly late to every meeting and I mean, every meeting, while you can't force them to arrive on time, it's likely that you've thought about ways to motivate them to want to be on time.
+
+> 例如，假设你有一个同事每次会议都迟到，我的意思是每次会议，虽然你不能强迫他们准时到达，但很可能你已经想过激励他们准时到达的方法。
+
+In doing so, you might have also wondered how to change the way you communicate with your coworker, to influence them to be on time.
+
+> 在这样做的过程中，你可能也想知道如何改变你与同事沟通的方式，以影响他们准时。
+
+Maybe you've tried asking them to arrive 15 minutes earlier than the rest of the group or maybe you've told them how this behavior impacts the rest of the team.
+
+> 也许你已经试着要求他们比团队其他成员早到15分钟，或者你已经告诉他们这种行为是如何影响团队其他成员的。
+
+Both of these strategies are examples of influencing without authority, and they **serve to**-用来,起...作用 encourage specific behavior.
+
+> 这两种策略都是没有权威的影响的例子，它们的作用是鼓励特定行为。
+
+Influencing without authority is one of the most critical and one of the most challenging aspects of project management.
+
+> 没有权威的影响是项目管理中最关键和最具挑战性的方面之一。
+
+As you've just learned, you'll need to leverage-充分利用 your interpersonal skills in order to do it effectively.
+
+> 正如你刚刚学到的，你需要利用你的人际交往能力来有效地做到这一点。
+
+In later courses, we'll review and learn more about using your interpersonal skills to manage various projects.
+
+> 在以后的课程中，我们将复习和学习如何运用人际交往技巧来管理各种项目。
+
+We'll see you in the next video.
+
+> 我们下个视频见。
 
 
 
@@ -2269,24 +2425,47 @@ I'm Ellen and I'm a director of technical program management. That means I lead 
 
 ## Wrap-up
 
-Nice work. So far, you've started learning all about project managers and the value they bring to their teams. We also introduced you to a few program managers here at Google, who spoke about their own experiences working in the field. You also learned more about the day-to-day responsibilities of a project manager and how they guide their teammates to do their best work. And you learned about the types of skills you'll need to succeed in a program management role. As we move forward, you'll develop and hone lots of the skills needed for the daily tasks of a project manager. And hopefully, you've also identified the skills you already have that can help you become a great project manager and an asset to employers. Next up, we'll discuss the project life cycle. You'll learn more about the different phases of a project and the tasks associated with each phase. You'll also learn more about some of the most popular project management methodologies used across industries today, and how to choose the best one for your project. See you soon.
+Nice work.
 
+So far, you've started learning all about project managers and the value they bring to their teams.
 
+> 到目前为止，您已经开始了解项目经理以及他们为团队带来的价值。
 
+We also introduced you to a few program managers here at Google, who spoke about their own experiences working in the field. 
 
+> 我们还向你介绍了谷歌的几位项目经理，他们讲述了自己在这个领域的工作经历。
 
+You also learned more about the day-to-day responsibilities of a project manager and how they guide their teammates to do their best work.
 
+> 您还了解了项目经理的日常职责，以及他们如何指导团队成员将工作做到最好。
 
+And you learned about the types of skills you'll need to succeed in a program management role.
 
+> 并且您了解了在项目管理角色中成功所需的技能类型。
 
+As we move forward, you'll develop and hone-磨练,训练 lots of the skills needed for the daily tasks of a project manager.
 
+> 随着课程的推进，你将发展和磨练项目经理日常工作所需的许多技能。
 
+And hopefully, you've also identified the skills you already have that can help you become a great project manager and an asset to employers.
 
+> 希望你也已经确定了你已经拥有的技能，这些技能可以帮助你成为一名优秀的项目经理和雇主的资产。
 
+---
 
+Next up, we'll discuss the project life cycle.
 
+> 接下来，我们将讨论项目生命周期。
 
+You'll learn more about the different phases of a project and the tasks associated with each phase.
 
+> 您将更多地了解项目的不同阶段以及与每个阶段相关的任务。
+
+You'll also learn more about some of the most popular project management methodologies used across industries today, and how to choose the best one for your project.
+
+> 您还将更多地了解当今跨行业使用的一些最流行的项目管理方法，以及如何为您的项目选择最佳方法。
+
+See you soon.
 
 
 
